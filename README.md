@@ -37,7 +37,7 @@ This repository contains everything needed to collect social chatter about Taboo
 - Node.js 18 or newer with `npm`.
 - API access for the LLMs you plan to use:
   - Google Gemini Flash for the Reddit agent (Stage 3 relevance filter) and optionally the sentiment analyzer.
-  - OpenAI Chat Completions for the HackerNews agent and  the sentiment analyzer.
+  - OpenAI for the HackerNews agent and  the sentiment analyzer.
 
 ## 1. Python Environment Setup
 
@@ -63,10 +63,7 @@ GEMINI_MODEL=gemini-2.5-flash
 LLM_MAX_WORKERS=3
 LLM_REQUEST_DELAY=0.1
 LLM_TIMEOUT=45
-REDDIT_USER_AGENT=social-listening-bot/0.1 by you@example.com
-HN_USER_AGENT=social-listening-hn-bot/0.1 by you@example.com
-HN_MAX_COMMENTS_PER_STORY=10
-HN_MAX_COMMENT_DEPTH=2
+
 ```
 
 
@@ -84,7 +81,7 @@ Common workflow:
 python reddit_ingestion_agent.py --max-posts-per-query 350 --output-path data/reddit_filtered.json
 ```
 
-- Pulls Reddit search plus DuckDuckGo fallbacks, so no Reddit OAuth keys are needed.
+- Pulls Reddit search plus DuckDuckGo fallbacks, so no Reddit Auth keys are needed.
 - Requires `GEMINI_API_KEY` and a descriptive `REDDIT_USER_AGENT`.
 - Output schema per post: `{"post": {...}, "comments": [...], "llm_filter": {...}}` wrapped in a `{"metadata": ..., "posts": [...]}` envelope.
 
