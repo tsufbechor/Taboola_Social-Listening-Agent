@@ -10,7 +10,7 @@ This repository contains everything needed to collect social chatter about Taboo
 - `AI_GENERATED_REALIZE_POSTS.json` - synthetic Taboola Realize discussions that can be processed like any other data source.
 - `sentiment_analysis/` - Sentiment Analysis:  configuration, processor, analyzer, LLM clients, tests, helper scripts.
 - `sentiment-dashboard/` - Frontend: Vite + React + Tailwind dashboard that reads the processed data.
-- 
+
 ## Visual Insights & Dashboard 
 <img width="742" height="774" alt="image" src="https://github.com/user-attachments/assets/cb0fb57a-851b-43e8-a089-0c25ce93ba3f" />
 
