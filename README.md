@@ -24,8 +24,8 @@ This repository contains everything needed to collect social chatter about Taboo
 <img width="1241" height="825" alt="image" src="https://github.com/user-attachments/assets/64fda341-1a9e-4b60-ab89-669c272ad7db" />
 
 ## Filters
+![20251117-1327-18 0383466](https://github.com/user-attachments/assets/e46f9c8e-121f-43e7-8e0f-b1d30bfba55d)
 
-![20251117-1320-48 7114658](https://github.com/user-attachments/assets/5c41f6b9-b092-471c-9ee6-cd08a0e9daa5)
 
 ## Prerequisites
 
