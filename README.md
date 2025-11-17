@@ -12,7 +12,7 @@ This repository contains everything needed to collect social chatter about Taboo
 - `sentiment-dashboard/` - Frontend: Vite + React + Tailwind dashboard that reads the processed data.
 - 
 ## Visual Insights & Dashboard 
-<img width="1877" height="906" alt="image" src="https://github.com/user-attachments/assets/ce452d4c-891c-42ca-906a-282ce64e64c6" />
+<img width="742" height="774" alt="image" src="https://github.com/user-attachments/assets/cb0fb57a-851b-43e8-a089-0c25ce93ba3f" />
 
 ## Sentiment Trends Over Time
 <img width="834" height="425" alt="image" src="https://github.com/user-attachments/assets/465dbe34-b48d-448d-9dcd-68f57c6545c6" />
@@ -22,6 +22,10 @@ This repository contains everything needed to collect social chatter about Taboo
 
 ## Posts & Comments section
 <img width="1241" height="825" alt="image" src="https://github.com/user-attachments/assets/64fda341-1a9e-4b60-ab89-669c272ad7db" />
+
+## Filters
+
+![20251117-1320-48 7114658](https://github.com/user-attachments/assets/5c41f6b9-b092-471c-9ee6-cd08a0e9daa5)
 
 ## Prerequisites
 
