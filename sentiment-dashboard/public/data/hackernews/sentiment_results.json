@@ -1,0 +1,5551 @@
+[
+  {
+    "text": "Taboola adds New York Daily News to its client list",
+    "context": "post",
+    "metadata": {
+      "id": "11160348",
+      "type": "post",
+      "subreddit": "hackernews",
+      "author": "tekheletknight",
+      "created_utc": 1456247084,
+      "score": 2,
+      "num_comments": 0,
+      "url": "http://geektime.com/2016/02/23/taboola-ups-its-reporting-innovation-with-new-york-daily-news/"
+    },
+    "analysis": {
+      "overall_sentiment": "neutral",
+      "field_sentiments": {
+        "product_quality": {
+          "sentiment": "neutral",
+          "confidence": 0.0,
+          "key_phrases": []
+        },
+        "user_experience": {
+          "sentiment": "neutral",
+          "confidence": 0.0,
+          "key_phrases": []
+        },
+        "business_practices": {
+          "sentiment": "neutral",
+          "confidence": 0.0,
+          "key_phrases": []
+        },
+        "financial_performance": {
+          "sentiment": "neutral",
+          "confidence": 0.4,
+          "key_phrases": [
+            "adds New York Daily News to its client list"
+          ]
+        },
+        "publisher_relations": {
+          "sentiment": "positive",
+          "confidence": 0.5,
+          "key_phrases": [
+            "adds New York Daily News to its client list"
+          ]
+        },
+        "advertiser_value": {
+          "sentiment": "neutral",
+          "confidence": 0.0,
+          "key_phrases": []
+        }
+      },
+      "edge_cases": {
+        "is_sarcastic": false,
+        "has_mixed_sentiment": false,
+        "is_non_english": false,
+        "language": "en",
+        "is_spam": false
+      },
+      "themes": [
+        {
+          "theme": "client_acquisition",
+          "relevance": 0.9
+        },
+        {
+          "theme": "publisher_partnerships",
+          "relevance": 0.8
+        },
+        {
+          "theme": "business_growth_signal",
+          "relevance": 0.5
+        }
+      ],
+      "reasoning": "The text is a straightforward announcement that Taboola has added New York Daily News as a client. There is no explicit opinion, praise, or criticism. It implies a positive development in publisher relations and possibly business growth, but sentiment remains largely neutral overall due to lack of evaluative language.",
+      "metadata": {
+        "id": "11160348",
+        "type": "post",
+        "subreddit": "hackernews",
+        "author": "tekheletknight",
+        "created_utc": 1456247084,
+        "score": 2,
+        "num_comments": 0,
+        "url": "http://geektime.com/2016/02/23/taboola-ups-its-reporting-innovation-with-new-york-daily-news/"
+      }
+    }
+  },
+  {
+    "text": "\"Quiet Quitting\" and Editorial Mistrust &quot;Quiet quitting&quot;, &quot;Return to work&quot;, other weird topics lately seem to pop up out of nowhere expecting to be welcomed into the lexicon. These issues get talked about as if they&#x27;re a bigger thing than what they actually are.<p>&quot;My benefactors are not impressed by your inobedience&quot;.<p>It&#x27;s writing in a way that seems like it&#x27;s not the news being reported, it&#x27;s the news seeking an anger-click by using an inflammatory title. Things appear to be only getting more sensational, more antagonistic, more like a thinly veiled attempt to convey a message of &quot;party&#x27;s over, you&#x27;ll go back to your cube or you&#x27;ll starve&quot;.<p>My hypothesis: I think new media is in a negative feedback loop. The misbehavior and editorial indiscretion we see now maybe is a result of pressure from near-instant social reporting of events and the push to regain the reader&#x27;s attention. We see more and more rushed articles with factual inaccuracies, simple typos, often the body is 1-2 sentences long, barely more expressive than the title. Headlines are also embellished to the point of being inaccurate, or rely on double-entendre to garner attention.<p>Consider this flow chart:<p>0. internet and social media reporting starts<p>1. viewership&#x2F;readership drops<p>2. post sensationalist stories to gain readers<p>3. viewership&#x2F;readership drops, mistrust created<p>4. lower the time to publish by lowering editorial standards<p>5. viewership&#x2F;readership drops, writer quality suffers<p>6. readers are gone, but a passerby&#x27;s bar is much lower, and can be attracted through positive AND negative means..<p>7. viewership&#x2F;readership drops, writers are now guest-contributors, readers are drivebys seeking only to use your article&#x27;s title to validate their own whims in online arguments<p>8. more ad spend, more &#x27;listicles&#x27; with one item per pageload, more modal dialogs, more paywall<p>9. viewership&#x2F;readership is mostly bots, scrapers, and facebook users at this point.<p>10. Speculation: This is the stage where all your readers are people who rage-clicked your stock-art thumbnail on a Taboola ad block, or the Firefox new-tab screen. You pray to be lucky enough to be the subject of a viral Reddit ragepost. You use titles and subject matter like &quot;This Mitch McConnell Dildo Is (Actually) Here for a Good Cause&quot; [0]<p>There&#x27;s a distinct feeling that we, or popular news media, have pivoted the business model to an org that is 49% ads, 50% ad tracking, and 1% content in that you still accept money from college grads to publish their &quot;opinion column&quot; ostensibly through what&#x27;s left of the brand you once had.<p>In the quest to get clicks and readers, in a world where nobody reads past the headline, where does this guide us? What is the bottom of this barrel that we&#x27;re racing to?<p>Ask yourself:<p>- When do we just give up on the story-body and just post the headline?<p>- At what point is it more profitable for news outlets to be acquired by corporations seeking to sell more goods?<p>- When does the news <i>become</i> the advertisement?<p>[o] - This Mitch McConnell Dildo Is (Actually) Here for a Good Cause - https:&#x2F;&#x2F;www.vice.com&#x2F;en&#x2F;article&#x2F;jgpvyx&#x2F;mitch-mcconnell-dame-dildo -",
+    "context": "post",
+    "metadata": {
+      "id": "33095644",
+      "type": "post",
+      "subreddit": "hackernews",
+      "author": "aliqot",
+      "created_utc": 1664978237,
+      "score": 3,
+      "num_comments": 2,
+      "url": ""
+    },
+    "analysis": {
+      "overall_sentiment": "negative",
+      "field_sentiments": {
+        "product_quality": {
+          "sentiment": "negative",
+          "confidence": 0.7,
+          "key_phrases": [
+            "more ad spend, more 'listicles' with one item per pageload",
+            "more modal dialogs",
+            "rushed articles with factual inaccuracies, simple typos"
+          ]
+        },
+        "user_experience": {
+          "sentiment": "negative",
+          "confidence": 0.95,
+          "key_phrases": [
+            "anger-click by using an inflammatory title",
+            "more sensational, more antagonistic",
+            "more 'listicles' with one item per pageload, more modal dialogs"
+          ]
+        },
+        "business_practices": {
+          "sentiment": "negative",
+          "confidence": 0.9,
+          "key_phrases": [
+            "post sensationalist stories to gain readers",
+            "lower the time to publish by lowering editorial standards",
+            "more ad spend, more 'listicles'"
+          ]
+        },
+        "financial_performance": {
+          "sentiment": "negative",
+          "confidence": 0.4,
+          "key_phrases": [
+            "viewership/readership drops",
+            "readers are gone",
+            "viewership/readership drops, mistrust created"
+          ]
+        },
+        "publisher_relations": {
+          "sentiment": "negative",
+          "confidence": 0.8,
+          "key_phrases": [
+            "editorial indiscretion",
+            "lowering editorial standards",
+            "headlines are also embellished to the point of being inaccurate"
+          ]
+        },
+        "advertiser_value": {
+          "sentiment": "negative",
+          "confidence": 0.5,
+          "key_phrases": [
+            "more ad spend",
+            "a passerby's bar is much lower, and can be attracted through positive AND negative means",
+            "drivebys seeking only to use your article's title to validate their own whims"
+          ]
+        }
+      },
+      "edge_cases": {
+        "is_sarcastic": true,
+        "has_mixed_sentiment": false,
+        "is_non_english": false,
+        "language": "en",
+        "is_spam": false
+      },
+      "themes": [
+        {
+          "theme": "sensationalism and clickbait in media",
+          "relevance": 0.98
+        },
+        {
+          "theme": "declining editorial standards and trust",
+          "relevance": 0.95
+        },
+        {
+          "theme": "ad-driven degradation of user experience",
+          "relevance": 0.9
+        }
+      ],
+      "reasoning": "The post criticizes modern ad-driven media for sensationalist headlines, degraded editorial standards, and intrusive ad formats. It describes a negative feedback loop where the pursuit of clicks and ad spend leads to mistrust, poor content quality, and a worse user experience, with no offsetting positive remarks. Sarcasm is used to mock the underlying power dynamics and messaging.",
+      "metadata": {
+        "id": "33095644",
+        "type": "post",
+        "subreddit": "hackernews",
+        "author": "aliqot",
+        "created_utc": 1664978237,
+        "score": 3,
+        "num_comments": 2,
+        "url": ""
+      }
+    }
+  },
+  {
+    "text": "I think you are overanalyzing&#x2F;overthinking this a bit.<p>All of these things have pretty much already happened.<p>The headline is the story - if anything, it has gone one step further, the URL is the story, that&#x27;s what people copy and paste to their friends with the headline embedded, nobody clicks, and if they do they don&#x27;t read it.<p>Sometimes news organizations are acquired, e.g. Sleepopolis + any and all other such websites were just bought by mattress manufacturers. Bloomberg is kind of one of the better news outfits... but it&#x27;s also kind of just an ad to sell more terminals&#x2F;subscriptions. Yelp, Glassdoor, BBB, TripAdvisor, Angies List, etc... any kind of &quot;consumer review&quot; site always ends up totally captured by the folks being reviewed.<p>Standalone news orgs like NYT, News Corp&#x2F;FOX, etc just have cozy relationships with their advertisers, so it&#x27;s pretty much an outsourcing arrangement - there&#x27;s no need for advertisers to acquire, better that they just focus on their core business and buy ads.<p>This is what you get &#x2F; can expect for &quot;free&quot;, &quot;ad supported&quot;, etc. If you want quality information, you can get it, but you&#x27;ll have to pay for it.",
+    "context": "comment",
+    "metadata": {
+      "id": "33096538",
+      "type": "comment",
+      "post_id": "33095644",
+      "author": "tacostakohashi",
+      "created_utc": 1664982541,
+      "score": 0,
+      "depth": 0
+    },
+    "analysis": {
+      "overall_sentiment": "negative",
+      "field_sentiments": {
+        "product_quality": {
+          "sentiment": "negative",
+          "confidence": 0.7,
+          "key_phrases": [
+            "the URL is the story ... nobody clicks, and if they do they don't read it",
+            "This is what you get / can expect for \"free\", \"ad supported\""
+          ]
+        },
+        "user_experience": {
+          "sentiment": "negative",
+          "confidence": 0.8,
+          "key_phrases": [
+            "the URL is the story ... nobody clicks, and if they do they don't read it",
+            "This is what you get / can expect for \"free\", \"ad supported\""
+          ]
+        },
+        "business_practices": {
+          "sentiment": "negative",
+          "confidence": 0.95,
+          "key_phrases": [
+            "any kind of \"consumer review\" site always ends up totally captured by the folks being reviewed",
+            "news organizations are acquired ... were just bought by mattress manufacturers",
+            "cozy relationships with their advertisers"
+          ]
+        },
+        "financial_performance": {
+          "sentiment": "neutral",
+          "confidence": 0.1,
+          "key_phrases": []
+        },
+        "publisher_relations": {
+          "sentiment": "negative",
+          "confidence": 0.9,
+          "key_phrases": [
+            "cozy relationships with their advertisers",
+            "it's pretty much an outsourcing arrangement",
+            "This is what you get / can expect for \"free\", \"ad supported\""
+          ]
+        },
+        "advertiser_value": {
+          "sentiment": "neutral",
+          "confidence": 0.4,
+          "key_phrases": [
+            "better that they just focus on their core business and buy ads"
+          ]
+        }
+      },
+      "edge_cases": {
+        "is_sarcastic": false,
+        "has_mixed_sentiment": true,
+        "is_non_english": false,
+        "language": "en",
+        "is_spam": false
+      },
+      "themes": [
+        {
+          "theme": "Ad-supported media bias and capture",
+          "relevance": 0.98
+        },
+        {
+          "theme": "Degradation of information quality in free content",
+          "relevance": 0.9
+        },
+        {
+          "theme": "Structural dependence of publishers on advertisers",
+          "relevance": 0.85
+        }
+      ],
+      "reasoning": "The commenter criticizes ad-supported and review-based media as captured by advertisers, with headlines/URLs replacing substantive content. They describe cozy advertiser–publisher relationships and acquisitions that compromise independence. While mostly negative about quality and integrity, they acknowledge that advertisers efficiently buy ads without owning publishers, and that paid content can be higher quality, creating a mixed but predominantly negative view of the ad-driven ecosystem.",
+      "metadata": {
+        "id": "33096538",
+        "type": "comment",
+        "post_id": "33095644",
+        "author": "tacostakohashi",
+        "created_utc": 1664982541,
+        "score": 0,
+        "depth": 0
+      }
+    }
+  },
+  {
+    "text": "I agree. My two cents[0].<p>And another thing about these inflammatory headlines is the Boomers VS. Millennials or something about Gen Z; and yet it seems everyone forgets about Gen X for some reason. It really makes one think. ;-)<p>[0] - <a href=\"https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=30177963\" rel=\"nofollow\">https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=30177963</a>",
+    "context": "comment",
+    "metadata": {
+      "id": "33096847",
+      "type": "comment",
+      "post_id": "33095644",
+      "author": "throwaway29303",
+      "created_utc": 1664983803,
+      "score": 0,
+      "depth": 0
+    },
+    "analysis": {
+      "overall_sentiment": "neutral",
+      "field_sentiments": {
+        "product_quality": {
+          "sentiment": "neutral",
+          "confidence": 0.0,
+          "key_phrases": []
+        },
+        "user_experience": {
+          "sentiment": "neutral",
+          "confidence": 0.0,
+          "key_phrases": []
+        },
+        "business_practices": {
+          "sentiment": "neutral",
+          "confidence": 0.0,
+          "key_phrases": []
+        },
+        "financial_performance": {
+          "sentiment": "neutral",
+          "confidence": 0.0,
+          "key_phrases": []
+        },
+        "publisher_relations": {
+          "sentiment": "neutral",
+          "confidence": 0.0,
+          "key_phrases": []
+        },
+        "advertiser_value": {
+          "sentiment": "neutral",
+          "confidence": 0.0,
+          "key_phrases": []
+        }
+      },
+      "edge_cases": {
+        "is_sarcastic": true,
+        "has_mixed_sentiment": false,
+        "is_non_english": false,
+        "language": "en",
+        "is_spam": false
+      },
+      "themes": [
+        {
+          "theme": "Generational_discussion",
+          "relevance": 0.95
+        },
+        {
+          "theme": "Media_headlines_and_framing",
+          "relevance": 0.8
+        },
+        {
+          "theme": "Gen_X_omission",
+          "relevance": 0.75
+        }
+      ],
+      "reasoning": "The comment doesn’t mention Taboola or any ad-tech-specific aspects. It focuses on media framing of generational conflicts and the omission of Gen X, with a mildly sarcastic tone (“It really makes one think. ;-)”). Therefore, all company-related fields are not applicable and set to neutral with zero confidence.",
+      "metadata": {
+        "id": "33096847",
+        "type": "comment",
+        "post_id": "33095644",
+        "author": "throwaway29303",
+        "created_utc": 1664983803,
+        "score": 0,
+        "depth": 0
+      }
+    }
+  },
+  {
+    "text": "Ask HN: Ad Networks that support https? I am trying to find an ad network that will work for https pages but I can&#x27;t seem to find any reputable networks.<p>Right now I use AdSense and taboola, but I would like another full featured CPM ad network for standard size banner ads.<p>Any ideas?",
+    "context": "post",
+    "metadata": {
+      "id": "8574014",
+      "type": "post",
+      "subreddit": "hackernews",
+      "author": "sslpls",
+      "created_utc": 1415386070,
+      "score": 1,
+      "num_comments": 0,
+      "url": ""
+    },
+    "analysis": {
+      "overall_sentiment": "neutral",
+      "field_sentiments": {
+        "product_quality": {
+          "sentiment": "neutral",
+          "confidence": 0.4,
+          "key_phrases": [
+            "I use AdSense and taboola",
+            "I would like another full featured CPM ad network"
+          ]
+        },
+        "user_experience": {
+          "sentiment": "neutral",
+          "confidence": 0.2,
+          "key_phrases": []
+        },
+        "business_practices": {
+          "sentiment": "neutral",
+          "confidence": 0.2,
+          "key_phrases": []
+        },
+        "financial_performance": {
+          "sentiment": "neutral",
+          "confidence": 0.0,
+          "key_phrases": []
+        },
+        "publisher_relations": {
+          "sentiment": "neutral",
+          "confidence": 0.3,
+          "key_phrases": [
+            "I use AdSense and taboola",
+            "I am trying to find an ad network that will work for https pages"
+          ]
+        },
+        "advertiser_value": {
+          "sentiment": "neutral",
+          "confidence": 0.0,
+          "key_phrases": []
+        }
+      },
+      "edge_cases": {
+        "is_sarcastic": false,
+        "has_mixed_sentiment": false,
+        "is_non_english": false,
+        "language": "en",
+        "is_spam": false
+      },
+      "themes": [
+        {
+          "theme": "Need for HTTPS-compatible ad networks",
+          "relevance": 0.95
+        },
+        {
+          "theme": "Current use of AdSense and Taboola",
+          "relevance": 0.8
+        },
+        {
+          "theme": "Search for reputable CPM banner ad network",
+          "relevance": 0.8
+        }
+      ],
+      "reasoning": "The post is a neutral, factual request for recommendations. Taboola is mentioned as currently in use, without praise or criticism. The main focus is on finding an HTTPS-compatible, reputable CPM ad network, not on evaluating Taboola’s quality, UX, or business practices. No sarcasm or mixed sentiment is present.",
+      "metadata": {
+        "id": "8574014",
+        "type": "post",
+        "subreddit": "hackernews",
+        "author": "sslpls",
+        "created_utc": 1415386070,
+        "score": 1,
+        "num_comments": 0,
+        "url": ""
+      }
+    }
+  },
+  {
+    "text": "How to Become at User Acquisition with Native Advertising? Hey guys!<p>I wanted to let you know a good friend of mine (Lior Vexler) is hosting a Zoom webinar&#x2F;presentation about Native advertising next week. \nIf anyone wants to jump in (it&#x27;s for free for all of you guys), please email me at Itay.forer@gmail.com. I will send you all the details.<p>Here is some more info:<p>In this one hour session, Lior Vexler will share different strategies and tactics of effectively acquiring new users. He will explore, including content platforms such as Taboola &amp; Outbrain.<p>Why:<p>Every founder who just got funding knows how challenging it can be to focus the right time and energy for the right marketing efforts. There are many platforms out there, many strategies. Which one should you choose? Should the marketing efforts stay in-house or be leveraged to an agency? So many questions and decisions to be answered.<p>What Is Native Advertising?<p>Native advertising is the use of paid ads that match the look, feel, and function of the media format in which they appear. Content advertising is merely advertising your content. It&#x27;s an effective strategy because the competition for organic reach is off the charts.",
+    "context": "post",
+    "metadata": {
+      "id": "24071570",
+      "type": "post",
+      "subreddit": "hackernews",
+      "author": "Itay_Forer",
+      "created_utc": 1596726430,
+      "score": 1,
+      "num_comments": 0,
+      "url": ""
+    },
+    "analysis": {
+      "overall_sentiment": "positive",
+      "field_sentiments": {
+        "product_quality": {
+          "sentiment": "positive",
+          "confidence": 0.7,
+          "key_phrases": [
+            "different strategies and tactics of effectively acquiring new users",
+            "explore, including content platforms such as Taboola & Outbrain",
+            "It’s an effective strategy because the competition for organic reach is off the charts"
+          ]
+        },
+        "user_experience": {
+          "sentiment": "neutral",
+          "confidence": 0.2,
+          "key_phrases": []
+        },
+        "business_practices": {
+          "sentiment": "neutral",
+          "confidence": 0.3,
+          "key_phrases": [
+            "Should the marketing efforts stay in-house or be leveraged to an agency?",
+            "There are many platforms out there, many strategies"
+          ]
+        },
+        "financial_performance": {
+          "sentiment": "neutral",
+          "confidence": 0.0,
+          "key_phrases": []
+        },
+        "publisher_relations": {
+          "sentiment": "neutral",
+          "confidence": 0.0,
+          "key_phrases": []
+        },
+        "advertiser_value": {
+          "sentiment": "positive",
+          "confidence": 0.8,
+          "key_phrases": [
+            "effectively acquiring new users",
+            "Native advertising is the use of paid ads that match the look, feel, and function of the media format",
+            "It’s an effective strategy"
+          ]
+        }
+      },
+      "edge_cases": {
+        "is_sarcastic": false,
+        "has_mixed_sentiment": false,
+        "is_non_english": false,
+        "language": "en",
+        "is_spam": true
+      },
+      "themes": [
+        {
+          "theme": "Native advertising education and strategies",
+          "relevance": 0.95
+        },
+        {
+          "theme": "User acquisition and growth marketing",
+          "relevance": 0.9
+        },
+        {
+          "theme": "Choice of marketing channels and agencies",
+          "relevance": 0.7
+        }
+      ],
+      "reasoning": "The post promotes a free webinar on native advertising and user acquisition, mentioning Taboola positively as an example platform. It frames native ads as effective and useful for founders, without criticism of Taboola, user experience, or business practices. No financial or publisher aspects are discussed. Tone is promotional, not sarcastic, and resembles self-promotion, so it is likely spam-like content in a Reddit context.",
+      "metadata": {
+        "id": "24071570",
+        "type": "post",
+        "subreddit": "hackernews",
+        "author": "Itay_Forer",
+        "created_utc": 1596726430,
+        "score": 1,
+        "num_comments": 0,
+        "url": ""
+      }
+    }
+  },
+  {
+    "text": "Taboola, Outbrain and the Chum Supply Chain",
+    "context": "post",
+    "metadata": {
+      "id": "20409693",
+      "type": "post",
+      "subreddit": "hackernews",
+      "author": "ksajadi",
+      "created_utc": 1562829444,
+      "score": 208,
+      "num_comments": 127,
+      "url": "https://themargins.substack.com/p/taboola-outbrain-and-the-chum-supply"
+    },
+    "analysis": {
+      "overall_sentiment": "neutral",
+      "field_sentiments": {
+        "product_quality": {
+          "sentiment": "neutral",
+          "confidence": 0.0,
+          "key_phrases": []
+        },
+        "user_experience": {
+          "sentiment": "neutral",
+          "confidence": 0.0,
+          "key_phrases": []
+        },
+        "business_practices": {
+          "sentiment": "neutral",
+          "confidence": 0.0,
+          "key_phrases": []
+        },
+        "financial_performance": {
+          "sentiment": "neutral",
+          "confidence": 0.0,
+          "key_phrases": []
+        },
+        "publisher_relations": {
+          "sentiment": "neutral",
+          "confidence": 0.0,
+          "key_phrases": []
+        },
+        "advertiser_value": {
+          "sentiment": "neutral",
+          "confidence": 0.0,
+          "key_phrases": []
+        }
+      },
+      "edge_cases": {
+        "is_sarcastic": false,
+        "has_mixed_sentiment": false,
+        "is_non_english": false,
+        "language": "en",
+        "is_spam": false
+      },
+      "themes": [
+        {
+          "theme": "insufficient_text_for_sentiment",
+          "relevance": 1.0
+        },
+        {
+          "theme": "mention_of_ad_tech_brands",
+          "relevance": 0.7
+        },
+        {
+          "theme": "content_recommendation_space",
+          "relevance": 0.4
+        }
+      ],
+      "reasoning": "The text only contains a title mentioning Taboola, Outbrain, and the ‘Chum Supply Chain’ without any evaluative language. There are no explicit or implicit opinions about product quality, user experience, business practices, financial performance, publisher relations, or advertiser value, so all field confidences are set to 0.",
+      "metadata": {
+        "id": "20409693",
+        "type": "post",
+        "subreddit": "hackernews",
+        "author": "ksajadi",
+        "created_utc": 1562829444,
+        "score": 208,
+        "num_comments": 127,
+        "url": "https://themargins.substack.com/p/taboola-outbrain-and-the-chum-supply"
+      }
+    }
+  },
+  {
+    "text": "Here&#x27;s Adblock Plus adding Taboola to their &quot;Acceptable Ads&quot; programme to allow those ads to show - enabled by default when you install it: <a href=\"https:&#x2F;&#x2F;adblockplus.org&#x2F;forum&#x2F;viewtopic.php?f=12&amp;t=25991\" rel=\"nofollow\">https:&#x2F;&#x2F;adblockplus.org&#x2F;forum&#x2F;viewtopic.php?f=12&amp;t=25991</a><p>If you haven&#x27;t already switched, please install and encourage others to install uBlock Origin: <a href=\"https:&#x2F;&#x2F;github.com&#x2F;gorhill&#x2F;uBlock\" rel=\"nofollow\">https:&#x2F;&#x2F;github.com&#x2F;gorhill&#x2F;uBlock</a>",
+    "context": "comment",
+    "metadata": {
+      "id": "20410249",
+      "type": "comment",
+      "post_id": "20409693",
+      "author": "k1m",
+      "created_utc": 1562837517,
+      "score": 0,
+      "depth": 0
+    },
+    "analysis": {
+      "overall_sentiment": "negative",
+      "field_sentiments": {
+        "product_quality": {
+          "sentiment": "negative",
+          "confidence": 0.7,
+          "key_phrases": [
+            "adding Taboola to their \"Acceptable Ads\" programme",
+            "please install and encourage others to install uBlock Origin"
+          ]
+        },
+        "user_experience": {
+          "sentiment": "negative",
+          "confidence": 0.8,
+          "key_phrases": [
+            "adding Taboola to their \"Acceptable Ads\" programme",
+            "allow those ads to show",
+            "please install and encourage others to install uBlock Origin"
+          ]
+        },
+        "business_practices": {
+          "sentiment": "negative",
+          "confidence": 0.85,
+          "key_phrases": [
+            "adding Taboola to their \"Acceptable Ads\" programme",
+            "enabled by default when you install it",
+            "please install and encourage others to install uBlock Origin"
+          ]
+        },
+        "financial_performance": {
+          "sentiment": "neutral",
+          "confidence": 0.0,
+          "key_phrases": []
+        },
+        "publisher_relations": {
+          "sentiment": "neutral",
+          "confidence": 0.0,
+          "key_phrases": []
+        },
+        "advertiser_value": {
+          "sentiment": "neutral",
+          "confidence": 0.2,
+          "key_phrases": [
+            "adding Taboola to their \"Acceptable Ads\" programme"
+          ]
+        }
+      },
+      "edge_cases": {
+        "is_sarcastic": false,
+        "has_mixed_sentiment": false,
+        "is_non_english": false,
+        "language": "en",
+        "is_spam": false
+      },
+      "themes": [
+        {
+          "theme": "Rejection of Taboola ads and Acceptable Ads program",
+          "relevance": 0.95
+        },
+        {
+          "theme": "Promotion of alternative ad blocker (uBlock Origin)",
+          "relevance": 0.9
+        },
+        {
+          "theme": "Default opt-in to showing ads",
+          "relevance": 0.7
+        }
+      ],
+      "reasoning": "The commenter criticizes the inclusion of Taboola in Adblock Plus’s Acceptable Ads program and the default enabling of such ads, then urges others to switch to uBlock Origin. This implies a negative view of Taboola’s impact on user experience and of the surrounding business practices. No positive aspects of Taboola are mentioned.",
+      "metadata": {
+        "id": "20410249",
+        "type": "comment",
+        "post_id": "20409693",
+        "author": "k1m",
+        "created_utc": 1562837517,
+        "score": 0,
+        "depth": 0
+      }
+    }
+  },
+  {
+    "text": "Finally, someone is talking sense about these shitty Taboola, Outbrain clickbait ads.<p>I have all the reputed news sites asking me to disable adblockers only to be shown the scum links from Taboola and Outbrain. Most times ads from Taboola and Outbrain keep showing up even when i specifically disable those divs.",
+    "context": "comment",
+    "metadata": {
+      "id": "20409809",
+      "type": "comment",
+      "post_id": "20409693",
+      "author": "samdung",
+      "created_utc": 1562831052,
+      "score": 0,
+      "depth": 0
+    },
+    "analysis": {
+      "overall_sentiment": "negative",
+      "field_sentiments": {
+        "product_quality": {
+          "sentiment": "negative",
+          "confidence": 0.98,
+          "key_phrases": [
+            "shitty Taboola, Outbrain clickbait ads",
+            "scum links from Taboola and Outbrain",
+            "keep showing up even when i specifically disable those divs"
+          ]
+        },
+        "user_experience": {
+          "sentiment": "negative",
+          "confidence": 0.99,
+          "key_phrases": [
+            "clickbait ads",
+            "keep showing up even when i specifically disable those divs",
+            "asking me to disable adblockers only to be shown the scum links"
+          ]
+        },
+        "business_practices": {
+          "sentiment": "negative",
+          "confidence": 0.9,
+          "key_phrases": [
+            "asking me to disable adblockers only to be shown the scum links",
+            "keep showing up even when i specifically disable those divs"
+          ]
+        },
+        "financial_performance": {
+          "sentiment": "neutral",
+          "confidence": 0.0,
+          "key_phrases": []
+        },
+        "publisher_relations": {
+          "sentiment": "negative",
+          "confidence": 0.85,
+          "key_phrases": [
+            "all the reputed news sites asking me to disable adblockers",
+            "only to be shown the scum links from Taboola and Outbrain"
+          ]
+        },
+        "advertiser_value": {
+          "sentiment": "neutral",
+          "confidence": 0.0,
+          "key_phrases": []
+        }
+      },
+      "edge_cases": {
+        "is_sarcastic": false,
+        "has_mixed_sentiment": false,
+        "is_non_english": false,
+        "language": "en",
+        "is_spam": false
+      },
+      "themes": [
+        {
+          "theme": "Intrusive and low-quality clickbait ads",
+          "relevance": 0.99
+        },
+        {
+          "theme": "Frustration with adblocker circumvention",
+          "relevance": 0.9
+        },
+        {
+          "theme": "Damage to reputation of news sites via Taboola/Outbrain",
+          "relevance": 0.85
+        }
+      ],
+      "reasoning": "The commenter strongly criticizes Taboola/Outbrain ads as low-quality, intrusive clickbait that persist despite user attempts to block them. They also resent reputable news sites for forcing adblocker disabling only to serve these ads. No positive aspects are mentioned, so sentiment is consistently negative across relevant fields.",
+      "metadata": {
+        "id": "20409809",
+        "type": "comment",
+        "post_id": "20409693",
+        "author": "samdung",
+        "created_utc": 1562831052,
+        "score": 0,
+        "depth": 0
+      }
+    }
+  },
+  {
+    "text": "A few years ago I got really into the (ad-supported) solitaire game included with Windows 10. I wasn&#x27;t really surprised that almost all the ads were Outbrain&#x2F;Taboola type chum, targeted at senior citizens. I was surprised that almost all of the ads were scams, promising 0% interest mortgage refinancing or threatening that you could lose your Medicare benefits, etc. I wonder why we haven&#x27;t seen backlash towards companies hosting obviously malicious ads.",
+    "context": "comment",
+    "metadata": {
+      "id": "20411397",
+      "type": "comment",
+      "post_id": "20409693",
+      "author": "mehlmao",
+      "created_utc": 1562852368,
+      "score": 0,
+      "depth": 0
+    },
+    "analysis": {
+      "overall_sentiment": "negative",
+      "field_sentiments": {
+        "product_quality": {
+          "sentiment": "neutral",
+          "confidence": 0.3,
+          "key_phrases": [
+            "Outbrain/Taboola type chum",
+            "almost all the ads were scams"
+          ]
+        },
+        "user_experience": {
+          "sentiment": "negative",
+          "confidence": 0.9,
+          "key_phrases": [
+            "almost all the ads were Outbrain/Taboola type chum",
+            "targeted at senior citizens",
+            "almost all of the ads were scams"
+          ]
+        },
+        "business_practices": {
+          "sentiment": "negative",
+          "confidence": 0.95,
+          "key_phrases": [
+            "almost all of the ads were scams",
+            "promising 0% interest mortgage refinancing",
+            "threatening that you could lose your Medicare benefits"
+          ]
+        },
+        "financial_performance": {
+          "sentiment": "neutral",
+          "confidence": 0.0,
+          "key_phrases": []
+        },
+        "publisher_relations": {
+          "sentiment": "negative",
+          "confidence": 0.8,
+          "key_phrases": [
+            "I wonder why we haven't seen backlash towards companies hosting obviously malicious ads",
+            "companies hosting obviously malicious ads"
+          ]
+        },
+        "advertiser_value": {
+          "sentiment": "negative",
+          "confidence": 0.75,
+          "key_phrases": [
+            "almost all of the ads were scams",
+            "obviously malicious ads"
+          ]
+        }
+      },
+      "edge_cases": {
+        "is_sarcastic": false,
+        "has_mixed_sentiment": false,
+        "is_non_english": false,
+        "language": "en",
+        "is_spam": false
+      },
+      "themes": [
+        {
+          "theme": "Prevalence of scam and malicious ads",
+          "relevance": 0.98
+        },
+        {
+          "theme": "Targeting vulnerable populations (senior citizens)",
+          "relevance": 0.85
+        },
+        {
+          "theme": "Lack of accountability or backlash for ad hosts",
+          "relevance": 0.8
+        }
+      ],
+      "reasoning": "The commenter criticizes the nature of Taboola/Outbrain-style ads as scammy and malicious, especially targeting seniors, and questions why companies hosting such ads face no backlash. This reflects negatively on user experience, business practices, publisher responsibility, and the value of the ad ecosystem, with no positive counterpoints.",
+      "metadata": {
+        "id": "20411397",
+        "type": "comment",
+        "post_id": "20409693",
+        "author": "mehlmao",
+        "created_utc": 1562852368,
+        "score": 0,
+        "depth": 0
+      }
+    }
+  },
+  {
+    "text": "Here&#x27;s what I don&#x27;t get:  What is being exchanged of value here?<p>In all but one case in this analysis, the only thing that is worth something is the click.  A click not leading to a credit card transaction.<p>Take the case of the 5G ad.  If you convince a user to click on that and then on one of the ads on the google results, someone gets $10.  Nothing of value unless the user also has interest in the super specialized networking equipment being sold, something that seems extraordinarily unlikely.<p>This is a form of fraud isn&#x27;t it?  You&#x27;re just putting a few million page views in the mix and calling it legitimate behavior when someone accidentally clicks once in a while.",
+    "context": "comment",
+    "metadata": {
+      "id": "20410433",
+      "type": "comment",
+      "post_id": "20409693",
+      "author": "alex_young",
+      "created_utc": 1562840389,
+      "score": 0,
+      "depth": 0
+    },
+    "analysis": {
+      "overall_sentiment": "negative",
+      "field_sentiments": {
+        "product_quality": {
+          "sentiment": "negative",
+          "confidence": 0.7,
+          "key_phrases": [
+            "This is a form of fraud isn&#x27;t it?",
+            "You&#x27;re just putting a few million page views in the mix",
+            "calling it legitimate behavior when someone accidentally clicks once in a while"
+          ]
+        },
+        "user_experience": {
+          "sentiment": "negative",
+          "confidence": 0.8,
+          "key_phrases": [
+            "accidentally clicks once in a while",
+            "You&#x27;re just putting a few million page views in the mix",
+            "What is being exchanged of value here?"
+          ]
+        },
+        "business_practices": {
+          "sentiment": "negative",
+          "confidence": 0.95,
+          "key_phrases": [
+            "This is a form of fraud isn&#x27;t it?",
+            "calling it legitimate behavior",
+            "What is being exchanged of value here?"
+          ]
+        },
+        "financial_performance": {
+          "sentiment": "negative",
+          "confidence": 0.6,
+          "key_phrases": [
+            "the only thing that is worth something is the click",
+            "Nothing of value unless the user also has interest",
+            "someone gets $10"
+          ]
+        },
+        "publisher_relations": {
+          "sentiment": "negative",
+          "confidence": 0.5,
+          "key_phrases": [
+            "putting a few million page views in the mix",
+            "calling it legitimate behavior",
+            "the only thing that is worth something is the click"
+          ]
+        },
+        "advertiser_value": {
+          "sentiment": "negative",
+          "confidence": 0.95,
+          "key_phrases": [
+            "the only thing that is worth something is the click",
+            "Nothing of value unless the user also has interest",
+            "A click not leading to a credit card transaction"
+          ]
+        }
+      },
+      "edge_cases": {
+        "is_sarcastic": false,
+        "has_mixed_sentiment": false,
+        "is_non_english": false,
+        "language": "en",
+        "is_spam": false
+      },
+      "themes": [
+        {
+          "theme": "Perceived fraud / illegitimacy of ad model",
+          "relevance": 0.98
+        },
+        {
+          "theme": "Lack of real value from clicks",
+          "relevance": 0.95
+        },
+        {
+          "theme": "Accidental and low-intent user engagement",
+          "relevance": 0.85
+        }
+      ],
+      "reasoning": "The commenter strongly criticizes the click-based model as fraudulent and value-less, emphasizing accidental clicks and lack of meaningful transactions. They question the legitimacy of the business practices and the real value delivered to advertisers and, indirectly, publishers and users. No positive aspects are mentioned.",
+      "metadata": {
+        "id": "20410433",
+        "type": "comment",
+        "post_id": "20409693",
+        "author": "alex_young",
+        "created_utc": 1562840389,
+        "score": 0,
+        "depth": 0
+      }
+    }
+  },
+  {
+    "text": "So I was idly wondering whether the UK Advertising Standards Authority had had a runin with these people, and found surprisingly few examples.<p><a href=\"https:&#x2F;&#x2F;www.asa.org.uk&#x2F;rulings&#x2F;rakuten-europe-srl-a16-335037.html\" rel=\"nofollow\">https:&#x2F;&#x2F;www.asa.org.uk&#x2F;rulings&#x2F;rakuten-europe-srl-a16-335037...</a> mug with &quot;C&quot; handle and &quot;UNT&quot; body, banned<p><a href=\"https:&#x2F;&#x2F;www.asa.org.uk&#x2F;advice-online&#x2F;recognising-ads-native-advertising.html\" rel=\"nofollow\">https:&#x2F;&#x2F;www.asa.org.uk&#x2F;advice-online&#x2F;recognising-ads-native-...</a> Ruling on &quot;native advertising&quot;, mentions Outbrain ruling <a href=\"https:&#x2F;&#x2F;www.asa.org.uk&#x2F;rulings&#x2F;Outbrain-Inc-A13-251818.html\" rel=\"nofollow\">https:&#x2F;&#x2F;www.asa.org.uk&#x2F;rulings&#x2F;Outbrain-Inc-A13-251818.html</a>",
+    "context": "comment",
+    "metadata": {
+      "id": "20410229",
+      "type": "comment",
+      "post_id": "20409693",
+      "author": "pjc50",
+      "created_utc": 1562837203,
+      "score": 0,
+      "depth": 0
+    },
+    "analysis": {
+      "overall_sentiment": "neutral",
+      "field_sentiments": {
+        "product_quality": {
+          "sentiment": "neutral",
+          "confidence": 0.0,
+          "key_phrases": []
+        },
+        "user_experience": {
+          "sentiment": "neutral",
+          "confidence": 0.0,
+          "key_phrases": []
+        },
+        "business_practices": {
+          "sentiment": "neutral",
+          "confidence": 0.4,
+          "key_phrases": [
+            "idly wondering whether the UK Advertising Standards Authority had had a runin with these people",
+            "found surprisingly few examples",
+            "Ruling on \"native advertising\""
+          ]
+        },
+        "financial_performance": {
+          "sentiment": "neutral",
+          "confidence": 0.0,
+          "key_phrases": []
+        },
+        "publisher_relations": {
+          "sentiment": "neutral",
+          "confidence": 0.0,
+          "key_phrases": []
+        },
+        "advertiser_value": {
+          "sentiment": "neutral",
+          "confidence": 0.0,
+          "key_phrases": []
+        }
+      },
+      "edge_cases": {
+        "is_sarcastic": false,
+        "has_mixed_sentiment": false,
+        "is_non_english": false,
+        "language": "en",
+        "is_spam": false
+      },
+      "themes": [
+        {
+          "theme": "regulatory_scrutiny",
+          "relevance": 0.9
+        },
+        {
+          "theme": "native_advertising_and_compliance",
+          "relevance": 0.8
+        },
+        {
+          "theme": "advertising_standards_authority_rulings",
+          "relevance": 0.8
+        }
+      ],
+      "reasoning": "The commenter is neutrally reporting that they checked UK ASA rulings related to Taboola-like companies and found few examples, linking to cases on native advertising and a specific banned ad. There is no explicit praise or criticism of Taboola’s quality, UX, or value, only mild implied concern about regulatory run-ins, so business_practices is weakly implied but still essentially neutral.",
+      "metadata": {
+        "id": "20410229",
+        "type": "comment",
+        "post_id": "20409693",
+        "author": "pjc50",
+        "created_utc": 1562837203,
+        "score": 0,
+        "depth": 0
+      }
+    }
+  },
+  {
+    "text": "I have worked in ad tech. It was fun. These types of ads were a funny joke.<p>I have also worked for US defense related companies. It was also fun and the tech was top notch.<p>Most people&#x27;s jobs in the world seem to come at someone else&#x27;s expense if you think deeply enough. Quite a shame.",
+    "context": "comment",
+    "metadata": {
+      "id": "20410124",
+      "type": "comment",
+      "post_id": "20409693",
+      "author": "etaioinshrdlu",
+      "created_utc": 1562835704,
+      "score": 0,
+      "depth": 0
+    },
+    "analysis": {
+      "overall_sentiment": "mixed",
+      "field_sentiments": {
+        "product_quality": {
+          "sentiment": "neutral",
+          "confidence": 0.3,
+          "key_phrases": [
+            "These types of ads were a funny joke",
+            "I have worked in ad tech. It was fun."
+          ]
+        },
+        "user_experience": {
+          "sentiment": "negative",
+          "confidence": 0.7,
+          "key_phrases": [
+            "These types of ads were a funny joke",
+            "come at someone else's expense"
+          ]
+        },
+        "business_practices": {
+          "sentiment": "negative",
+          "confidence": 0.8,
+          "key_phrases": [
+            "Most people's jobs in the world seem to come at someone else's expense",
+            "Quite a shame."
+          ]
+        },
+        "financial_performance": {
+          "sentiment": "neutral",
+          "confidence": 0.0,
+          "key_phrases": []
+        },
+        "publisher_relations": {
+          "sentiment": "neutral",
+          "confidence": 0.0,
+          "key_phrases": []
+        },
+        "advertiser_value": {
+          "sentiment": "neutral",
+          "confidence": 0.0,
+          "key_phrases": []
+        }
+      },
+      "edge_cases": {
+        "is_sarcastic": true,
+        "has_mixed_sentiment": true,
+        "is_non_english": false,
+        "language": "en",
+        "is_spam": false
+      },
+      "themes": [
+        {
+          "theme": "Moral ambiguity of ad tech and defense work",
+          "relevance": 0.95
+        },
+        {
+          "theme": "Personal enjoyment vs ethical cost",
+          "relevance": 0.9
+        },
+        {
+          "theme": "Cynicism about impact of jobs",
+          "relevance": 0.8
+        }
+      ],
+      "reasoning": "The commenter enjoyed working in ad tech and defense but frames both as coming at others’ expense, calling it a shame. Calling the ads a “funny joke” is lightly sarcastic and dismissive of their seriousness or value. No direct mention of financials, publisher relations, or advertiser ROI, so those are neutral with low confidence. Overall tone is ethically negative but personally somewhat positive, hence mixed sentiment.",
+      "metadata": {
+        "id": "20410124",
+        "type": "comment",
+        "post_id": "20409693",
+        "author": "etaioinshrdlu",
+        "created_utc": 1562835704,
+        "score": 0,
+        "depth": 0
+      }
+    }
+  },
+  {
+    "text": "I sincerely hate these accursed things. Loathe them. Installed an ad blocker with the specific intent to rid myself of them.",
+    "context": "comment",
+    "metadata": {
+      "id": "20409859",
+      "type": "comment",
+      "post_id": "20409693",
+      "author": "shedside",
+      "created_utc": 1562831828,
+      "score": 0,
+      "depth": 0
+    },
+    "analysis": {
+      "overall_sentiment": "negative",
+      "field_sentiments": {
+        "product_quality": {
+          "sentiment": "negative",
+          "confidence": 0.95,
+          "key_phrases": [
+            "I sincerely hate these accursed things",
+            "Loathe them",
+            "rid myself of them"
+          ]
+        },
+        "user_experience": {
+          "sentiment": "negative",
+          "confidence": 0.95,
+          "key_phrases": [
+            "I sincerely hate these accursed things",
+            "Loathe them",
+            "rid myself of them"
+          ]
+        },
+        "business_practices": {
+          "sentiment": "neutral",
+          "confidence": 0.0,
+          "key_phrases": []
+        },
+        "financial_performance": {
+          "sentiment": "neutral",
+          "confidence": 0.0,
+          "key_phrases": []
+        },
+        "publisher_relations": {
+          "sentiment": "neutral",
+          "confidence": 0.0,
+          "key_phrases": []
+        },
+        "advertiser_value": {
+          "sentiment": "neutral",
+          "confidence": 0.0,
+          "key_phrases": []
+        }
+      },
+      "edge_cases": {
+        "is_sarcastic": false,
+        "has_mixed_sentiment": false,
+        "is_non_english": false,
+        "language": "en",
+        "is_spam": false
+      },
+      "themes": [
+        {
+          "theme": "Strong dislike/hatred of Taboola ads",
+          "relevance": 1.0
+        },
+        {
+          "theme": "Active avoidance via ad blocker",
+          "relevance": 0.9
+        },
+        {
+          "theme": "Negative user experience with ad widgets",
+          "relevance": 0.8
+        }
+      ],
+      "reasoning": "The commenter expresses intense dislike (“hate”, “loathe”) and took concrete action (installing an ad blocker) specifically to avoid Taboola ads. This clearly indicates negative sentiment toward product quality and user experience. No information is given about business practices, financial performance, publisher relations, or advertiser value.",
+      "metadata": {
+        "id": "20409859",
+        "type": "comment",
+        "post_id": "20409693",
+        "author": "shedside",
+        "created_utc": 1562831828,
+        "score": 0,
+        "depth": 0
+      }
+    }
+  },
+  {
+    "text": "I interviewed for a role at outbrain as like a... Junior account manager or something, before retraining as a Dev. So glad i missed that noise. I was a tester at an agency and that was ok and worked on some cool stuff... But this would not have been my speed at all. I didn&#x27;t really know much about outbrain when I interviewed for the job, what an eye opening article.",
+    "context": "comment",
+    "metadata": {
+      "id": "20410350",
+      "type": "comment",
+      "post_id": "20409693",
+      "author": "hope_canyon",
+      "created_utc": 1562838928,
+      "score": 0,
+      "depth": 0
+    },
+    "analysis": {
+      "overall_sentiment": "negative",
+      "field_sentiments": {
+        "product_quality": {
+          "sentiment": "negative",
+          "confidence": 0.7,
+          "key_phrases": [
+            "So glad i missed that noise",
+            "this would not have been my speed at all",
+            "what an eye opening article"
+          ]
+        },
+        "user_experience": {
+          "sentiment": "negative",
+          "confidence": 0.7,
+          "key_phrases": [
+            "So glad i missed that noise",
+            "this would not have been my speed at all"
+          ]
+        },
+        "business_practices": {
+          "sentiment": "negative",
+          "confidence": 0.6,
+          "key_phrases": [
+            "So glad i missed that noise",
+            "what an eye opening article"
+          ]
+        },
+        "financial_performance": {
+          "sentiment": "neutral",
+          "confidence": 0.0,
+          "key_phrases": []
+        },
+        "publisher_relations": {
+          "sentiment": "neutral",
+          "confidence": 0.0,
+          "key_phrases": []
+        },
+        "advertiser_value": {
+          "sentiment": "neutral",
+          "confidence": 0.0,
+          "key_phrases": []
+        }
+      },
+      "edge_cases": {
+        "is_sarcastic": false,
+        "has_mixed_sentiment": false,
+        "is_non_english": false,
+        "language": "en",
+        "is_spam": false
+      },
+      "themes": [
+        {
+          "theme": "Relief at not joining the company",
+          "relevance": 0.95
+        },
+        {
+          "theme": "Negative perception after learning more",
+          "relevance": 0.9
+        },
+        {
+          "theme": "Career redirection to development",
+          "relevance": 0.6
+        }
+      ],
+      "reasoning": "The commenter expresses relief at not taking the Outbrain role and implies the company/role is undesirable after reading an article. Phrases like “missed that noise” and “not have been my speed at all” indicate a negative view of the product/experience and likely business environment, with no positive counterpoints, leading to an overall negative sentiment.",
+      "metadata": {
+        "id": "20410350",
+        "type": "comment",
+        "post_id": "20409693",
+        "author": "hope_canyon",
+        "created_utc": 1562838928,
+        "score": 0,
+        "depth": 0
+      }
+    }
+  },
+  {
+    "text": "Easily one of the grubbiest forms of advertising on the web. Hollow, vapid and devoid of value other than for the advertiser. &quot;Chum&quot; is the right word.",
+    "context": "comment",
+    "metadata": {
+      "id": "20409835",
+      "type": "comment",
+      "post_id": "20409693",
+      "author": "ablation",
+      "created_utc": 1562831486,
+      "score": 0,
+      "depth": 0
+    },
+    "analysis": {
+      "overall_sentiment": "negative",
+      "field_sentiments": {
+        "product_quality": {
+          "sentiment": "negative",
+          "confidence": 0.96,
+          "key_phrases": [
+            "grubbiest forms of advertising",
+            "hollow, vapid and devoid of value",
+            "\"Chum\" is the right word"
+          ]
+        },
+        "user_experience": {
+          "sentiment": "negative",
+          "confidence": 0.9,
+          "key_phrases": [
+            "grubbiest forms of advertising",
+            "hollow, vapid and devoid of value"
+          ]
+        },
+        "business_practices": {
+          "sentiment": "negative",
+          "confidence": 0.7,
+          "key_phrases": [
+            "grubbiest forms of advertising",
+            "devoid of value other than for the advertiser"
+          ]
+        },
+        "financial_performance": {
+          "sentiment": "neutral",
+          "confidence": 0.0,
+          "key_phrases": []
+        },
+        "publisher_relations": {
+          "sentiment": "neutral",
+          "confidence": 0.0,
+          "key_phrases": []
+        },
+        "advertiser_value": {
+          "sentiment": "positive",
+          "confidence": 0.6,
+          "key_phrases": [
+            "value other than for the advertiser"
+          ]
+        }
+      },
+      "edge_cases": {
+        "is_sarcastic": false,
+        "has_mixed_sentiment": true,
+        "is_non_english": false,
+        "language": "en",
+        "is_spam": false
+      },
+      "themes": [
+        {
+          "theme": "Low content quality",
+          "relevance": 0.98
+        },
+        {
+          "theme": "User-hostile advertising",
+          "relevance": 0.9
+        },
+        {
+          "theme": "Value skewed toward advertisers",
+          "relevance": 0.75
+        }
+      ],
+      "reasoning": "The commenter strongly criticizes Taboola-style ads as low-quality and worthless to users, calling them grubby, hollow, and vapid. They explicitly say the only value is for advertisers, implying negative sentiment for product quality, user experience, and business ethics, but relatively positive value for advertisers. No financial, publisher, or performance aspects are mentioned.",
+      "metadata": {
+        "id": "20409835",
+        "type": "comment",
+        "post_id": "20409693",
+        "author": "ablation",
+        "created_utc": 1562831486,
+        "score": 0,
+        "depth": 0
+      }
+    }
+  },
+  {
+    "text": "A decade of free online news subsidized by the dying gasp of the news industry has set us up perfectly for this.<p>Going forward, that subsidization will finish evaporating and the only news media that can earn ad dollars will be either sponsored content or have chum strewn across them.  Buy gold, miracle cures, payday loan, t&amp;a.<p>Expect the chum to be optimized, enhanced, and enriched.",
+    "context": "comment",
+    "metadata": {
+      "id": "20410943",
+      "type": "comment",
+      "post_id": "20409693",
+      "author": "blueboo",
+      "created_utc": 1562847730,
+      "score": 0,
+      "depth": 0
+    },
+    "analysis": {
+      "overall_sentiment": "negative",
+      "field_sentiments": {
+        "product_quality": {
+          "sentiment": "negative",
+          "confidence": 0.8,
+          "key_phrases": [
+            "chum strewn across them",
+            "Buy gold, miracle cures, payday loan, t&a",
+            "chum to be optimized, enhanced, and enriched"
+          ]
+        },
+        "user_experience": {
+          "sentiment": "negative",
+          "confidence": 0.85,
+          "key_phrases": [
+            "chum strewn across them",
+            "only news media that can earn ad dollars",
+            "Expect the chum to be optimized, enhanced, and enriched"
+          ]
+        },
+        "business_practices": {
+          "sentiment": "negative",
+          "confidence": 0.9,
+          "key_phrases": [
+            "only news media that can earn ad dollars will be either sponsored content",
+            "Buy gold, miracle cures, payday loan, t&a",
+            "subsidization will finish evaporating"
+          ]
+        },
+        "financial_performance": {
+          "sentiment": "neutral",
+          "confidence": 0.3,
+          "key_phrases": []
+        },
+        "publisher_relations": {
+          "sentiment": "negative",
+          "confidence": 0.75,
+          "key_phrases": [
+            "free online news subsidized by the dying gasp of the news industry",
+            "Going forward, that subsidization will finish evaporating",
+            "only news media that can earn ad dollars will be either sponsored content"
+          ]
+        },
+        "advertiser_value": {
+          "sentiment": "negative",
+          "confidence": 0.7,
+          "key_phrases": [
+            "only news media that can earn ad dollars",
+            "sponsored content",
+            "Buy gold, miracle cures, payday loan, t&a"
+          ]
+        }
+      },
+      "edge_cases": {
+        "is_sarcastic": true,
+        "has_mixed_sentiment": false,
+        "is_non_english": false,
+        "language": "en",
+        "is_spam": false
+      },
+      "themes": [
+        {
+          "theme": "Degradation of news quality due to ad-driven models",
+          "relevance": 0.95
+        },
+        {
+          "theme": "Rise of low-quality, clickbait or exploitative ads",
+          "relevance": 0.9
+        },
+        {
+          "theme": "Collapse of traditional news subsidization",
+          "relevance": 0.8
+        }
+      ],
+      "reasoning": "The commenter criticizes the ad-driven future of news, describing it as filled with low-quality, exploitative ‘chum’ and sponsored content. The tone is pessimistic and sarcastic, implying that ad tech like Taboola degrades user experience, harms publisher economics, and incentivizes low-value advertising. No positive aspects are mentioned.",
+      "metadata": {
+        "id": "20410943",
+        "type": "comment",
+        "post_id": "20409693",
+        "author": "blueboo",
+        "created_utc": 1562847730,
+        "score": 0,
+        "depth": 0
+      }
+    }
+  },
+  {
+    "text": "Taboola and Outbrain are merging to create a clickbait giant",
+    "context": "post",
+    "metadata": {
+      "id": "21175145",
+      "type": "post",
+      "subreddit": "hackernews",
+      "author": "danso",
+      "created_utc": 1570396105,
+      "score": 125,
+      "num_comments": 62,
+      "url": "https://www.nytimes.com/2019/10/04/business/media/online-advertising-chumbox-merger.html"
+    },
+    "analysis": {
+      "overall_sentiment": "negative",
+      "field_sentiments": {
+        "product_quality": {
+          "sentiment": "negative",
+          "confidence": 0.8,
+          "key_phrases": [
+            "clickbait giant"
+          ]
+        },
+        "user_experience": {
+          "sentiment": "negative",
+          "confidence": 0.7,
+          "key_phrases": [
+            "clickbait giant"
+          ]
+        },
+        "business_practices": {
+          "sentiment": "negative",
+          "confidence": 0.8,
+          "key_phrases": [
+            "are merging to create a clickbait giant"
+          ]
+        },
+        "financial_performance": {
+          "sentiment": "neutral",
+          "confidence": 0.0,
+          "key_phrases": []
+        },
+        "publisher_relations": {
+          "sentiment": "neutral",
+          "confidence": 0.0,
+          "key_phrases": []
+        },
+        "advertiser_value": {
+          "sentiment": "neutral",
+          "confidence": 0.0,
+          "key_phrases": []
+        }
+      },
+      "edge_cases": {
+        "is_sarcastic": false,
+        "has_mixed_sentiment": false,
+        "is_non_english": false,
+        "language": "en",
+        "is_spam": false
+      },
+      "themes": [
+        {
+          "theme": "clickbait and low-quality content",
+          "relevance": 0.95
+        },
+        {
+          "theme": "industry consolidation/merger",
+          "relevance": 0.9
+        },
+        {
+          "theme": "negative perception of ad tech",
+          "relevance": 0.75
+        }
+      ],
+      "reasoning": "Calling the merged company a “clickbait giant” implies criticism of content quality and user experience, and frames the merger as creating something undesirable. No explicit mention of financials, publisher relations, or advertiser value, so those are left as not discussed.",
+      "metadata": {
+        "id": "21175145",
+        "type": "post",
+        "subreddit": "hackernews",
+        "author": "danso",
+        "created_utc": 1570396105,
+        "score": 125,
+        "num_comments": 62,
+        "url": "https://www.nytimes.com/2019/10/04/business/media/online-advertising-chumbox-merger.html"
+      }
+    }
+  },
+  {
+    "text": "Why is this cancer allowed to exist and not blocked by every antimalware&#x2F;safe browsing lists? They fit most definitions of malware, it&#x27;s annoying, designed to trick&#x2F;mislead you, can lead you to other malware, and spies on you (so it&#x27;s spyware as well).",
+    "context": "comment",
+    "metadata": {
+      "id": "21189960",
+      "type": "comment",
+      "post_id": "21175145",
+      "author": "Nextgrid",
+      "created_utc": 1570522975,
+      "score": 0,
+      "depth": 0
+    },
+    "analysis": {
+      "overall_sentiment": "negative",
+      "field_sentiments": {
+        "product_quality": {
+          "sentiment": "negative",
+          "confidence": 0.98,
+          "key_phrases": [
+            "Why is this cancer allowed to exist",
+            "They fit most definitions of malware",
+            "it's annoying"
+          ]
+        },
+        "user_experience": {
+          "sentiment": "negative",
+          "confidence": 0.99,
+          "key_phrases": [
+            "it's annoying",
+            "designed to trick/mislead you",
+            "can lead you to other malware"
+          ]
+        },
+        "business_practices": {
+          "sentiment": "negative",
+          "confidence": 0.96,
+          "key_phrases": [
+            "designed to trick/mislead you",
+            "spies on you (so it's spyware as well)",
+            "fit most definitions of malware"
+          ]
+        },
+        "financial_performance": {
+          "sentiment": "neutral",
+          "confidence": 0.0,
+          "key_phrases": []
+        },
+        "publisher_relations": {
+          "sentiment": "neutral",
+          "confidence": 0.0,
+          "key_phrases": []
+        },
+        "advertiser_value": {
+          "sentiment": "neutral",
+          "confidence": 0.0,
+          "key_phrases": []
+        }
+      },
+      "edge_cases": {
+        "is_sarcastic": false,
+        "has_mixed_sentiment": false,
+        "is_non_english": false,
+        "language": "en",
+        "is_spam": false
+      },
+      "themes": [
+        {
+          "theme": "Malware-like behavior and spyware",
+          "relevance": 0.99
+        },
+        {
+          "theme": "Deceptive and misleading design",
+          "relevance": 0.95
+        },
+        {
+          "theme": "User annoyance and safety concerns",
+          "relevance": 0.9
+        }
+      ],
+      "reasoning": "The commenter strongly condemns Taboola, comparing it to malware and spyware, emphasizing deception, tracking, and user harm. No positive aspects are mentioned, and there is no discussion of financials, publisher relations, or advertiser value. The tone is direct and hostile rather than sarcastic, leading to a clearly negative, not mixed, sentiment.",
+      "metadata": {
+        "id": "21189960",
+        "type": "comment",
+        "post_id": "21175145",
+        "author": "Nextgrid",
+        "created_utc": 1570522975,
+        "score": 0,
+        "depth": 0
+      }
+    }
+  },
+  {
+    "text": "&gt; Adam Singolda, who runs Taboola and will take charge of the combined company, characterized the deal in a statement as a way to “create a more robust competitor to Facebook and Google” while “strengthening journalism.”<p>Do potential investors&#x2F;employees actually believe this kind of drivel or is it a sort of expected formalistic dance?",
+    "context": "comment",
+    "metadata": {
+      "id": "21190013",
+      "type": "comment",
+      "post_id": "21175145",
+      "author": "Angostura",
+      "created_utc": 1570523478,
+      "score": 0,
+      "depth": 0
+    },
+    "analysis": {
+      "overall_sentiment": "negative",
+      "field_sentiments": {
+        "product_quality": {
+          "sentiment": "neutral",
+          "confidence": 0.0,
+          "key_phrases": []
+        },
+        "user_experience": {
+          "sentiment": "neutral",
+          "confidence": 0.0,
+          "key_phrases": []
+        },
+        "business_practices": {
+          "sentiment": "negative",
+          "confidence": 0.86,
+          "key_phrases": [
+            "characterized the deal ... as a way to “create a more robust competitor to Facebook and Google” while “strengthening journalism.”",
+            "Do potential investors/employees actually believe this kind of drivel",
+            "or is it a sort of expected formalistic dance?"
+          ]
+        },
+        "financial_performance": {
+          "sentiment": "neutral",
+          "confidence": 0.0,
+          "key_phrases": []
+        },
+        "publisher_relations": {
+          "sentiment": "negative",
+          "confidence": 0.7,
+          "key_phrases": [
+            "“strengthening journalism.”",
+            "this kind of drivel",
+            "expected formalistic dance"
+          ]
+        },
+        "advertiser_value": {
+          "sentiment": "neutral",
+          "confidence": 0.0,
+          "key_phrases": []
+        }
+      },
+      "edge_cases": {
+        "is_sarcastic": true,
+        "has_mixed_sentiment": false,
+        "is_non_english": false,
+        "language": "en",
+        "is_spam": false
+      },
+      "themes": [
+        {
+          "theme": "Skepticism about corporate PR claims",
+          "relevance": 0.95
+        },
+        {
+          "theme": "Distrust of stated benefits to journalism",
+          "relevance": 0.8
+        },
+        {
+          "theme": "Perception of messaging as performative",
+          "relevance": 0.78
+        }
+      ],
+      "reasoning": "The commenter quotes Taboola’s CEO and immediately labels the messaging as “drivel” and a “formalistic dance,” implying disbelief and cynicism toward the company’s stated motives and ethics, especially around competition and strengthening journalism. No direct evaluation of product quality, UX, or financials is present.",
+      "metadata": {
+        "id": "21190013",
+        "type": "comment",
+        "post_id": "21175145",
+        "author": "Angostura",
+        "created_utc": 1570523478,
+        "score": 0,
+        "depth": 0
+      }
+    }
+  },
+  {
+    "text": "I&#x27;m very surprised that I see Outbrain ads when I visit cnn.com.  Google have a decade of of my email history, my search queries, my Android location, my YouTube history, etc, etc.  Yet apparently Outbrain&#x27;s advertising is so effective that they can offer more money to CNN to place ads.  What is going on?",
+    "context": "comment",
+    "metadata": {
+      "id": "21191637",
+      "type": "comment",
+      "post_id": "21175145",
+      "author": "MarkMc",
+      "created_utc": 1570538876,
+      "score": 0,
+      "depth": 0
+    },
+    "analysis": {
+      "overall_sentiment": "neutral",
+      "field_sentiments": {
+        "product_quality": {
+          "sentiment": "neutral",
+          "confidence": 0.4,
+          "key_phrases": [
+            "Outbrain's advertising is so effective",
+            "I see Outbrain ads when I visit cnn.com"
+          ]
+        },
+        "user_experience": {
+          "sentiment": "neutral",
+          "confidence": 0.2,
+          "key_phrases": [
+            "I see Outbrain ads when I visit cnn.com"
+          ]
+        },
+        "business_practices": {
+          "sentiment": "neutral",
+          "confidence": 0.5,
+          "key_phrases": [
+            "they can offer more money to CNN to place ads",
+            "What is going on?"
+          ]
+        },
+        "financial_performance": {
+          "sentiment": "positive",
+          "confidence": 0.6,
+          "key_phrases": [
+            "they can offer more money to CNN to place ads",
+            "Outbrain's advertising is so effective"
+          ]
+        },
+        "publisher_relations": {
+          "sentiment": "positive",
+          "confidence": 0.6,
+          "key_phrases": [
+            "they can offer more money to CNN to place ads",
+            "I see Outbrain ads when I visit cnn.com"
+          ]
+        },
+        "advertiser_value": {
+          "sentiment": "positive",
+          "confidence": 0.6,
+          "key_phrases": [
+            "Outbrain's advertising is so effective",
+            "they can offer more money to CNN to place ads"
+          ]
+        }
+      },
+      "edge_cases": {
+        "is_sarcastic": false,
+        "has_mixed_sentiment": false,
+        "is_non_english": false,
+        "language": "en",
+        "is_spam": false
+      },
+      "themes": [
+        {
+          "theme": "Competitive advantage over Google",
+          "relevance": 0.9
+        },
+        {
+          "theme": "Monetization and payout to publishers",
+          "relevance": 0.8
+        },
+        {
+          "theme": "Data vs. ad effectiveness",
+          "relevance": 0.7
+        }
+      ],
+      "reasoning": "The commenter expresses surprise that Outbrain can outbid Google on CNN despite Google’s extensive user data. This implies Outbrain is paying well and its ads are considered effective, suggesting positive sentiment on financial performance, advertiser value, and publisher relations. There is no explicit praise or criticism of user experience or product quality, and no sarcasm or spam indicators.",
+      "metadata": {
+        "id": "21191637",
+        "type": "comment",
+        "post_id": "21175145",
+        "author": "MarkMc",
+        "created_utc": 1570538876,
+        "score": 0,
+        "depth": 0
+      }
+    }
+  },
+  {
+    "text": "Had a dubious pleasure to implement both on a website of a major publisher. Eventually both got removed due to low business value. They didn&#x27;t actually drive any traffic.",
+    "context": "comment",
+    "metadata": {
+      "id": "21190012",
+      "type": "comment",
+      "post_id": "21175145",
+      "author": "dreen",
+      "created_utc": 1570523474,
+      "score": 0,
+      "depth": 0
+    },
+    "analysis": {
+      "overall_sentiment": "negative",
+      "field_sentiments": {
+        "product_quality": {
+          "sentiment": "negative",
+          "confidence": 0.8,
+          "key_phrases": [
+            "dubious pleasure to implement",
+            "both got removed",
+            "didn't actually drive any traffic"
+          ]
+        },
+        "user_experience": {
+          "sentiment": "negative",
+          "confidence": 0.6,
+          "key_phrases": [
+            "dubious pleasure to implement"
+          ]
+        },
+        "business_practices": {
+          "sentiment": "neutral",
+          "confidence": 0.0,
+          "key_phrases": []
+        },
+        "financial_performance": {
+          "sentiment": "negative",
+          "confidence": 0.9,
+          "key_phrases": [
+            "low business value",
+            "didn't actually drive any traffic"
+          ]
+        },
+        "publisher_relations": {
+          "sentiment": "negative",
+          "confidence": 0.7,
+          "key_phrases": [
+            "website of a major publisher",
+            "both got removed"
+          ]
+        },
+        "advertiser_value": {
+          "sentiment": "negative",
+          "confidence": 0.8,
+          "key_phrases": [
+            "low business value",
+            "didn't actually drive any traffic"
+          ]
+        }
+      },
+      "edge_cases": {
+        "is_sarcastic": true,
+        "has_mixed_sentiment": false,
+        "is_non_english": false,
+        "language": "en",
+        "is_spam": false
+      },
+      "themes": [
+        {
+          "theme": "Low business/traffic performance",
+          "relevance": 1.0
+        },
+        {
+          "theme": "Removal from publisher site",
+          "relevance": 0.9
+        },
+        {
+          "theme": "Negative implementation experience",
+          "relevance": 0.7
+        }
+      ],
+      "reasoning": "The commenter describes implementing Taboola (and another product) as a “dubious pleasure,” then notes they were removed due to low business value and lack of traffic. This implies poor performance for the publisher and advertisers, and a negative overall experience. No positive aspects are mentioned; tone is mildly sarcastic but consistently negative.",
+      "metadata": {
+        "id": "21190012",
+        "type": "comment",
+        "post_id": "21175145",
+        "author": "dreen",
+        "created_utc": 1570523474,
+        "score": 0,
+        "depth": 0
+      }
+    }
+  },
+  {
+    "text": "When the founders look back at their life and see &quot;litter the internet with garbage&quot; as their biggest accomplishment, I wonder if the money will be worth it.",
+    "context": "comment",
+    "metadata": {
+      "id": "21191946",
+      "type": "comment",
+      "post_id": "21175145",
+      "author": "KoftaBob",
+      "created_utc": 1570540849,
+      "score": 0,
+      "depth": 0
+    },
+    "analysis": {
+      "overall_sentiment": "negative",
+      "field_sentiments": {
+        "product_quality": {
+          "sentiment": "negative",
+          "confidence": 0.96,
+          "key_phrases": [
+            "litter the internet with garbage",
+            "biggest accomplishment"
+          ]
+        },
+        "user_experience": {
+          "sentiment": "negative",
+          "confidence": 0.9,
+          "key_phrases": [
+            "litter the internet",
+            "garbage"
+          ]
+        },
+        "business_practices": {
+          "sentiment": "negative",
+          "confidence": 0.88,
+          "key_phrases": [
+            "litter the internet with garbage",
+            "I wonder if the money will be worth it"
+          ]
+        },
+        "financial_performance": {
+          "sentiment": "neutral",
+          "confidence": 0.4,
+          "key_phrases": [
+            "I wonder if the money will be worth it"
+          ]
+        },
+        "publisher_relations": {
+          "sentiment": "neutral",
+          "confidence": 0.0,
+          "key_phrases": []
+        },
+        "advertiser_value": {
+          "sentiment": "neutral",
+          "confidence": 0.0,
+          "key_phrases": []
+        }
+      },
+      "edge_cases": {
+        "is_sarcastic": true,
+        "has_mixed_sentiment": false,
+        "is_non_english": false,
+        "language": "en",
+        "is_spam": false
+      },
+      "themes": [
+        {
+          "theme": "Low content quality",
+          "relevance": 0.98
+        },
+        {
+          "theme": "Ethical tradeoff of profit vs impact",
+          "relevance": 0.9
+        },
+        {
+          "theme": "Negative impact on the internet ecosystem",
+          "relevance": 0.85
+        }
+      ],
+      "reasoning": "The commenter criticizes Taboola’s core impact as ‘littering the internet with garbage,’ implying poor product quality and user experience. The phrase about money questions whether financial gain justifies this impact, reflecting negatively on business ethics rather than performance. Tone is sarcastic and uniformly negative, with no positive aspects mentioned.",
+      "metadata": {
+        "id": "21191946",
+        "type": "comment",
+        "post_id": "21175145",
+        "author": "KoftaBob",
+        "created_utc": 1570540849,
+        "score": 0,
+        "depth": 0
+      }
+    }
+  },
+  {
+    "text": "These two cancerous clickbait entities were basically 95% of the sole reason I started using adblockers to begin with many years ago.  I can&#x27;t stand seeing their crap on any webpage I visit. It is filth that ruins the Internet for majority of people who don&#x27;t have a mental filter to not click on this stuff.<p>The other 5% reason is malicious ads&#x2F;tracking. I&#x27;d actually be open to not running adblockers anymore if these two reasons were eliminated from the web. I&#x27;d be fine with small non tracking ads from non cringe worthy gigantic ad networks that invade basically every webpage I visit nowadays.<p>PS - Ublock Origin actually doesn&#x27;t block these two networks (Taboola&#x2F;Outbrain) by default - you have to enable Fanboys Annoyance list to do so.",
+    "context": "comment",
+    "metadata": {
+      "id": "21198158",
+      "type": "comment",
+      "post_id": "21175145",
+      "author": "Scottn1",
+      "created_utc": 1570575298,
+      "score": 0,
+      "depth": 0
+    },
+    "analysis": {
+      "overall_sentiment": "negative",
+      "field_sentiments": {
+        "product_quality": {
+          "sentiment": "negative",
+          "confidence": 0.98,
+          "key_phrases": [
+            "cancerous clickbait entities",
+            "I can't stand seeing their crap",
+            "It is filth that ruins the Internet"
+          ]
+        },
+        "user_experience": {
+          "sentiment": "negative",
+          "confidence": 0.99,
+          "key_phrases": [
+            "ruins the Internet for majority of people",
+            "I can't stand seeing their crap on any webpage I visit",
+            "invade basically every webpage I visit nowadays"
+          ]
+        },
+        "business_practices": {
+          "sentiment": "negative",
+          "confidence": 0.9,
+          "key_phrases": [
+            "malicious ads/tracking",
+            "cringe worthy gigantic ad networks",
+            "invade basically every webpage I visit"
+          ]
+        },
+        "financial_performance": {
+          "sentiment": "neutral",
+          "confidence": 0.0,
+          "key_phrases": []
+        },
+        "publisher_relations": {
+          "sentiment": "negative",
+          "confidence": 0.7,
+          "key_phrases": [
+            "ruins the Internet for majority of people",
+            "invade basically every webpage I visit"
+          ]
+        },
+        "advertiser_value": {
+          "sentiment": "negative",
+          "confidence": 0.75,
+          "key_phrases": [
+            "cancerous clickbait entities",
+            "filth that ruins the Internet",
+            "don't have a mental filter to not click on this stuff"
+          ]
+        }
+      },
+      "edge_cases": {
+        "is_sarcastic": false,
+        "has_mixed_sentiment": false,
+        "is_non_english": false,
+        "language": "en",
+        "is_spam": false
+      },
+      "themes": [
+        {
+          "theme": "Strong dislike of clickbait ad networks",
+          "relevance": 0.99
+        },
+        {
+          "theme": "Impact of ads on user adoption of adblockers",
+          "relevance": 0.95
+        },
+        {
+          "theme": "Concerns about tracking and malicious ads",
+          "relevance": 0.85
+        }
+      ],
+      "reasoning": "The commenter expresses intense negative sentiment toward Taboola/Outbrain, calling them cancerous, filth, and a primary reason for using adblockers. They criticize the user experience, perceived invasiveness, and association with malicious ads and tracking. No positive aspects of these companies are mentioned, and there is no discussion of financial performance. The tone is straightforwardly hostile rather than sarcastic.",
+      "metadata": {
+        "id": "21198158",
+        "type": "comment",
+        "post_id": "21175145",
+        "author": "Scottn1",
+        "created_utc": 1570575298,
+        "score": 0,
+        "depth": 0
+      }
+    }
+  },
+  {
+    "text": "Nevermind adblockers, these outlets deserve to be blocked at the hosts file level.",
+    "context": "comment",
+    "metadata": {
+      "id": "21194258",
+      "type": "comment",
+      "post_id": "21175145",
+      "author": "justforyou",
+      "created_utc": 1570553481,
+      "score": 0,
+      "depth": 0
+    },
+    "analysis": {
+      "overall_sentiment": "negative",
+      "field_sentiments": {
+        "product_quality": {
+          "sentiment": "negative",
+          "confidence": 0.8,
+          "key_phrases": [
+            "deserve to be blocked",
+            "blocked at the hosts file level"
+          ]
+        },
+        "user_experience": {
+          "sentiment": "negative",
+          "confidence": 0.9,
+          "key_phrases": [
+            "Nevermind adblockers",
+            "deserve to be blocked"
+          ]
+        },
+        "business_practices": {
+          "sentiment": "negative",
+          "confidence": 0.75,
+          "key_phrases": [
+            "deserve to be blocked"
+          ]
+        },
+        "financial_performance": {
+          "sentiment": "neutral",
+          "confidence": 0.0,
+          "key_phrases": []
+        },
+        "publisher_relations": {
+          "sentiment": "negative",
+          "confidence": 0.7,
+          "key_phrases": [
+            "these outlets deserve to be blocked"
+          ]
+        },
+        "advertiser_value": {
+          "sentiment": "neutral",
+          "confidence": 0.0,
+          "key_phrases": []
+        }
+      },
+      "edge_cases": {
+        "is_sarcastic": false,
+        "has_mixed_sentiment": false,
+        "is_non_english": false,
+        "language": "en",
+        "is_spam": false
+      },
+      "themes": [
+        {
+          "theme": "Strong rejection/blocking of service",
+          "relevance": 0.95
+        },
+        {
+          "theme": "Poor user experience with ads",
+          "relevance": 0.85
+        },
+        {
+          "theme": "Host-level blocking as extreme measure",
+          "relevance": 0.8
+        }
+      ],
+      "reasoning": "The commenter advocates blocking the outlets at the hosts file level, which is a stronger measure than using adblockers. This implies very negative views of the product, user experience, and by extension the business practices and publisher relationships. No positive aspects are mentioned, and there is no indication of sarcasm, spam, or discussion of financial performance or advertiser value.",
+      "metadata": {
+        "id": "21194258",
+        "type": "comment",
+        "post_id": "21175145",
+        "author": "justforyou",
+        "created_utc": 1570553481,
+        "score": 0,
+        "depth": 0
+      }
+    }
+  },
+  {
+    "text": "As much as I dislike seeing them on publisher websites this is just going to be further bad news for publishers in finding revenue outside of ads and subscriptions.<p>We&#x27;re just going to see crappier content at a larger scale that earns them less money due to significantly reduced competition.",
+    "context": "comment",
+    "metadata": {
+      "id": "21191807",
+      "type": "comment",
+      "post_id": "21175145",
+      "author": "donohoe",
+      "created_utc": 1570539967,
+      "score": 0,
+      "depth": 0
+    },
+    "analysis": {
+      "overall_sentiment": "negative",
+      "field_sentiments": {
+        "product_quality": {
+          "sentiment": "negative",
+          "confidence": 0.8,
+          "key_phrases": [
+            "crappier content",
+            "larger scale that earns them less money"
+          ]
+        },
+        "user_experience": {
+          "sentiment": "negative",
+          "confidence": 0.9,
+          "key_phrases": [
+            "As much as I dislike seeing them on publisher websites"
+          ]
+        },
+        "business_practices": {
+          "sentiment": "negative",
+          "confidence": 0.7,
+          "key_phrases": [
+            "significantly reduced competition"
+          ]
+        },
+        "financial_performance": {
+          "sentiment": "negative",
+          "confidence": 0.6,
+          "key_phrases": [
+            "earns them less money"
+          ]
+        },
+        "publisher_relations": {
+          "sentiment": "negative",
+          "confidence": 0.9,
+          "key_phrases": [
+            "further bad news for publishers",
+            "finding revenue outside of ads and subscriptions"
+          ]
+        },
+        "advertiser_value": {
+          "sentiment": "negative",
+          "confidence": 0.5,
+          "key_phrases": [
+            "crappier content at a larger scale",
+            "earns them less money"
+          ]
+        }
+      },
+      "edge_cases": {
+        "is_sarcastic": false,
+        "has_mixed_sentiment": false,
+        "is_non_english": false,
+        "language": "en",
+        "is_spam": false
+      },
+      "themes": [
+        {
+          "theme": "Negative impact on publishers' revenue",
+          "relevance": 0.95
+        },
+        {
+          "theme": "Degradation of content quality",
+          "relevance": 0.9
+        },
+        {
+          "theme": "Reduced competition in ad tech",
+          "relevance": 0.75
+        }
+      ],
+      "reasoning": "The commenter dislikes Taboola’s presence on publisher sites and predicts worse outcomes: lower-quality content, reduced competition, and less revenue for publishers. Sentiment is consistently negative across user experience, content quality, and business/financial implications, with no positive counterpoints or sarcasm detected.",
+      "metadata": {
+        "id": "21191807",
+        "type": "comment",
+        "post_id": "21175145",
+        "author": "donohoe",
+        "created_utc": 1570539967,
+        "score": 0,
+        "depth": 0
+      }
+    }
+  },
+  {
+    "text": "Might this help by reducing the size of the pi-hole black list?",
+    "context": "comment",
+    "metadata": {
+      "id": "21190422",
+      "type": "comment",
+      "post_id": "21175145",
+      "author": "mianos",
+      "created_utc": 1570528462,
+      "score": 0,
+      "depth": 0
+    },
+    "analysis": {
+      "overall_sentiment": "neutral",
+      "field_sentiments": {
+        "product_quality": {
+          "sentiment": "neutral",
+          "confidence": 0.4,
+          "key_phrases": [
+            "Might this help"
+          ]
+        },
+        "user_experience": {
+          "sentiment": "neutral",
+          "confidence": 0.5,
+          "key_phrases": [
+            "Might this help",
+            "reducing the size of the pi-hole black list"
+          ]
+        },
+        "business_practices": {
+          "sentiment": "neutral",
+          "confidence": 0.0,
+          "key_phrases": []
+        },
+        "financial_performance": {
+          "sentiment": "neutral",
+          "confidence": 0.0,
+          "key_phrases": []
+        },
+        "publisher_relations": {
+          "sentiment": "neutral",
+          "confidence": 0.0,
+          "key_phrases": []
+        },
+        "advertiser_value": {
+          "sentiment": "neutral",
+          "confidence": 0.0,
+          "key_phrases": []
+        }
+      },
+      "edge_cases": {
+        "is_sarcastic": false,
+        "has_mixed_sentiment": false,
+        "is_non_english": false,
+        "language": "en",
+        "is_spam": false
+      },
+      "themes": [
+        {
+          "theme": "Ad blocking / filtering",
+          "relevance": 0.9
+        },
+        {
+          "theme": "Technical optimization (blocklist size)",
+          "relevance": 0.8
+        },
+        {
+          "theme": "Potential benefit from product change",
+          "relevance": 0.5
+        }
+      ],
+      "reasoning": "The comment is a neutral, technical question about whether something related to Taboola might reduce a Pi-hole blacklist size. It implies a possible benefit (smaller blacklist) but does not express clear positive or negative sentiment toward Taboola’s product, business, or value. No sarcasm or mixed sentiment is evident.",
+      "metadata": {
+        "id": "21190422",
+        "type": "comment",
+        "post_id": "21175145",
+        "author": "mianos",
+        "created_utc": 1570528462,
+        "score": 0,
+        "depth": 0
+      }
+    }
+  },
+  {
+    "text": "Taboola and Outbrain are like the Mossad in your livingroom. They spy on your browsing habits for who knows what reasons",
+    "context": "comment",
+    "metadata": {
+      "id": "21192588",
+      "type": "comment",
+      "post_id": "21175145",
+      "author": "thowawyve",
+      "created_utc": 1570544432,
+      "score": 0,
+      "depth": 0
+    },
+    "analysis": {
+      "overall_sentiment": "negative",
+      "field_sentiments": {
+        "product_quality": {
+          "sentiment": "negative",
+          "confidence": 0.7,
+          "key_phrases": [
+            "like the Mossad in your livingroom",
+            "They spy on your browsing habits"
+          ]
+        },
+        "user_experience": {
+          "sentiment": "negative",
+          "confidence": 0.8,
+          "key_phrases": [
+            "like the Mossad in your livingroom",
+            "They spy on your browsing habits"
+          ]
+        },
+        "business_practices": {
+          "sentiment": "negative",
+          "confidence": 0.95,
+          "key_phrases": [
+            "like the Mossad in your livingroom",
+            "They spy on your browsing habits",
+            "for who knows what reasons"
+          ]
+        },
+        "financial_performance": {
+          "sentiment": "neutral",
+          "confidence": 0.0,
+          "key_phrases": []
+        },
+        "publisher_relations": {
+          "sentiment": "neutral",
+          "confidence": 0.0,
+          "key_phrases": []
+        },
+        "advertiser_value": {
+          "sentiment": "neutral",
+          "confidence": 0.0,
+          "key_phrases": []
+        }
+      },
+      "edge_cases": {
+        "is_sarcastic": false,
+        "has_mixed_sentiment": false,
+        "is_non_english": false,
+        "language": "en",
+        "is_spam": false
+      },
+      "themes": [
+        {
+          "theme": "privacy_invasion_and_surveillance",
+          "relevance": 1.0
+        },
+        {
+          "theme": "data_collection_without_transparency",
+          "relevance": 0.9
+        },
+        {
+          "theme": "negative_trust_in_ad_tech_companies",
+          "relevance": 0.8
+        }
+      ],
+      "reasoning": "The commenter compares Taboola and Outbrain to an intelligence agency in one’s living room, emphasizing spying on browsing habits for unclear reasons. This strongly criticizes their privacy practices and implies unethical business behavior and a bad user experience. No positive aspects or financial/publisher/advertiser points are mentioned.",
+      "metadata": {
+        "id": "21192588",
+        "type": "comment",
+        "post_id": "21175145",
+        "author": "thowawyve",
+        "created_utc": 1570544432,
+        "score": 0,
+        "depth": 0
+      }
+    }
+  },
+  {
+    "text": "Taboola ($157mm VC funding) partners with malware; Akamai and Amazon complicit I&#x27;m at my moms house for Mother&#x27;s Day weekend and cleaned her computer after she told me she was getting a lot of popups. One of the frequent popups was for a site called suchhappy.com which looks like a BuzzFeed&#x2F;viral content site. You can check out suchhappy.com and see that Taboola partners with them and has big ads showing at the top on the homepage and all over the place when you click into an article.<p>To see posts about suchhappy.com being malware, look at the below links. After following the instructions I was finally able to get rid of it.<p>* http:&#x2F;&#x2F;www.fix-exeerror.com&#x2F;how-do-i-remove-suchhappy-com-step-by-step-removal-guide&#x2F;<p>* http:&#x2F;&#x2F;www.malwareremovalvideo.com&#x2F;fixed-how-can-i-stop-the-suchhappy-com-pop-up-removal-tips&#x2F;<p>* http:&#x2F;&#x2F;computervirusremovalfixer.blogspot.com&#x2F;2015&#x2F;04&#x2F;stop-suchhappycom-pop-up-guide-to.html<p>* http:&#x2F;&#x2F;www.bleepingcomputer.com&#x2F;forums&#x2F;t&#x2F;574578&#x2F;suchhappy-redirect-virus-and-getprivate-shopper-7-pro-x64-firefox&#x2F;<p>* http:&#x2F;&#x2F;helpremovepopups.com&#x2F;get-rid-of-suchhappy-com-virus-permanently&#x2F;<p>When will VC funded companies stop using malware to grow? How can we, as investors, entrepreneurs, and techies, place pressure on these advertising companies to stop supporting malware? Akamai and Amazon are complicit because they are the CDN on a bunch of the links on the page. Additionally, there are companies called &quot;UDM Serve&quot; and &quot;RevContent&quot; with ads on the page.<p>What can we do?",
+    "context": "post",
+    "metadata": {
+      "id": "9514333",
+      "type": "post",
+      "subreddit": "hackernews",
+      "author": "momscomputer",
+      "created_utc": 1431121630,
+      "score": 15,
+      "num_comments": 3,
+      "url": ""
+    },
+    "analysis": {
+      "overall_sentiment": "negative",
+      "field_sentiments": {
+        "product_quality": {
+          "sentiment": "negative",
+          "confidence": 0.9,
+          "key_phrases": [
+            "partners with malware",
+            "suchhappy.com being malware",
+            "getting a lot of popups"
+          ]
+        },
+        "user_experience": {
+          "sentiment": "negative",
+          "confidence": 0.95,
+          "key_phrases": [
+            "getting a lot of popups",
+            "suchhappy.com pop-up",
+            "redirect virus"
+          ]
+        },
+        "business_practices": {
+          "sentiment": "negative",
+          "confidence": 0.98,
+          "key_phrases": [
+            "Taboola ($157mm VC funding) partners with malware",
+            "When will VC funded companies stop using malware to grow?",
+            "Akamai and Amazon are complicit"
+          ]
+        },
+        "financial_performance": {
+          "sentiment": "neutral",
+          "confidence": 0.3,
+          "key_phrases": [
+            "$157mm VC funding"
+          ]
+        },
+        "publisher_relations": {
+          "sentiment": "negative",
+          "confidence": 0.8,
+          "key_phrases": [
+            "Taboola partners with them",
+            "stop supporting malware",
+            "advertising companies to stop supporting malware"
+          ]
+        },
+        "advertiser_value": {
+          "sentiment": "negative",
+          "confidence": 0.7,
+          "key_phrases": [
+            "partners with malware",
+            "ads on the page",
+            "supporting malware"
+          ]
+        }
+      },
+      "edge_cases": {
+        "is_sarcastic": false,
+        "has_mixed_sentiment": false,
+        "is_non_english": false,
+        "language": "en",
+        "is_spam": false
+      },
+      "themes": [
+        {
+          "theme": "Use of malware and intrusive ads",
+          "relevance": 0.98
+        },
+        {
+          "theme": "Ethical concerns about ad-tech business practices",
+          "relevance": 0.95
+        },
+        {
+          "theme": "Responsibility of ecosystem players (VCs, CDNs, ad networks)",
+          "relevance": 0.9
+        }
+      ],
+      "reasoning": "The post strongly criticizes Taboola and related ad-tech/CDN companies for partnering with or enabling malware-like popups, framing this as unethical growth driven by VC-backed incentives. User experience and product perception are clearly negative due to popups and malware associations. Financial performance is only mentioned as funding context, not evaluated. The tone is serious, not sarcastic, and consistently negative rather than mixed.",
+      "metadata": {
+        "id": "9514333",
+        "type": "post",
+        "subreddit": "hackernews",
+        "author": "momscomputer",
+        "created_utc": 1431121630,
+        "score": 15,
+        "num_comments": 3,
+        "url": ""
+      }
+    }
+  },
+  {
+    "text": "The ad ecosystem is a lot more complicated than you know.<p>It is not often trivial for suchhappy.com to know who is driving traffic to them (they do source traffic, but how would you tell if it&#x27;s malware or user initiated? there are piles of legitimate looking fronts out there), let alone people whose ads end up on suchhappy.com (who, for similar reasons may not even know where there ads actually ran).",
+    "context": "comment",
+    "metadata": {
+      "id": "9514694",
+      "type": "comment",
+      "post_id": "9514333",
+      "author": "Eridrus",
+      "created_utc": 1431127454,
+      "score": 0,
+      "depth": 0
+    },
+    "analysis": {
+      "overall_sentiment": "negative",
+      "field_sentiments": {
+        "product_quality": {
+          "sentiment": "neutral",
+          "confidence": 0.2,
+          "key_phrases": []
+        },
+        "user_experience": {
+          "sentiment": "neutral",
+          "confidence": 0.3,
+          "key_phrases": [
+            "The ad ecosystem is a lot more complicated than you know",
+            "piles of legitimate looking fronts out there"
+          ]
+        },
+        "business_practices": {
+          "sentiment": "negative",
+          "confidence": 0.8,
+          "key_phrases": [
+            "how would you tell if it's malware or user initiated?",
+            "piles of legitimate looking fronts out there",
+            "may not even know where there ads actually ran"
+          ]
+        },
+        "financial_performance": {
+          "sentiment": "neutral",
+          "confidence": 0.0,
+          "key_phrases": []
+        },
+        "publisher_relations": {
+          "sentiment": "negative",
+          "confidence": 0.6,
+          "key_phrases": [
+            "suchhappy.com to know who is driving traffic to them",
+            "they do source traffic, but how would you tell if it's malware or user initiated?"
+          ]
+        },
+        "advertiser_value": {
+          "sentiment": "negative",
+          "confidence": 0.7,
+          "key_phrases": [
+            "people whose ads end up on suchhappy.com",
+            "may not even know where there ads actually ran"
+          ]
+        }
+      },
+      "edge_cases": {
+        "is_sarcastic": false,
+        "has_mixed_sentiment": false,
+        "is_non_english": false,
+        "language": "en",
+        "is_spam": false
+      },
+      "themes": [
+        {
+          "theme": "Lack of transparency in traffic sources",
+          "relevance": 0.95
+        },
+        {
+          "theme": "Difficulty distinguishing legitimate from malicious traffic",
+          "relevance": 0.9
+        },
+        {
+          "theme": "Advertisers unaware of where ads are shown",
+          "relevance": 0.85
+        }
+      ],
+      "reasoning": "The comment criticizes opacity and potential malware in the ad ecosystem, implying problematic business practices and poor transparency for both publishers and advertisers. It does not address product quality or financial performance. Tone is explanatory, not sarcastic, and sentiment is consistently negative regarding how the ecosystem operates.",
+      "metadata": {
+        "id": "9514694",
+        "type": "comment",
+        "post_id": "9514333",
+        "author": "Eridrus",
+        "created_utc": 1431127454,
+        "score": 0,
+        "depth": 0
+      }
+    }
+  },
+  {
+    "text": "&gt;Akamai and Amazon are complicit because they are the CDN on a bunch of the links on the page.<p>Yeah, and google is an accomplice to thepiratebay for having links to them on their search results.<p>CDNs do not review what content is served from their servers. Send them a complaint and they will, maybe.",
+    "context": "comment",
+    "metadata": {
+      "id": "9514968",
+      "type": "comment",
+      "post_id": "9514333",
+      "author": "pikzen",
+      "created_utc": 1431133035,
+      "score": 0,
+      "depth": 0
+    },
+    "analysis": {
+      "overall_sentiment": "neutral",
+      "field_sentiments": {
+        "product_quality": {
+          "sentiment": "neutral",
+          "confidence": 0.0,
+          "key_phrases": []
+        },
+        "user_experience": {
+          "sentiment": "neutral",
+          "confidence": 0.0,
+          "key_phrases": []
+        },
+        "business_practices": {
+          "sentiment": "neutral",
+          "confidence": 0.4,
+          "key_phrases": [
+            "Akamai and Amazon are complicit",
+            "google is an accomplice to thepiratebay",
+            "CDNs do not review what content is served"
+          ]
+        },
+        "financial_performance": {
+          "sentiment": "neutral",
+          "confidence": 0.0,
+          "key_phrases": []
+        },
+        "publisher_relations": {
+          "sentiment": "neutral",
+          "confidence": 0.0,
+          "key_phrases": []
+        },
+        "advertiser_value": {
+          "sentiment": "neutral",
+          "confidence": 0.0,
+          "key_phrases": []
+        }
+      },
+      "edge_cases": {
+        "is_sarcastic": true,
+        "has_mixed_sentiment": false,
+        "is_non_english": false,
+        "language": "en",
+        "is_spam": false
+      },
+      "themes": [
+        {
+          "theme": "Responsibility of infrastructure providers (CDNs/search) for hosted/linked content",
+          "relevance": 0.95
+        },
+        {
+          "theme": "Comparison of complicity between different tech companies",
+          "relevance": 0.8
+        },
+        {
+          "theme": "Content moderation expectations for CDNs",
+          "relevance": 0.7
+        }
+      ],
+      "reasoning": "The comment debates whether CDNs and platforms like Google are ‘complicit’ in the content they deliver or link to, arguing they typically do not review content and only act on complaints. It does not address Taboola’s product quality, UX, financials, publisher relations, or advertiser value directly. Tone is mildly sarcastic in the analogy to Google and The Pirate Bay, but sentiment toward Taboola itself is not expressed, so overall sentiment is neutral for the requested fields.",
+      "metadata": {
+        "id": "9514968",
+        "type": "comment",
+        "post_id": "9514333",
+        "author": "pikzen",
+        "created_utc": 1431133035,
+        "score": 0,
+        "depth": 0
+      }
+    }
+  },
+  {
+    "text": "don&#x27;t let your mom install toolbars?\nteach end users how to read and understand dialog boxes instead of blindly clicking &quot;OK!&quot; ?",
+    "context": "comment",
+    "metadata": {
+      "id": "9514598",
+      "type": "comment",
+      "post_id": "9514333",
+      "author": "nickphx",
+      "created_utc": 1431125887,
+      "score": 0,
+      "depth": 0
+    },
+    "analysis": {
+      "overall_sentiment": "negative",
+      "field_sentiments": {
+        "product_quality": {
+          "sentiment": "negative",
+          "confidence": 0.7,
+          "key_phrases": [
+            "don't let your mom install toolbars?",
+            "teach end users how to read and understand dialog boxes"
+          ]
+        },
+        "user_experience": {
+          "sentiment": "negative",
+          "confidence": 0.8,
+          "key_phrases": [
+            "install toolbars",
+            "blindly clicking \"OK!\""
+          ]
+        },
+        "business_practices": {
+          "sentiment": "negative",
+          "confidence": 0.6,
+          "key_phrases": [
+            "install toolbars",
+            "blindly clicking \"OK!\""
+          ]
+        },
+        "financial_performance": {
+          "sentiment": "neutral",
+          "confidence": 0.0,
+          "key_phrases": []
+        },
+        "publisher_relations": {
+          "sentiment": "neutral",
+          "confidence": 0.0,
+          "key_phrases": []
+        },
+        "advertiser_value": {
+          "sentiment": "neutral",
+          "confidence": 0.0,
+          "key_phrases": []
+        }
+      },
+      "edge_cases": {
+        "is_sarcastic": true,
+        "has_mixed_sentiment": false,
+        "is_non_english": false,
+        "language": "en",
+        "is_spam": false
+      },
+      "themes": [
+        {
+          "theme": "User responsibility and education",
+          "relevance": 0.9
+        },
+        {
+          "theme": "Critique of deceptive/annoying installs",
+          "relevance": 0.8
+        },
+        {
+          "theme": "Security and consent in software installation",
+          "relevance": 0.6
+        }
+      ],
+      "reasoning": "The comment sarcastically implies that products like Taboola toolbars get installed because users blindly click OK, suggesting low-quality, intrusive software and questionable install practices. It focuses on user behavior and deceptive or confusing dialogs, not on financials, publisher relations, or advertiser value. Tone is critical, not mixed.",
+      "metadata": {
+        "id": "9514598",
+        "type": "comment",
+        "post_id": "9514333",
+        "author": "nickphx",
+        "created_utc": 1431125887,
+        "score": 0,
+        "depth": 0
+      }
+    }
+  },
+  {
+    "text": "Taboola and Outbrain to Merge",
+    "context": "post",
+    "metadata": {
+      "id": "21144957",
+      "type": "post",
+      "subreddit": "hackernews",
+      "author": "oldgradstudent",
+      "created_utc": 1570093050,
+      "score": 6,
+      "num_comments": 0,
+      "url": "https://www.calcalistech.com/ctech/articles/0,7340,L-3771413,00.html"
+    },
+    "analysis": {
+      "overall_sentiment": "neutral",
+      "field_sentiments": {
+        "product_quality": {
+          "sentiment": "neutral",
+          "confidence": 0.0,
+          "key_phrases": []
+        },
+        "user_experience": {
+          "sentiment": "neutral",
+          "confidence": 0.0,
+          "key_phrases": []
+        },
+        "business_practices": {
+          "sentiment": "neutral",
+          "confidence": 0.0,
+          "key_phrases": []
+        },
+        "financial_performance": {
+          "sentiment": "neutral",
+          "confidence": 0.0,
+          "key_phrases": []
+        },
+        "publisher_relations": {
+          "sentiment": "neutral",
+          "confidence": 0.0,
+          "key_phrases": []
+        },
+        "advertiser_value": {
+          "sentiment": "neutral",
+          "confidence": 0.0,
+          "key_phrases": []
+        }
+      },
+      "edge_cases": {
+        "is_sarcastic": false,
+        "has_mixed_sentiment": false,
+        "is_non_english": false,
+        "language": "en",
+        "is_spam": false
+      },
+      "themes": [
+        {
+          "theme": "corporate_merger_announcement",
+          "relevance": 1.0
+        },
+        {
+          "theme": "ad_tech_industry",
+          "relevance": 0.6
+        },
+        {
+          "theme": "news_headline_only",
+          "relevance": 0.5
+        }
+      ],
+      "reasoning": "The text is a bare announcement of a merger with no evaluative language. No opinions are expressed about product quality, user experience, business practices, financials, publisher relations, or advertiser value, so all field confidences are 0. No sarcasm or mixed sentiment is present.",
+      "metadata": {
+        "id": "21144957",
+        "type": "post",
+        "subreddit": "hackernews",
+        "author": "oldgradstudent",
+        "created_utc": 1570093050,
+        "score": 6,
+        "num_comments": 0,
+        "url": "https://www.calcalistech.com/ctech/articles/0,7340,L-3771413,00.html"
+      }
+    }
+  },
+  {
+    "text": "Taboola and Outbrain merge in $850M deal to take on Google and Facebook",
+    "context": "post",
+    "metadata": {
+      "id": "21148193",
+      "type": "post",
+      "subreddit": "hackernews",
+      "author": "Yuval_Halevi",
+      "created_utc": 1570116914,
+      "score": 5,
+      "num_comments": 1,
+      "url": "https://techcrunch.com/2019/10/03/taboola-outbrain/"
+    },
+    "analysis": {
+      "overall_sentiment": "neutral",
+      "field_sentiments": {
+        "product_quality": {
+          "sentiment": "neutral",
+          "confidence": 0.0,
+          "key_phrases": []
+        },
+        "user_experience": {
+          "sentiment": "neutral",
+          "confidence": 0.0,
+          "key_phrases": []
+        },
+        "business_practices": {
+          "sentiment": "neutral",
+          "confidence": 0.4,
+          "key_phrases": [
+            "merge in $850M deal",
+            "take on Google and Facebook"
+          ]
+        },
+        "financial_performance": {
+          "sentiment": "neutral",
+          "confidence": 0.5,
+          "key_phrases": [
+            "$850M deal"
+          ]
+        },
+        "publisher_relations": {
+          "sentiment": "neutral",
+          "confidence": 0.0,
+          "key_phrases": []
+        },
+        "advertiser_value": {
+          "sentiment": "neutral",
+          "confidence": 0.0,
+          "key_phrases": []
+        }
+      },
+      "edge_cases": {
+        "is_sarcastic": false,
+        "has_mixed_sentiment": false,
+        "is_non_english": false,
+        "language": "en",
+        "is_spam": false
+      },
+      "themes": [
+        {
+          "theme": "corporate_merger",
+          "relevance": 1.0
+        },
+        {
+          "theme": "competition_with_big_tech",
+          "relevance": 0.9
+        },
+        {
+          "theme": "ad_tech_industry_consolidation",
+          "relevance": 0.8
+        }
+      ],
+      "reasoning": "The text is a neutral, factual headline about a merger and its value, with no explicit positive or negative judgment about Taboola, its products, or stakeholders. Only business scale and competitive positioning are implied.",
+      "metadata": {
+        "id": "21148193",
+        "type": "post",
+        "subreddit": "hackernews",
+        "author": "Yuval_Halevi",
+        "created_utc": 1570116914,
+        "score": 5,
+        "num_comments": 1,
+        "url": "https://techcrunch.com/2019/10/03/taboola-outbrain/"
+      }
+    }
+  },
+  {
+    "text": "I&#x27;m fairly certain this is a net terrible for publishers.<p>The only leverage publishers had besides saying no was to be able to move between Taboola or Outbrain to leverage better payouts from the other side.",
+    "context": "comment",
+    "metadata": {
+      "id": "21149203",
+      "type": "comment",
+      "post_id": "21148193",
+      "author": "GoRudy",
+      "created_utc": 1570122349,
+      "score": 0,
+      "depth": 0
+    },
+    "analysis": {
+      "overall_sentiment": "negative",
+      "field_sentiments": {
+        "product_quality": {
+          "sentiment": "neutral",
+          "confidence": 0.1,
+          "key_phrases": []
+        },
+        "user_experience": {
+          "sentiment": "neutral",
+          "confidence": 0.1,
+          "key_phrases": []
+        },
+        "business_practices": {
+          "sentiment": "negative",
+          "confidence": 0.86,
+          "key_phrases": [
+            "net terrible for publishers",
+            "only leverage publishers had besides saying no",
+            "move between Taboola or Outbrain to leverage better payouts"
+          ]
+        },
+        "financial_performance": {
+          "sentiment": "neutral",
+          "confidence": 0.2,
+          "key_phrases": []
+        },
+        "publisher_relations": {
+          "sentiment": "negative",
+          "confidence": 0.92,
+          "key_phrases": [
+            "net terrible for publishers",
+            "only leverage publishers had besides saying no",
+            "move between Taboola or Outbrain to leverage better payouts"
+          ]
+        },
+        "advertiser_value": {
+          "sentiment": "neutral",
+          "confidence": 0.0,
+          "key_phrases": []
+        }
+      },
+      "edge_cases": {
+        "is_sarcastic": false,
+        "has_mixed_sentiment": false,
+        "is_non_english": false,
+        "language": "en",
+        "is_spam": false
+      },
+      "themes": [
+        {
+          "theme": "harm_to_publishers",
+          "relevance": 0.98
+        },
+        {
+          "theme": "loss_of_leverage_choice",
+          "relevance": 0.9
+        },
+        {
+          "theme": "payout_negotiation_power",
+          "relevance": 0.78
+        }
+      ],
+      "reasoning": "The commenter believes the situation is clearly bad for publishers, emphasizing loss of leverage and reduced ability to negotiate better payouts by switching between Taboola and Outbrain. No aspects of product quality, user experience, or advertiser value are discussed. The sentiment is consistently negative, with no sarcasm or mixed feelings indicated.",
+      "metadata": {
+        "id": "21149203",
+        "type": "comment",
+        "post_id": "21148193",
+        "author": "GoRudy",
+        "created_utc": 1570122349,
+        "score": 0,
+        "depth": 0
+      }
+    }
+  },
+  {
+    "text": "The Truth About Taboola, Outbrain and Gemini",
+    "context": "post",
+    "metadata": {
+      "id": "21309401",
+      "type": "post",
+      "subreddit": "hackernews",
+      "author": "jkuria",
+      "created_utc": 1571632944,
+      "score": 5,
+      "num_comments": 0,
+      "url": "https://capitalandgrowth.org/questions/1763/has-anyone-had-success-with-taboolaoutbraingemini.html"
+    },
+    "analysis": {
+      "overall_sentiment": "neutral",
+      "field_sentiments": {
+        "product_quality": {
+          "sentiment": "neutral",
+          "confidence": 0.0,
+          "key_phrases": []
+        },
+        "user_experience": {
+          "sentiment": "neutral",
+          "confidence": 0.0,
+          "key_phrases": []
+        },
+        "business_practices": {
+          "sentiment": "neutral",
+          "confidence": 0.0,
+          "key_phrases": []
+        },
+        "financial_performance": {
+          "sentiment": "neutral",
+          "confidence": 0.0,
+          "key_phrases": []
+        },
+        "publisher_relations": {
+          "sentiment": "neutral",
+          "confidence": 0.0,
+          "key_phrases": []
+        },
+        "advertiser_value": {
+          "sentiment": "neutral",
+          "confidence": 0.0,
+          "key_phrases": []
+        }
+      },
+      "edge_cases": {
+        "is_sarcastic": false,
+        "has_mixed_sentiment": false,
+        "is_non_english": false,
+        "language": "en",
+        "is_spam": false
+      },
+      "themes": [
+        {
+          "theme": "insufficient_content_for_analysis",
+          "relevance": 1.0
+        },
+        {
+          "theme": "ad_tech_companies_mentioned",
+          "relevance": 0.6
+        },
+        {
+          "theme": "potential_discussion_of_truth_or_exposé",
+          "relevance": 0.4
+        }
+      ],
+      "reasoning": "Only the title is provided, with no evaluative statements or descriptive content about Taboola, Outbrain, or Gemini. There is no explicit positive or negative sentiment, nor any detail about product quality, user experience, business practices, financials, publisher relations, or advertiser value, so all field confidences are set to 0.",
+      "metadata": {
+        "id": "21309401",
+        "type": "post",
+        "subreddit": "hackernews",
+        "author": "jkuria",
+        "created_utc": 1571632944,
+        "score": 5,
+        "num_comments": 0,
+        "url": "https://capitalandgrowth.org/questions/1763/has-anyone-had-success-with-taboolaoutbraingemini.html"
+      }
+    }
+  },
+  {
+    "text": "Taboola and Outbrain call off their $850M merger",
+    "context": "post",
+    "metadata": {
+      "id": "24424015",
+      "type": "post",
+      "subreddit": "hackernews",
+      "author": "KoftaBob",
+      "created_utc": 1599675465,
+      "score": 4,
+      "num_comments": 1,
+      "url": "https://techcrunch.com/2020/09/08/taboola-and-outbrain-call-off-their-850m-merger/"
+    },
+    "analysis": {
+      "overall_sentiment": "neutral",
+      "field_sentiments": {
+        "product_quality": {
+          "sentiment": "neutral",
+          "confidence": 0.0,
+          "key_phrases": []
+        },
+        "user_experience": {
+          "sentiment": "neutral",
+          "confidence": 0.0,
+          "key_phrases": []
+        },
+        "business_practices": {
+          "sentiment": "neutral",
+          "confidence": 0.4,
+          "key_phrases": [
+            "call off their $850M merger"
+          ]
+        },
+        "financial_performance": {
+          "sentiment": "neutral",
+          "confidence": 0.4,
+          "key_phrases": [
+            "$850M merger"
+          ]
+        },
+        "publisher_relations": {
+          "sentiment": "neutral",
+          "confidence": 0.0,
+          "key_phrases": []
+        },
+        "advertiser_value": {
+          "sentiment": "neutral",
+          "confidence": 0.0,
+          "key_phrases": []
+        }
+      },
+      "edge_cases": {
+        "is_sarcastic": false,
+        "has_mixed_sentiment": false,
+        "is_non_english": false,
+        "language": "en",
+        "is_spam": false
+      },
+      "themes": [
+        {
+          "theme": "Mergers_and_acquisitions",
+          "relevance": 1.0
+        },
+        {
+          "theme": "Deal_cancellation",
+          "relevance": 0.9
+        },
+        {
+          "theme": "Ad_tech_industry_news",
+          "relevance": 0.7
+        }
+      ],
+      "reasoning": "The text is a short, factual headline about Taboola and Outbrain canceling an $850M merger. It contains no explicit positive or negative language, only a neutral description of a business event. No product, UX, publisher, or advertiser aspects are mentioned, and there are no signs of sarcasm or spam.",
+      "metadata": {
+        "id": "24424015",
+        "type": "post",
+        "subreddit": "hackernews",
+        "author": "KoftaBob",
+        "created_utc": 1599675465,
+        "score": 4,
+        "num_comments": 1,
+        "url": "https://techcrunch.com/2020/09/08/taboola-and-outbrain-call-off-their-850m-merger/"
+      }
+    }
+  },
+  {
+    "text": "Taboola and Outbrain ads, when you want your site to look spammy as f<i></i><i>",
+    "context": "comment",
+    "metadata": {
+      "id": "24424188",
+      "type": "comment",
+      "post_id": "24424015",
+      "author": "Lagogarda",
+      "created_utc": 1599676519,
+      "score": 0,
+      "depth": 0
+    },
+    "analysis": {
+      "overall_sentiment": "negative",
+      "field_sentiments": {
+        "product_quality": {
+          "sentiment": "negative",
+          "confidence": 0.9,
+          "key_phrases": [
+            "Taboola and Outbrain ads",
+            "look spammy as f"
+          ]
+        },
+        "user_experience": {
+          "sentiment": "negative",
+          "confidence": 0.95,
+          "key_phrases": [
+            "when you want your site to look spammy as f"
+          ]
+        },
+        "business_practices": {
+          "sentiment": "negative",
+          "confidence": 0.7,
+          "key_phrases": [
+            "when you want your site to look spammy as f"
+          ]
+        },
+        "financial_performance": {
+          "sentiment": "neutral",
+          "confidence": 0.0,
+          "key_phrases": []
+        },
+        "publisher_relations": {
+          "sentiment": "negative",
+          "confidence": 0.8,
+          "key_phrases": [
+            "when you want your site to look spammy as f"
+          ]
+        },
+        "advertiser_value": {
+          "sentiment": "neutral",
+          "confidence": 0.0,
+          "key_phrases": []
+        }
+      },
+      "edge_cases": {
+        "is_sarcastic": true,
+        "has_mixed_sentiment": false,
+        "is_non_english": false,
+        "language": "en",
+        "is_spam": false
+      },
+      "themes": [
+        {
+          "theme": "Spammy appearance of ads",
+          "relevance": 1.0
+        },
+        {
+          "theme": "Negative impact on site perception",
+          "relevance": 0.9
+        },
+        {
+          "theme": "Critique of Taboola/Outbrain ad style",
+          "relevance": 0.8
+        }
+      ],
+      "reasoning": "The commenter uses a sarcastic construction implying that using Taboola and Outbrain makes a site look extremely spammy. This targets perceived low quality of the ad units and a poor user experience, and implies that publishers who use them degrade their sites. No information is given about financial performance or advertiser value, so those are left as neutral with zero confidence.",
+      "metadata": {
+        "id": "24424188",
+        "type": "comment",
+        "post_id": "24424015",
+        "author": "Lagogarda",
+        "created_utc": 1599676519,
+        "score": 0,
+        "depth": 0
+      }
+    }
+  },
+  {
+    "text": "Taboola and Outbrain, the two worst companies in the world, are merging",
+    "context": "post",
+    "metadata": {
+      "id": "21145799",
+      "type": "post",
+      "subreddit": "hackernews",
+      "author": "seapunk",
+      "created_utc": 1570102503,
+      "score": 4,
+      "num_comments": 1,
+      "url": "https://thenextweb.com/tech/2019/10/03/taboola-and-outbrain-the-two-worst-companies-in-the-world-are-merging/"
+    },
+    "analysis": {
+      "overall_sentiment": "negative",
+      "field_sentiments": {
+        "product_quality": {
+          "sentiment": "negative",
+          "confidence": 0.9,
+          "key_phrases": [
+            "two worst companies in the world"
+          ]
+        },
+        "user_experience": {
+          "sentiment": "negative",
+          "confidence": 0.8,
+          "key_phrases": [
+            "two worst companies in the world"
+          ]
+        },
+        "business_practices": {
+          "sentiment": "negative",
+          "confidence": 0.85,
+          "key_phrases": [
+            "two worst companies in the world",
+            "are merging"
+          ]
+        },
+        "financial_performance": {
+          "sentiment": "neutral",
+          "confidence": 0.0,
+          "key_phrases": []
+        },
+        "publisher_relations": {
+          "sentiment": "neutral",
+          "confidence": 0.0,
+          "key_phrases": []
+        },
+        "advertiser_value": {
+          "sentiment": "neutral",
+          "confidence": 0.0,
+          "key_phrases": []
+        }
+      },
+      "edge_cases": {
+        "is_sarcastic": false,
+        "has_mixed_sentiment": false,
+        "is_non_english": false,
+        "language": "en",
+        "is_spam": false
+      },
+      "themes": [
+        {
+          "theme": "extreme_dislike_of_companies",
+          "relevance": 1.0
+        },
+        {
+          "theme": "corporate_merger",
+          "relevance": 0.8
+        },
+        {
+          "theme": "negative_brand_perception",
+          "relevance": 0.7
+        }
+      ],
+      "reasoning": "The post strongly condemns both Taboola and Outbrain, calling them the 'two worst companies in the world.' This implies negative views on their overall quality, user impact, and likely their business behavior. The merger is mentioned without any positive framing, reinforcing a negative overall sentiment. No financial, publisher, or advertiser aspects are explicitly discussed.",
+      "metadata": {
+        "id": "21145799",
+        "type": "post",
+        "subreddit": "hackernews",
+        "author": "seapunk",
+        "created_utc": 1570102503,
+        "score": 4,
+        "num_comments": 1,
+        "url": "https://thenextweb.com/tech/2019/10/03/taboola-and-outbrain-the-two-worst-companies-in-the-world-are-merging/"
+      }
+    }
+  },
+  {
+    "text": "In case you missed this interesting article + thread: <a href=\"https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=20409693\" rel=\"nofollow\">https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=20409693</a>",
+    "context": "comment",
+    "metadata": {
+      "id": "21145815",
+      "type": "comment",
+      "post_id": "21145799",
+      "author": "seapunk",
+      "created_utc": 1570102643,
+      "score": 0,
+      "depth": 0
+    },
+    "analysis": {
+      "overall_sentiment": "neutral",
+      "field_sentiments": {
+        "product_quality": {
+          "sentiment": "neutral",
+          "confidence": 0.0,
+          "key_phrases": []
+        },
+        "user_experience": {
+          "sentiment": "neutral",
+          "confidence": 0.0,
+          "key_phrases": []
+        },
+        "business_practices": {
+          "sentiment": "neutral",
+          "confidence": 0.0,
+          "key_phrases": []
+        },
+        "financial_performance": {
+          "sentiment": "neutral",
+          "confidence": 0.0,
+          "key_phrases": []
+        },
+        "publisher_relations": {
+          "sentiment": "neutral",
+          "confidence": 0.0,
+          "key_phrases": []
+        },
+        "advertiser_value": {
+          "sentiment": "neutral",
+          "confidence": 0.0,
+          "key_phrases": []
+        }
+      },
+      "edge_cases": {
+        "is_sarcastic": false,
+        "has_mixed_sentiment": false,
+        "is_non_english": false,
+        "language": "en",
+        "is_spam": false
+      },
+      "themes": [
+        {
+          "theme": "link_sharing",
+          "relevance": 0.9
+        },
+        {
+          "theme": "external_discussion_reference",
+          "relevance": 0.8
+        },
+        {
+          "theme": "news_aggregation",
+          "relevance": 0.4
+        }
+      ],
+      "reasoning": "The comment only shares a link to an article and thread, with no evaluative language about Taboola or any related aspects. There is no positive or negative wording, no sarcasm, and no mention of product, business, financials, or relationships. Thus all specific fields are marked neutral with zero confidence due to lack of direct content.",
+      "metadata": {
+        "id": "21145815",
+        "type": "comment",
+        "post_id": "21145799",
+        "author": "seapunk",
+        "created_utc": 1570102643,
+        "score": 0,
+        "depth": 0
+      }
+    }
+  },
+  {
+    "text": "Outbrain outfoxes Taboola and buys out adtech startup Revee",
+    "context": "post",
+    "metadata": {
+      "id": "11216349",
+      "type": "post",
+      "subreddit": "hackernews",
+      "author": "tekheletknight",
+      "created_utc": 1457007368,
+      "score": 4,
+      "num_comments": 0,
+      "url": "http://geektime.com/2016/03/03/outbrain-outfoxes-taboola-and-buys-out-adtech-startup-revee/"
+    },
+    "analysis": {
+      "overall_sentiment": "neutral",
+      "field_sentiments": {
+        "product_quality": {
+          "sentiment": "neutral",
+          "confidence": 0.0,
+          "key_phrases": []
+        },
+        "user_experience": {
+          "sentiment": "neutral",
+          "confidence": 0.0,
+          "key_phrases": []
+        },
+        "business_practices": {
+          "sentiment": "neutral",
+          "confidence": 0.4,
+          "key_phrases": [
+            "Outbrain outfoxes Taboola",
+            "buys out adtech startup Revee"
+          ]
+        },
+        "financial_performance": {
+          "sentiment": "neutral",
+          "confidence": 0.3,
+          "key_phrases": [
+            "buys out adtech startup Revee"
+          ]
+        },
+        "publisher_relations": {
+          "sentiment": "neutral",
+          "confidence": 0.0,
+          "key_phrases": []
+        },
+        "advertiser_value": {
+          "sentiment": "neutral",
+          "confidence": 0.0,
+          "key_phrases": []
+        }
+      },
+      "edge_cases": {
+        "is_sarcastic": false,
+        "has_mixed_sentiment": false,
+        "is_non_english": false,
+        "language": "en",
+        "is_spam": false
+      },
+      "themes": [
+        {
+          "theme": "Competitive dynamics between Outbrain and Taboola",
+          "relevance": 0.9
+        },
+        {
+          "theme": "Acquisition of adtech startup Revee",
+          "relevance": 0.8
+        },
+        {
+          "theme": "Strategic positioning in adtech market",
+          "relevance": 0.5
+        }
+      ],
+      "reasoning": "The text is a short headline describing Outbrain acquiring Revee and framing it as outmaneuvering Taboola. It doesn’t mention product quality, UX, publisher relations, or advertiser value. The only mild sentiment is competitive framing (“outfoxes”), which implies Outbrain gained an advantage over Taboola, but it’s not strongly positive or negative overall.",
+      "metadata": {
+        "id": "11216349",
+        "type": "post",
+        "subreddit": "hackernews",
+        "author": "tekheletknight",
+        "created_utc": 1457007368,
+        "score": 4,
+        "num_comments": 0,
+        "url": "http://geektime.com/2016/03/03/outbrain-outfoxes-taboola-and-buys-out-adtech-startup-revee/"
+      }
+    }
+  },
+  {
+    "text": "Trying Taboola Native Advertising – What It’s Like and Should You Try It",
+    "context": "post",
+    "metadata": {
+      "id": "25988188",
+      "type": "post",
+      "subreddit": "hackernews",
+      "author": "vessio",
+      "created_utc": 1612184007,
+      "score": 3,
+      "num_comments": 2,
+      "url": "https://websitemaintenance.medium.com/getting-started-with-taboola-native-advertising-what-its-like-should-you-try-it-2cec4032be53"
+    },
+    "analysis": {
+      "overall_sentiment": "neutral",
+      "field_sentiments": {
+        "product_quality": {
+          "sentiment": "neutral",
+          "confidence": 0.1,
+          "key_phrases": []
+        },
+        "user_experience": {
+          "sentiment": "neutral",
+          "confidence": 0.1,
+          "key_phrases": []
+        },
+        "business_practices": {
+          "sentiment": "neutral",
+          "confidence": 0.1,
+          "key_phrases": []
+        },
+        "financial_performance": {
+          "sentiment": "neutral",
+          "confidence": 0.0,
+          "key_phrases": []
+        },
+        "publisher_relations": {
+          "sentiment": "neutral",
+          "confidence": 0.0,
+          "key_phrases": []
+        },
+        "advertiser_value": {
+          "sentiment": "neutral",
+          "confidence": 0.1,
+          "key_phrases": []
+        }
+      },
+      "edge_cases": {
+        "is_sarcastic": false,
+        "has_mixed_sentiment": false,
+        "is_non_english": false,
+        "language": "en",
+        "is_spam": false
+      },
+      "themes": [
+        {
+          "theme": "trying_taboola_native_ads",
+          "relevance": 0.9
+        },
+        {
+          "theme": "evaluation_of_whether_to_use_taboola",
+          "relevance": 0.8
+        },
+        {
+          "theme": "experience_sharing",
+          "relevance": 0.6
+        }
+      ],
+      "reasoning": "Only the title is provided, which is framed as an exploratory review without explicit positive or negative language. It suggests a discussion of experience and suitability but contains no evaluative statements, so all sentiments are effectively neutral with low confidence where implied and zero where not mentioned.",
+      "metadata": {
+        "id": "25988188",
+        "type": "post",
+        "subreddit": "hackernews",
+        "author": "vessio",
+        "created_utc": 1612184007,
+        "score": 3,
+        "num_comments": 2,
+        "url": "https://websitemaintenance.medium.com/getting-started-with-taboola-native-advertising-what-its-like-should-you-try-it-2cec4032be53"
+      }
+    }
+  },
+  {
+    "text": "I smell a scam.<p>Taboolah shows the same ads it did 5 years ago.  The wrong geographic and other targeting has been a running joke in that time.<p>You see trade publication articles that say they process the data on some supercomputer in Isreal so you know Mossad has the email addresses of gullible old people.<p>Somebody should shut them down.",
+    "context": "comment",
+    "metadata": {
+      "id": "25988436",
+      "type": "comment",
+      "post_id": "25988188",
+      "author": "PaulHoule",
+      "created_utc": 1612185920,
+      "score": 0,
+      "depth": 0
+    },
+    "analysis": {
+      "overall_sentiment": "negative",
+      "field_sentiments": {
+        "product_quality": {
+          "sentiment": "negative",
+          "confidence": 0.95,
+          "key_phrases": [
+            "shows the same ads it did 5 years ago",
+            "wrong geographic and other targeting has been a running joke",
+            "I smell a scam"
+          ]
+        },
+        "user_experience": {
+          "sentiment": "negative",
+          "confidence": 0.9,
+          "key_phrases": [
+            "wrong geographic and other targeting has been a running joke",
+            "I smell a scam",
+            "Somebody should shut them down"
+          ]
+        },
+        "business_practices": {
+          "sentiment": "negative",
+          "confidence": 0.98,
+          "key_phrases": [
+            "I smell a scam",
+            "Somebody should shut them down",
+            "you know Mossad has the email addresses of gullible old people"
+          ]
+        },
+        "financial_performance": {
+          "sentiment": "neutral",
+          "confidence": 0.0,
+          "key_phrases": []
+        },
+        "publisher_relations": {
+          "sentiment": "neutral",
+          "confidence": 0.0,
+          "key_phrases": []
+        },
+        "advertiser_value": {
+          "sentiment": "negative",
+          "confidence": 0.85,
+          "key_phrases": [
+            "shows the same ads it did 5 years ago",
+            "wrong geographic and other targeting has been a running joke",
+            "I smell a scam"
+          ]
+        }
+      },
+      "edge_cases": {
+        "is_sarcastic": true,
+        "has_mixed_sentiment": false,
+        "is_non_english": false,
+        "language": "en",
+        "is_spam": false
+      },
+      "themes": [
+        {
+          "theme": "Perceived scam / unethical behavior",
+          "relevance": 0.98
+        },
+        {
+          "theme": "Poor ad targeting and relevance",
+          "relevance": 0.95
+        },
+        {
+          "theme": "Security/privacy and data misuse concerns",
+          "relevance": 0.8
+        }
+      ],
+      "reasoning": "The commenter strongly criticizes Taboola as a scam, citing outdated ads, long-standing poor targeting, and implying misuse of user data. They call for the company to be shut down. No positive aspects are mentioned. Sarcasm is present in the exaggerated reference to supercomputers and Mossad, reinforcing negative sentiment rather than balancing it.",
+      "metadata": {
+        "id": "25988436",
+        "type": "comment",
+        "post_id": "25988188",
+        "author": "PaulHoule",
+        "created_utc": 1612185920,
+        "score": 0,
+        "depth": 0
+      }
+    }
+  },
+  {
+    "text": "Taboola Is Buying Outbrain",
+    "context": "post",
+    "metadata": {
+      "id": "21186560",
+      "type": "post",
+      "subreddit": "hackernews",
+      "author": "bookofjoe",
+      "created_utc": 1570486514,
+      "score": 3,
+      "num_comments": 0,
+      "url": "https://www.vox.com/recode/2019/10/3/20896367/taboola-outbrain-advertising-facebook-google"
+    },
+    "analysis": {
+      "overall_sentiment": "neutral",
+      "field_sentiments": {
+        "product_quality": {
+          "sentiment": "neutral",
+          "confidence": 0.0,
+          "key_phrases": []
+        },
+        "user_experience": {
+          "sentiment": "neutral",
+          "confidence": 0.0,
+          "key_phrases": []
+        },
+        "business_practices": {
+          "sentiment": "neutral",
+          "confidence": 0.0,
+          "key_phrases": []
+        },
+        "financial_performance": {
+          "sentiment": "neutral",
+          "confidence": 0.0,
+          "key_phrases": []
+        },
+        "publisher_relations": {
+          "sentiment": "neutral",
+          "confidence": 0.0,
+          "key_phrases": []
+        },
+        "advertiser_value": {
+          "sentiment": "neutral",
+          "confidence": 0.0,
+          "key_phrases": []
+        }
+      },
+      "edge_cases": {
+        "is_sarcastic": false,
+        "has_mixed_sentiment": false,
+        "is_non_english": false,
+        "language": "en",
+        "is_spam": false
+      },
+      "themes": [
+        {
+          "theme": "Acquisition announcement",
+          "relevance": 1.0
+        },
+        {
+          "theme": "Ad tech industry consolidation",
+          "relevance": 0.4
+        },
+        {
+          "theme": "Company relationship (Taboola & Outbrain)",
+          "relevance": 0.4
+        }
+      ],
+      "reasoning": "The text is a bare announcement of an acquisition with no evaluative language. No opinions are expressed about product quality, user experience, business practices, financials, publisher relations, or advertiser value, so those fields are effectively not mentioned. Tone is factual, not sarcastic or mixed.",
+      "metadata": {
+        "id": "21186560",
+        "type": "post",
+        "subreddit": "hackernews",
+        "author": "bookofjoe",
+        "created_utc": 1570486514,
+        "score": 3,
+        "num_comments": 0,
+        "url": "https://www.vox.com/recode/2019/10/3/20896367/taboola-outbrain-advertising-facebook-google"
+      }
+    }
+  },
+  {
+    "text": "Taboola and Outbrain to Merge",
+    "context": "post",
+    "metadata": {
+      "id": "21147838",
+      "type": "post",
+      "subreddit": "hackernews",
+      "author": "tech234a",
+      "created_utc": 1570114967,
+      "score": 3,
+      "num_comments": 0,
+      "url": "https://www.wsj.com/articles/digital-ad-companies-taboola-and-outbrain-to-merge-11570108781?mod=rsswn"
+    },
+    "analysis": {
+      "overall_sentiment": "neutral",
+      "field_sentiments": {
+        "product_quality": {
+          "sentiment": "neutral",
+          "confidence": 0.0,
+          "key_phrases": []
+        },
+        "user_experience": {
+          "sentiment": "neutral",
+          "confidence": 0.0,
+          "key_phrases": []
+        },
+        "business_practices": {
+          "sentiment": "neutral",
+          "confidence": 0.0,
+          "key_phrases": []
+        },
+        "financial_performance": {
+          "sentiment": "neutral",
+          "confidence": 0.0,
+          "key_phrases": []
+        },
+        "publisher_relations": {
+          "sentiment": "neutral",
+          "confidence": 0.0,
+          "key_phrases": []
+        },
+        "advertiser_value": {
+          "sentiment": "neutral",
+          "confidence": 0.0,
+          "key_phrases": []
+        }
+      },
+      "edge_cases": {
+        "is_sarcastic": false,
+        "has_mixed_sentiment": false,
+        "is_non_english": false,
+        "language": "en",
+        "is_spam": false
+      },
+      "themes": [
+        {
+          "theme": "corporate_merger_announcement",
+          "relevance": 1.0
+        },
+        {
+          "theme": "ad_tech_industry",
+          "relevance": 0.7
+        },
+        {
+          "theme": "news_headline_only",
+          "relevance": 0.6
+        }
+      ],
+      "reasoning": "The text is a bare announcement of a merger with no evaluative language. No opinions are expressed about product quality, user experience, business practices, finances, publisher relations, or advertiser value, so all field confidences are 0 and overall sentiment is neutral.",
+      "metadata": {
+        "id": "21147838",
+        "type": "post",
+        "subreddit": "hackernews",
+        "author": "tech234a",
+        "created_utc": 1570114967,
+        "score": 3,
+        "num_comments": 0,
+        "url": "https://www.wsj.com/articles/digital-ad-companies-taboola-and-outbrain-to-merge-11570108781?mod=rsswn"
+      }
+    }
+  },
+  {
+    "text": "Taboola, Outbrain and the Chum Supply Chain",
+    "context": "post",
+    "metadata": {
+      "id": "19826029",
+      "type": "post",
+      "subreddit": "hackernews",
+      "author": "cancan",
+      "created_utc": 1556973216,
+      "score": 3,
+      "num_comments": 0,
+      "url": "https://themargins.substack.com/p/taboola-outbrain-and-the-chum-supply"
+    },
+    "analysis": {
+      "overall_sentiment": "negative",
+      "field_sentiments": {
+        "product_quality": {
+          "sentiment": "negative",
+          "confidence": 0.8,
+          "key_phrases": [
+            "chum supply chain"
+          ]
+        },
+        "user_experience": {
+          "sentiment": "negative",
+          "confidence": 0.85,
+          "key_phrases": [
+            "chum supply chain"
+          ]
+        },
+        "business_practices": {
+          "sentiment": "negative",
+          "confidence": 0.85,
+          "key_phrases": [
+            "chum supply chain"
+          ]
+        },
+        "financial_performance": {
+          "sentiment": "neutral",
+          "confidence": 0.0,
+          "key_phrases": []
+        },
+        "publisher_relations": {
+          "sentiment": "neutral",
+          "confidence": 0.0,
+          "key_phrases": []
+        },
+        "advertiser_value": {
+          "sentiment": "neutral",
+          "confidence": 0.0,
+          "key_phrases": []
+        }
+      },
+      "edge_cases": {
+        "is_sarcastic": true,
+        "has_mixed_sentiment": false,
+        "is_non_english": false,
+        "language": "en",
+        "is_spam": false
+      },
+      "themes": [
+        {
+          "theme": "Low-quality clickbait content",
+          "relevance": 0.9
+        },
+        {
+          "theme": "Negative perception of content-recommendation ads",
+          "relevance": 0.85
+        },
+        {
+          "theme": "Critique of ad tech ecosystem",
+          "relevance": 0.7
+        }
+      ],
+      "reasoning": "The phrase “chum supply chain” is a strongly pejorative, metaphorical way to describe Taboola/Outbrain’s content and impact, implying low-quality, spammy, or exploitative material. No positive aspects are mentioned, and no financial, publisher, or advertiser details are provided. The wording suggests sarcasm and a broadly negative view of product quality, user experience, and business practices.",
+      "metadata": {
+        "id": "19826029",
+        "type": "post",
+        "subreddit": "hackernews",
+        "author": "cancan",
+        "created_utc": 1556973216,
+        "score": 3,
+        "num_comments": 0,
+        "url": "https://themargins.substack.com/p/taboola-outbrain-and-the-chum-supply"
+      }
+    }
+  },
+  {
+    "text": "Taboola and Outbrain Merging into a $2B Company to Better Compete with Facebook",
+    "context": "post",
+    "metadata": {
+      "id": "21148840",
+      "type": "post",
+      "subreddit": "hackernews",
+      "author": "potench",
+      "created_utc": 1570120307,
+      "score": 2,
+      "num_comments": 1,
+      "url": "https://www.forbes.com/sites/martyswant/2019/10/03/taboola-and-outbrain-are-merging-into-a-2-billion-company-to-better-compete-with-facebook/"
+    },
+    "analysis": {
+      "overall_sentiment": "neutral",
+      "field_sentiments": {
+        "product_quality": {
+          "sentiment": "neutral",
+          "confidence": 0.0,
+          "key_phrases": []
+        },
+        "user_experience": {
+          "sentiment": "neutral",
+          "confidence": 0.0,
+          "key_phrases": []
+        },
+        "business_practices": {
+          "sentiment": "neutral",
+          "confidence": 0.3,
+          "key_phrases": [
+            "Merging into a $2B Company",
+            "to Better Compete with Facebook"
+          ]
+        },
+        "financial_performance": {
+          "sentiment": "positive",
+          "confidence": 0.4,
+          "key_phrases": [
+            "$2B Company"
+          ]
+        },
+        "publisher_relations": {
+          "sentiment": "neutral",
+          "confidence": 0.0,
+          "key_phrases": []
+        },
+        "advertiser_value": {
+          "sentiment": "neutral",
+          "confidence": 0.0,
+          "key_phrases": []
+        }
+      },
+      "edge_cases": {
+        "is_sarcastic": false,
+        "has_mixed_sentiment": false,
+        "is_non_english": false,
+        "language": "en",
+        "is_spam": false
+      },
+      "themes": [
+        {
+          "theme": "corporate_merger",
+          "relevance": 1.0
+        },
+        {
+          "theme": "competition_with_major_platforms",
+          "relevance": 0.8
+        },
+        {
+          "theme": "company_valuation",
+          "relevance": 0.6
+        }
+      ],
+      "reasoning": "The text is a factual headline about a merger and valuation, with no explicit opinion on product quality, UX, or value. The only mildly positive implication is financial scale ($2B) and competitive positioning against Facebook, but sentiment remains mostly neutral and descriptive.",
+      "metadata": {
+        "id": "21148840",
+        "type": "post",
+        "subreddit": "hackernews",
+        "author": "potench",
+        "created_utc": 1570120307,
+        "score": 2,
+        "num_comments": 1,
+        "url": "https://www.forbes.com/sites/martyswant/2019/10/03/taboola-and-outbrain-are-merging-into-a-2-billion-company-to-better-compete-with-facebook/"
+      }
+    }
+  },
+  {
+    "text": "Two chums join forces to take on a third.<p><a href=\"https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=20409693\" rel=\"nofollow\">https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=20409693</a>",
+    "context": "comment",
+    "metadata": {
+      "id": "21149338",
+      "type": "comment",
+      "post_id": "21148840",
+      "author": "dredmorbius",
+      "created_utc": 1570122927,
+      "score": 0,
+      "depth": 0
+    },
+    "analysis": {
+      "overall_sentiment": "neutral",
+      "field_sentiments": {
+        "product_quality": {
+          "sentiment": "neutral",
+          "confidence": 0.0,
+          "key_phrases": []
+        },
+        "user_experience": {
+          "sentiment": "neutral",
+          "confidence": 0.0,
+          "key_phrases": []
+        },
+        "business_practices": {
+          "sentiment": "neutral",
+          "confidence": 0.0,
+          "key_phrases": []
+        },
+        "financial_performance": {
+          "sentiment": "neutral",
+          "confidence": 0.0,
+          "key_phrases": []
+        },
+        "publisher_relations": {
+          "sentiment": "neutral",
+          "confidence": 0.0,
+          "key_phrases": []
+        },
+        "advertiser_value": {
+          "sentiment": "neutral",
+          "confidence": 0.0,
+          "key_phrases": []
+        }
+      },
+      "edge_cases": {
+        "is_sarcastic": false,
+        "has_mixed_sentiment": false,
+        "is_non_english": false,
+        "language": "en",
+        "is_spam": false
+      },
+      "themes": [
+        {
+          "theme": "competition_between_companies",
+          "relevance": 0.7
+        },
+        {
+          "theme": "industry_news_link",
+          "relevance": 0.6
+        },
+        {
+          "theme": "brief_commentary",
+          "relevance": 0.4
+        }
+      ],
+      "reasoning": "The comment is a short, neutral metaphor about two entities teaming up against a third, plus a link. It does not express any clear opinion on Taboola’s product, user experience, business practices, finances, publisher relations, or advertiser value, nor does it show sarcasm or mixed sentiment.",
+      "metadata": {
+        "id": "21149338",
+        "type": "comment",
+        "post_id": "21148840",
+        "author": "dredmorbius",
+        "created_utc": 1570122927,
+        "score": 0,
+        "depth": 0
+      }
+    }
+  },
+  {
+    "text": "Taboola scores Apple advertising deal, shares surge",
+    "context": "post",
+    "metadata": {
+      "id": "40997379",
+      "type": "post",
+      "subreddit": "hackernews",
+      "author": "talldayo",
+      "created_utc": 1721320909,
+      "score": 2,
+      "num_comments": 0,
+      "url": "https://www.reuters.com/business/media-telecom/taboola-scores-apple-advertising-deal-shares-surge-2024-07-16/"
+    },
+    "analysis": {
+      "overall_sentiment": "positive",
+      "field_sentiments": {
+        "product_quality": {
+          "sentiment": "neutral",
+          "confidence": 0.0,
+          "key_phrases": []
+        },
+        "user_experience": {
+          "sentiment": "neutral",
+          "confidence": 0.0,
+          "key_phrases": []
+        },
+        "business_practices": {
+          "sentiment": "neutral",
+          "confidence": 0.0,
+          "key_phrases": []
+        },
+        "financial_performance": {
+          "sentiment": "positive",
+          "confidence": 0.9,
+          "key_phrases": [
+            "scores Apple advertising deal",
+            "shares surge"
+          ]
+        },
+        "publisher_relations": {
+          "sentiment": "neutral",
+          "confidence": 0.0,
+          "key_phrases": []
+        },
+        "advertiser_value": {
+          "sentiment": "positive",
+          "confidence": 0.4,
+          "key_phrases": [
+            "Apple advertising deal"
+          ]
+        }
+      },
+      "edge_cases": {
+        "is_sarcastic": false,
+        "has_mixed_sentiment": false,
+        "is_non_english": false,
+        "language": "en",
+        "is_spam": false
+      },
+      "themes": [
+        {
+          "theme": "Strategic partnership with Apple",
+          "relevance": 0.95
+        },
+        {
+          "theme": "Positive market reaction",
+          "relevance": 0.9
+        },
+        {
+          "theme": "Advertising and ad tech growth",
+          "relevance": 0.6
+        }
+      ],
+      "reasoning": "The text is a short, factual headline describing Taboola winning an Apple advertising deal and a subsequent share price surge. This clearly implies positive financial performance and a beneficial strategic relationship, with no negative or mixed language. Other aspects like product quality, user experience, and business practices are not mentioned.",
+      "metadata": {
+        "id": "40997379",
+        "type": "post",
+        "subreddit": "hackernews",
+        "author": "talldayo",
+        "created_utc": 1721320909,
+        "score": 2,
+        "num_comments": 0,
+        "url": "https://www.reuters.com/business/media-telecom/taboola-scores-apple-advertising-deal-shares-surge-2024-07-16/"
+      }
+    }
+  },
+  {
+    "text": "Outbrain and Taboola to Merge - $2b deal",
+    "context": "post",
+    "metadata": {
+      "id": "21149227",
+      "type": "post",
+      "subreddit": "hackernews",
+      "author": "celestialcheese",
+      "created_utc": 1570122449,
+      "score": 2,
+      "num_comments": 0,
+      "url": "https://www.adweek.com/programmatic/outbrain-taboola-merger/"
+    },
+    "analysis": {
+      "overall_sentiment": "neutral",
+      "field_sentiments": {
+        "product_quality": {
+          "sentiment": "neutral",
+          "confidence": 0.0,
+          "key_phrases": []
+        },
+        "user_experience": {
+          "sentiment": "neutral",
+          "confidence": 0.0,
+          "key_phrases": []
+        },
+        "business_practices": {
+          "sentiment": "neutral",
+          "confidence": 0.0,
+          "key_phrases": []
+        },
+        "financial_performance": {
+          "sentiment": "neutral",
+          "confidence": 0.4,
+          "key_phrases": [
+            "to Merge",
+            "$2b deal"
+          ]
+        },
+        "publisher_relations": {
+          "sentiment": "neutral",
+          "confidence": 0.0,
+          "key_phrases": []
+        },
+        "advertiser_value": {
+          "sentiment": "neutral",
+          "confidence": 0.0,
+          "key_phrases": []
+        }
+      },
+      "edge_cases": {
+        "is_sarcastic": false,
+        "has_mixed_sentiment": false,
+        "is_non_english": false,
+        "language": "en",
+        "is_spam": false
+      },
+      "themes": [
+        {
+          "theme": "corporate_merger",
+          "relevance": 1.0
+        },
+        {
+          "theme": "deal_valuation",
+          "relevance": 0.7
+        },
+        {
+          "theme": "ad_tech_industry",
+          "relevance": 0.6
+        }
+      ],
+      "reasoning": "The text is purely informational, stating that Outbrain and Taboola are merging in a $2b deal. It contains no explicit positive or negative language about product quality, user experience, business practices, publisher relations, or advertiser value. The only evaluable aspect is financial (a merger and valuation), but even that is described neutrally without judgment.",
+      "metadata": {
+        "id": "21149227",
+        "type": "post",
+        "subreddit": "hackernews",
+        "author": "celestialcheese",
+        "created_utc": 1570122449,
+        "score": 2,
+        "num_comments": 0,
+        "url": "https://www.adweek.com/programmatic/outbrain-taboola-merger/"
+      }
+    }
+  },
+  {
+    "text": "Taboola, Outbrain and the Chum Supply Chain: The Dark Underbelly of Ad-Tech",
+    "context": "post",
+    "metadata": {
+      "id": "20033697",
+      "type": "post",
+      "subreddit": "hackernews",
+      "author": "henridf",
+      "created_utc": 1559073173,
+      "score": 2,
+      "num_comments": 0,
+      "url": "https://themargins.substack.com/p/taboola-outbrain-and-the-chum-supply"
+    },
+    "analysis": {
+      "overall_sentiment": "negative",
+      "field_sentiments": {
+        "product_quality": {
+          "sentiment": "negative",
+          "confidence": 0.9,
+          "key_phrases": [
+            "Chum Supply Chain",
+            "Dark Underbelly of Ad-Tech"
+          ]
+        },
+        "user_experience": {
+          "sentiment": "negative",
+          "confidence": 0.85,
+          "key_phrases": [
+            "Chum Supply Chain",
+            "Dark Underbelly"
+          ]
+        },
+        "business_practices": {
+          "sentiment": "negative",
+          "confidence": 0.95,
+          "key_phrases": [
+            "Dark Underbelly of Ad-Tech",
+            "Chum Supply Chain"
+          ]
+        },
+        "financial_performance": {
+          "sentiment": "neutral",
+          "confidence": 0.0,
+          "key_phrases": []
+        },
+        "publisher_relations": {
+          "sentiment": "negative",
+          "confidence": 0.7,
+          "key_phrases": [
+            "Chum Supply Chain"
+          ]
+        },
+        "advertiser_value": {
+          "sentiment": "neutral",
+          "confidence": 0.0,
+          "key_phrases": []
+        }
+      },
+      "edge_cases": {
+        "is_sarcastic": false,
+        "has_mixed_sentiment": false,
+        "is_non_english": false,
+        "language": "en",
+        "is_spam": false
+      },
+      "themes": [
+        {
+          "theme": "Critique of ad-tech ethics and practices",
+          "relevance": 0.98
+        },
+        {
+          "theme": "Low-quality or exploitative content ('chum')",
+          "relevance": 0.9
+        },
+        {
+          "theme": "Negative impact of recommendation ads on the web",
+          "relevance": 0.8
+        }
+      ],
+      "reasoning": "The title frames Taboola, Outbrain, and related systems as part of a 'dark underbelly' and a 'chum supply chain', both strongly pejorative. This implies unethical or low-quality business practices, poor perceived product quality, and negative impact on user experience and publisher ecosystems. No financial or advertiser-value aspects are mentioned.",
+      "metadata": {
+        "id": "20033697",
+        "type": "post",
+        "subreddit": "hackernews",
+        "author": "henridf",
+        "created_utc": 1559073173,
+        "score": 2,
+        "num_comments": 0,
+        "url": "https://themargins.substack.com/p/taboola-outbrain-and-the-chum-supply"
+      }
+    }
+  },
+  {
+    "text": "Taboola, Outbrain and the Chum Supply Chain",
+    "context": "post",
+    "metadata": {
+      "id": "19900045",
+      "type": "post",
+      "subreddit": "hackernews",
+      "author": "Breadmaker",
+      "created_utc": 1557760299,
+      "score": 2,
+      "num_comments": 0,
+      "url": "https://themargins.substack.com/p/taboola-outbrain-and-the-chum-supply"
+    },
+    "analysis": {
+      "overall_sentiment": "neutral",
+      "field_sentiments": {
+        "product_quality": {
+          "sentiment": "neutral",
+          "confidence": 0.0,
+          "key_phrases": []
+        },
+        "user_experience": {
+          "sentiment": "neutral",
+          "confidence": 0.0,
+          "key_phrases": []
+        },
+        "business_practices": {
+          "sentiment": "neutral",
+          "confidence": 0.0,
+          "key_phrases": []
+        },
+        "financial_performance": {
+          "sentiment": "neutral",
+          "confidence": 0.0,
+          "key_phrases": []
+        },
+        "publisher_relations": {
+          "sentiment": "neutral",
+          "confidence": 0.0,
+          "key_phrases": []
+        },
+        "advertiser_value": {
+          "sentiment": "neutral",
+          "confidence": 0.0,
+          "key_phrases": []
+        }
+      },
+      "edge_cases": {
+        "is_sarcastic": false,
+        "has_mixed_sentiment": false,
+        "is_non_english": false,
+        "language": "en",
+        "is_spam": false
+      },
+      "themes": [
+        {
+          "theme": "insufficient_content_for_sentiment",
+          "relevance": 1.0
+        },
+        {
+          "theme": "mention_of_ad_tech_brands",
+          "relevance": 0.6
+        },
+        {
+          "theme": "title_only_no_opinion",
+          "relevance": 0.9
+        }
+      ],
+      "reasoning": "Only a title is provided, listing Taboola, Outbrain, and a phrase about the supply chain, without any evaluative language. No explicit or implicit sentiment toward product quality, user experience, business practices, financials, publisher relations, or advertiser value can be inferred, so all field confidences are set to 0.",
+      "metadata": {
+        "id": "19900045",
+        "type": "post",
+        "subreddit": "hackernews",
+        "author": "Breadmaker",
+        "created_utc": 1557760299,
+        "score": 2,
+        "num_comments": 0,
+        "url": "https://themargins.substack.com/p/taboola-outbrain-and-the-chum-supply"
+      }
+    }
+  },
+  {
+    "text": "Taboola, Outbrain and the Chum Supply Chain",
+    "context": "post",
+    "metadata": {
+      "id": "19831067",
+      "type": "post",
+      "subreddit": "hackernews",
+      "author": "coloneltcb",
+      "created_utc": 1557028631,
+      "score": 2,
+      "num_comments": 0,
+      "url": "https://themargins.substack.com/p/taboola-outbrain-and-the-chum-supply"
+    },
+    "analysis": {
+      "overall_sentiment": "neutral",
+      "field_sentiments": {
+        "product_quality": {
+          "sentiment": "neutral",
+          "confidence": 0.0,
+          "key_phrases": []
+        },
+        "user_experience": {
+          "sentiment": "neutral",
+          "confidence": 0.0,
+          "key_phrases": []
+        },
+        "business_practices": {
+          "sentiment": "neutral",
+          "confidence": 0.0,
+          "key_phrases": []
+        },
+        "financial_performance": {
+          "sentiment": "neutral",
+          "confidence": 0.0,
+          "key_phrases": []
+        },
+        "publisher_relations": {
+          "sentiment": "neutral",
+          "confidence": 0.0,
+          "key_phrases": []
+        },
+        "advertiser_value": {
+          "sentiment": "neutral",
+          "confidence": 0.0,
+          "key_phrases": []
+        }
+      },
+      "edge_cases": {
+        "is_sarcastic": false,
+        "has_mixed_sentiment": false,
+        "is_non_english": false,
+        "language": "en",
+        "is_spam": false
+      },
+      "themes": [
+        {
+          "theme": "insufficient_content_for_sentiment",
+          "relevance": 1.0
+        },
+        {
+          "theme": "mention_of_ad_tech_brands",
+          "relevance": 0.7
+        },
+        {
+          "theme": "title_only_no_opinion",
+          "relevance": 0.9
+        }
+      ],
+      "reasoning": "Only a title is provided, listing Taboola, Outbrain, and a phrase about a supply chain, with no evaluative language or opinion. There is no basis to infer positive or negative sentiment about any aspect, so all fields are marked neutral with zero confidence.",
+      "metadata": {
+        "id": "19831067",
+        "type": "post",
+        "subreddit": "hackernews",
+        "author": "coloneltcb",
+        "created_utc": 1557028631,
+        "score": 2,
+        "num_comments": 0,
+        "url": "https://themargins.substack.com/p/taboola-outbrain-and-the-chum-supply"
+      }
+    }
+  },
+  {
+    "text": "Taboola, the Leading Advertising Platform, Switches from Oracle to Azul Java",
+    "context": "post",
+    "metadata": {
+      "id": "24122899",
+      "type": "post",
+      "subreddit": "hackernews",
+      "author": "NeAgar",
+      "created_utc": 1597166471,
+      "score": 1,
+      "num_comments": 1,
+      "url": "https://www.azul.com/resources-hub/webinars-2/azul-webinar-why-taboola-switched-from-oracle-to-azul-java"
+    },
+    "analysis": {
+      "overall_sentiment": "neutral",
+      "field_sentiments": {
+        "product_quality": {
+          "sentiment": "neutral",
+          "confidence": 0.4,
+          "key_phrases": [
+            "Leading Advertising Platform",
+            "Switches from Oracle to Azul Java"
+          ]
+        },
+        "user_experience": {
+          "sentiment": "neutral",
+          "confidence": 0.0,
+          "key_phrases": []
+        },
+        "business_practices": {
+          "sentiment": "neutral",
+          "confidence": 0.4,
+          "key_phrases": [
+            "Leading Advertising Platform",
+            "Switches from Oracle to Azul Java"
+          ]
+        },
+        "financial_performance": {
+          "sentiment": "neutral",
+          "confidence": 0.0,
+          "key_phrases": []
+        },
+        "publisher_relations": {
+          "sentiment": "neutral",
+          "confidence": 0.0,
+          "key_phrases": []
+        },
+        "advertiser_value": {
+          "sentiment": "neutral",
+          "confidence": 0.0,
+          "key_phrases": []
+        }
+      },
+      "edge_cases": {
+        "is_sarcastic": false,
+        "has_mixed_sentiment": false,
+        "is_non_english": false,
+        "language": "en",
+        "is_spam": false
+      },
+      "themes": [
+        {
+          "theme": "Technology stack change",
+          "relevance": 0.95
+        },
+        {
+          "theme": "Enterprise software vendors (Oracle vs Azul Java)",
+          "relevance": 0.8
+        },
+        {
+          "theme": "Ad tech platform positioning",
+          "relevance": 0.6
+        }
+      ],
+      "reasoning": "The text is a factual headline about Taboola switching its Java provider from Oracle to Azul. It contains no explicit positive or negative opinion, only a neutral description of a technology/vendor change and a generic claim of being a leading platform. No user experience, financial, publisher, or advertiser aspects are mentioned.",
+      "metadata": {
+        "id": "24122899",
+        "type": "post",
+        "subreddit": "hackernews",
+        "author": "NeAgar",
+        "created_utc": 1597166471,
+        "score": 1,
+        "num_comments": 1,
+        "url": "https://www.azul.com/resources-hub/webinars-2/azul-webinar-why-taboola-switched-from-oracle-to-azul-java"
+      }
+    }
+  },
+  {
+    "text": "Taboola describes how Azul Zing reduces server footprint by 30-50% and achieves unprecedented performance, stability, and security in delivering content to 1.4 billion people monthly.",
+    "context": "comment",
+    "metadata": {
+      "id": "24122900",
+      "type": "comment",
+      "post_id": "24122899",
+      "author": "NeAgar",
+      "created_utc": 1597166471,
+      "score": 0,
+      "depth": 0
+    },
+    "analysis": {
+      "overall_sentiment": "positive",
+      "field_sentiments": {
+        "product_quality": {
+          "sentiment": "positive",
+          "confidence": 0.9,
+          "key_phrases": [
+            "reduces server footprint by 30-50%",
+            "unprecedented performance, stability, and security"
+          ]
+        },
+        "user_experience": {
+          "sentiment": "neutral",
+          "confidence": 0.2,
+          "key_phrases": []
+        },
+        "business_practices": {
+          "sentiment": "neutral",
+          "confidence": 0.2,
+          "key_phrases": []
+        },
+        "financial_performance": {
+          "sentiment": "neutral",
+          "confidence": 0.0,
+          "key_phrases": []
+        },
+        "publisher_relations": {
+          "sentiment": "neutral",
+          "confidence": 0.0,
+          "key_phrases": []
+        },
+        "advertiser_value": {
+          "sentiment": "neutral",
+          "confidence": 0.0,
+          "key_phrases": []
+        }
+      },
+      "edge_cases": {
+        "is_sarcastic": false,
+        "has_mixed_sentiment": false,
+        "is_non_english": false,
+        "language": "en",
+        "is_spam": false
+      },
+      "themes": [
+        {
+          "theme": "technical_performance_improvement",
+          "relevance": 0.95
+        },
+        {
+          "theme": "infrastructure_efficiency",
+          "relevance": 0.8
+        },
+        {
+          "theme": "large_scale_content_delivery",
+          "relevance": 0.7
+        }
+      ],
+      "reasoning": "The comment is a straightforward, positive description of technical benefits from using Azul Zing with Taboola: reduced server footprint and improved performance, stability, and security at large scale. It does not discuss user experience, business practices, financials, publisher relations, or advertiser value, so those are neutral or not mentioned. No negative or sarcastic language appears, so sentiment is uniformly positive toward product quality and infrastructure performance.",
+      "metadata": {
+        "id": "24122900",
+        "type": "comment",
+        "post_id": "24122899",
+        "author": "NeAgar",
+        "created_utc": 1597166471,
+        "score": 0,
+        "depth": 0
+      }
+    }
+  },
+  {
+    "text": "You Might Also Like This Merger: Israel's Taboola, Outbrain to Join Forces",
+    "context": "post",
+    "metadata": {
+      "id": "21159855",
+      "type": "post",
+      "subreddit": "hackernews",
+      "author": "JetSpiegel",
+      "created_utc": 1570209936,
+      "score": 1,
+      "num_comments": 1,
+      "url": "https://www.haaretz.com/israel-news/.premium-you-might-also-like-this-merger-israel-s-taboola-outbrain-to-join-forces-1.7941500"
+    },
+    "analysis": {
+      "overall_sentiment": "neutral",
+      "field_sentiments": {
+        "product_quality": {
+          "sentiment": "neutral",
+          "confidence": 0.0,
+          "key_phrases": []
+        },
+        "user_experience": {
+          "sentiment": "neutral",
+          "confidence": 0.0,
+          "key_phrases": []
+        },
+        "business_practices": {
+          "sentiment": "neutral",
+          "confidence": 0.0,
+          "key_phrases": []
+        },
+        "financial_performance": {
+          "sentiment": "neutral",
+          "confidence": 0.4,
+          "key_phrases": [
+            "Merger",
+            "to Join Forces"
+          ]
+        },
+        "publisher_relations": {
+          "sentiment": "neutral",
+          "confidence": 0.0,
+          "key_phrases": []
+        },
+        "advertiser_value": {
+          "sentiment": "neutral",
+          "confidence": 0.0,
+          "key_phrases": []
+        }
+      },
+      "edge_cases": {
+        "is_sarcastic": false,
+        "has_mixed_sentiment": false,
+        "is_non_english": false,
+        "language": "en",
+        "is_spam": false
+      },
+      "themes": [
+        {
+          "theme": "Corporate merger",
+          "relevance": 0.95
+        },
+        {
+          "theme": "Ad tech industry consolidation",
+          "relevance": 0.7
+        },
+        {
+          "theme": "Israeli tech companies",
+          "relevance": 0.4
+        }
+      ],
+      "reasoning": "The text is a neutral, headline-style statement announcing a merger between Taboola and Outbrain. It does not express clear positive or negative opinions about product quality, user experience, business practices, publisher relations, or advertiser value. The only mildly inferable aspect is financial/corporate activity (a merger), which is still framed neutrally. No sarcasm or mixed sentiment is present.",
+      "metadata": {
+        "id": "21159855",
+        "type": "post",
+        "subreddit": "hackernews",
+        "author": "JetSpiegel",
+        "created_utc": 1570209936,
+        "score": 1,
+        "num_comments": 1,
+        "url": "https://www.haaretz.com/israel-news/.premium-you-might-also-like-this-merger-israel-s-taboola-outbrain-to-join-forces-1.7941500"
+      }
+    }
+  },
+  {
+    "text": "My personal experience with mergers is that prices usually go up (never down, might stay the same), customer service becomes less useful, and useful or unique products go away.<p>I applaud the merger of Taboola and Outbrain. Maybe you should do some domain name consolidation, too? You know, synergetically combine things, simplify them? Make them easier to block for my house with dnsmasq?",
+    "context": "comment",
+    "metadata": {
+      "id": "21160506",
+      "type": "comment",
+      "post_id": "21159855",
+      "author": "bediger4000",
+      "created_utc": 1570213995,
+      "score": 0,
+      "depth": 0
+    },
+    "analysis": {
+      "overall_sentiment": "negative",
+      "field_sentiments": {
+        "product_quality": {
+          "sentiment": "negative",
+          "confidence": 0.85,
+          "key_phrases": [
+            "useful or unique products go away",
+            "make them easier to block for my house"
+          ]
+        },
+        "user_experience": {
+          "sentiment": "negative",
+          "confidence": 0.9,
+          "key_phrases": [
+            "prices usually go up",
+            "customer service becomes less useful",
+            "make them easier to block for my house"
+          ]
+        },
+        "business_practices": {
+          "sentiment": "negative",
+          "confidence": 0.95,
+          "key_phrases": [
+            "I applaud the merger of Taboola and Outbrain. Maybe you should do some domain name consolidation, too?",
+            "synergetically combine things, simplify them?",
+            "Make them easier to block"
+          ]
+        },
+        "financial_performance": {
+          "sentiment": "neutral",
+          "confidence": 0.0,
+          "key_phrases": []
+        },
+        "publisher_relations": {
+          "sentiment": "neutral",
+          "confidence": 0.0,
+          "key_phrases": []
+        },
+        "advertiser_value": {
+          "sentiment": "neutral",
+          "confidence": 0.0,
+          "key_phrases": []
+        }
+      },
+      "edge_cases": {
+        "is_sarcastic": true,
+        "has_mixed_sentiment": false,
+        "is_non_english": false,
+        "language": "en",
+        "is_spam": false
+      },
+      "themes": [
+        {
+          "theme": "Negative view of mergers",
+          "relevance": 0.95
+        },
+        {
+          "theme": "Degradation of service and products",
+          "relevance": 0.9
+        },
+        {
+          "theme": "Desire to block Taboola/Outbrain ads",
+          "relevance": 0.9
+        }
+      ],
+      "reasoning": "The commenter uses sarcasm to ‘applaud’ the merger while clearly disliking its effects, expecting higher prices, worse service, and loss of useful products. The suggestion to consolidate domains is framed as a way to block Taboola/Outbrain more easily, indicating a strongly negative stance toward their presence and practices. No direct mention is made of financial performance, publisher relations, or advertiser value.",
+      "metadata": {
+        "id": "21160506",
+        "type": "comment",
+        "post_id": "21159855",
+        "author": "bediger4000",
+        "created_utc": 1570213995,
+        "score": 0,
+        "depth": 0
+      }
+    }
+  },
+  {
+    "text": "Watchout Outbrain. Taboola raises $100M in a Pre-IPO funding round",
+    "context": "post",
+    "metadata": {
+      "id": "8814524",
+      "type": "post",
+      "subreddit": "hackernews",
+      "author": "AlisonHX",
+      "created_utc": 1419946797,
+      "score": 1,
+      "num_comments": 0,
+      "url": "http://www.geektime.com/2014/12/30/content-recommender-taboola-raises-100-million-in-pre-ipo-funding-round/"
+    },
+    "analysis": {
+      "overall_sentiment": "positive",
+      "field_sentiments": {
+        "product_quality": {
+          "sentiment": "neutral",
+          "confidence": 0.0,
+          "key_phrases": []
+        },
+        "user_experience": {
+          "sentiment": "neutral",
+          "confidence": 0.0,
+          "key_phrases": []
+        },
+        "business_practices": {
+          "sentiment": "neutral",
+          "confidence": 0.2,
+          "key_phrases": [
+            "Pre-IPO funding round"
+          ]
+        },
+        "financial_performance": {
+          "sentiment": "positive",
+          "confidence": 0.8,
+          "key_phrases": [
+            "raises $100M",
+            "Pre-IPO funding round"
+          ]
+        },
+        "publisher_relations": {
+          "sentiment": "neutral",
+          "confidence": 0.0,
+          "key_phrases": []
+        },
+        "advertiser_value": {
+          "sentiment": "neutral",
+          "confidence": 0.0,
+          "key_phrases": []
+        }
+      },
+      "edge_cases": {
+        "is_sarcastic": false,
+        "has_mixed_sentiment": false,
+        "is_non_english": false,
+        "language": "en",
+        "is_spam": false
+      },
+      "themes": [
+        {
+          "theme": "fundraising_and_investment",
+          "relevance": 1.0
+        },
+        {
+          "theme": "pre_ipo_activity",
+          "relevance": 0.9
+        },
+        {
+          "theme": "competitive_landscape_with_outbrain",
+          "relevance": 0.6
+        }
+      ],
+      "reasoning": "The post is a short news-style statement highlighting Taboola’s $100M pre-IPO raise and positioning versus Outbrain. This implies positive sentiment about financial strength and growth prospects, but it does not mention product quality, UX, publisher relations, or advertiser value. No sarcasm or mixed sentiment is evident.",
+      "metadata": {
+        "id": "8814524",
+        "type": "post",
+        "subreddit": "hackernews",
+        "author": "AlisonHX",
+        "created_utc": 1419946797,
+        "score": 1,
+        "num_comments": 0,
+        "url": "http://www.geektime.com/2014/12/30/content-recommender-taboola-raises-100-million-in-pre-ipo-funding-round/"
+      }
+    }
+  },
+  {
+    "text": "Facebooks New Content Ads: RIP Outbrain, Taboola, Gravity, Disqus",
+    "context": "post",
+    "metadata": {
+      "id": "7049592",
+      "type": "post",
+      "subreddit": "hackernews",
+      "author": "jcwinter",
+      "created_utc": 1389604640,
+      "score": 1,
+      "num_comments": 0,
+      "url": "http://iamjustinwinter.com/facebook-new-content-ad-format-rip-outbrain-taboola-gravity/"
+    },
+    "analysis": {
+      "overall_sentiment": "negative",
+      "field_sentiments": {
+        "product_quality": {
+          "sentiment": "negative",
+          "confidence": 0.8,
+          "key_phrases": [
+            "RIP Outbrain, Taboola, Gravity, Disqus"
+          ]
+        },
+        "user_experience": {
+          "sentiment": "negative",
+          "confidence": 0.7,
+          "key_phrases": [
+            "RIP Outbrain, Taboola, Gravity, Disqus"
+          ]
+        },
+        "business_practices": {
+          "sentiment": "negative",
+          "confidence": 0.7,
+          "key_phrases": [
+            "RIP Outbrain, Taboola, Gravity, Disqus"
+          ]
+        },
+        "financial_performance": {
+          "sentiment": "negative",
+          "confidence": 0.6,
+          "key_phrases": [
+            "RIP Outbrain, Taboola, Gravity, Disqus"
+          ]
+        },
+        "publisher_relations": {
+          "sentiment": "negative",
+          "confidence": 0.5,
+          "key_phrases": [
+            "RIP Outbrain, Taboola, Gravity, Disqus"
+          ]
+        },
+        "advertiser_value": {
+          "sentiment": "neutral",
+          "confidence": 0.0,
+          "key_phrases": []
+        }
+      },
+      "edge_cases": {
+        "is_sarcastic": false,
+        "has_mixed_sentiment": false,
+        "is_non_english": false,
+        "language": "en",
+        "is_spam": false
+      },
+      "themes": [
+        {
+          "theme": "Competitive threat from Facebook",
+          "relevance": 0.95
+        },
+        {
+          "theme": "Displacement of existing ad-tech players",
+          "relevance": 0.9
+        },
+        {
+          "theme": "Negative outlook for content recommendation platforms",
+          "relevance": 0.85
+        }
+      ],
+      "reasoning": "The phrase “RIP Outbrain, Taboola, Gravity, Disqus” implies these companies are doomed or severely threatened by Facebook’s new content ads. This conveys a strongly negative outlook on their future, business prospects, and perceived viability, with no positive counterpoints or nuance in the text.",
+      "metadata": {
+        "id": "7049592",
+        "type": "post",
+        "subreddit": "hackernews",
+        "author": "jcwinter",
+        "created_utc": 1389604640,
+        "score": 1,
+        "num_comments": 0,
+        "url": "http://iamjustinwinter.com/facebook-new-content-ad-format-rip-outbrain-taboola-gravity/"
+      }
+    }
+  },
+  {
+    "text": "Taboola goes international, launches sponsored video placement",
+    "context": "post",
+    "metadata": {
+      "id": "3396428",
+      "type": "post",
+      "subreddit": "hackernews",
+      "author": "FluidDjango",
+      "created_utc": 1325006332,
+      "score": 1,
+      "num_comments": 0,
+      "url": "http://gigaom.com/video/taboola-sponsored-international/"
+    },
+    "analysis": {
+      "overall_sentiment": "neutral",
+      "field_sentiments": {
+        "product_quality": {
+          "sentiment": "neutral",
+          "confidence": 0.2,
+          "key_phrases": []
+        },
+        "user_experience": {
+          "sentiment": "neutral",
+          "confidence": 0.2,
+          "key_phrases": []
+        },
+        "business_practices": {
+          "sentiment": "neutral",
+          "confidence": 0.2,
+          "key_phrases": []
+        },
+        "financial_performance": {
+          "sentiment": "neutral",
+          "confidence": 0.2,
+          "key_phrases": []
+        },
+        "publisher_relations": {
+          "sentiment": "neutral",
+          "confidence": 0.2,
+          "key_phrases": []
+        },
+        "advertiser_value": {
+          "sentiment": "neutral",
+          "confidence": 0.2,
+          "key_phrases": []
+        }
+      },
+      "edge_cases": {
+        "is_sarcastic": false,
+        "has_mixed_sentiment": false,
+        "is_non_english": false,
+        "language": "en",
+        "is_spam": false
+      },
+      "themes": [
+        {
+          "theme": "international_expansion",
+          "relevance": 0.9
+        },
+        {
+          "theme": "video_ad_products",
+          "relevance": 0.8
+        },
+        {
+          "theme": "product_launch_announcement",
+          "relevance": 0.7
+        }
+      ],
+      "reasoning": "The text is a neutral, factual announcement that Taboola is expanding internationally and launching sponsored video placements. It contains no explicit positive or negative judgments about product quality, user experience, business practices, financial performance, publisher relations, or advertiser value, so all field sentiments are neutral with low confidence due to lack of detail.",
+      "metadata": {
+        "id": "3396428",
+        "type": "post",
+        "subreddit": "hackernews",
+        "author": "FluidDjango",
+        "created_utc": 1325006332,
+        "score": 1,
+        "num_comments": 0,
+        "url": "http://gigaom.com/video/taboola-sponsored-international/"
+      }
+    }
+  },
+  {
+    "text": "Ecommerce Success on Taboola, Outbrain and Gemini",
+    "context": "post",
+    "metadata": {
+      "id": "19648934",
+      "type": "post",
+      "subreddit": "hackernews",
+      "author": "jkuria",
+      "created_utc": 1555102898,
+      "score": 1,
+      "num_comments": 0,
+      "url": "https://capitalandgrowth.org/questions/1763/has-anyone-had-success-with-taboolaoutbraingemini.html"
+    },
+    "analysis": {
+      "overall_sentiment": "positive",
+      "field_sentiments": {
+        "product_quality": {
+          "sentiment": "positive",
+          "confidence": 0.6,
+          "key_phrases": [
+            "Ecommerce Success",
+            "on Taboola, Outbrain and Gemini"
+          ]
+        },
+        "user_experience": {
+          "sentiment": "neutral",
+          "confidence": 0.0,
+          "key_phrases": []
+        },
+        "business_practices": {
+          "sentiment": "neutral",
+          "confidence": 0.0,
+          "key_phrases": []
+        },
+        "financial_performance": {
+          "sentiment": "positive",
+          "confidence": 0.6,
+          "key_phrases": [
+            "Ecommerce Success"
+          ]
+        },
+        "publisher_relations": {
+          "sentiment": "neutral",
+          "confidence": 0.0,
+          "key_phrases": []
+        },
+        "advertiser_value": {
+          "sentiment": "positive",
+          "confidence": 0.6,
+          "key_phrases": [
+            "Ecommerce Success",
+            "on Taboola, Outbrain and Gemini"
+          ]
+        }
+      },
+      "edge_cases": {
+        "is_sarcastic": false,
+        "has_mixed_sentiment": false,
+        "is_non_english": false,
+        "language": "en",
+        "is_spam": false
+      },
+      "themes": [
+        {
+          "theme": "Ecommerce performance",
+          "relevance": 0.9
+        },
+        {
+          "theme": "Ad tech platforms comparison",
+          "relevance": 0.7
+        },
+        {
+          "theme": "Marketing on Taboola/Outbrain/Gemini",
+          "relevance": 0.6
+        }
+      ],
+      "reasoning": "The only content is a title emphasizing “Ecommerce Success” on Taboola, Outbrain, and Gemini, implying positive results for advertisers and financial outcomes. No details are given about user experience, business practices, or publisher relations, so those are marked neutral with zero confidence. No sarcasm or spam indicators are present, and the language is clearly English.",
+      "metadata": {
+        "id": "19648934",
+        "type": "post",
+        "subreddit": "hackernews",
+        "author": "jkuria",
+        "created_utc": 1555102898,
+        "score": 1,
+        "num_comments": 0,
+        "url": "https://capitalandgrowth.org/questions/1763/has-anyone-had-success-with-taboolaoutbraingemini.html"
+      }
+    }
+  },
+  {
+    "text": "Ask HN: Outbrain/Taboola for boosting startup press coverage? After getting some good press, a friend who works in PR suggested using Outbrain or Taboola to get more benefit out of the coverage. Has anyone tried this?<p>Additional background: we were covered in The Atlantic and subsequently interviewed on NPR radio. My thinking is that high-quality websites like these would stand out among the typical Outbrain&#x2F;Taboola stuff. But from talking with Outbrain folks, it sounds like we should expect to pay about 50 cents per click, which seems pretty pricey. Curious to know if others have tried to boost press coverage in this way, and if so what they&#x27;ve learned.<p>1: http:&#x2F;&#x2F;www.theatlantic.com&#x2F;technology&#x2F;archive&#x2F;2016&#x2F;05&#x2F;a-better-way-to-read&#x2F;482127&#x2F;<p>2: http:&#x2F;&#x2F;thetakeaway.org&#x2F;story&#x2F;eureka-moment-makes-reading-easier&#x2F;",
+    "context": "post",
+    "metadata": {
+      "id": "15849359",
+      "type": "post",
+      "subreddit": "hackernews",
+      "author": "gnicholas",
+      "created_utc": 1512441703,
+      "score": 1,
+      "num_comments": 0,
+      "url": ""
+    },
+    "analysis": {
+      "overall_sentiment": "neutral",
+      "field_sentiments": {
+        "product_quality": {
+          "sentiment": "neutral",
+          "confidence": 0.4,
+          "key_phrases": [
+            "high-quality websites like these would stand out among the typical Outbrain/Taboola stuff",
+            "suggested using Outbrain or Taboola to get more benefit out of the coverage"
+          ]
+        },
+        "user_experience": {
+          "sentiment": "neutral",
+          "confidence": 0.2,
+          "key_phrases": []
+        },
+        "business_practices": {
+          "sentiment": "neutral",
+          "confidence": 0.5,
+          "key_phrases": [
+            "from talking with Outbrain folks, it sounds like we should expect to pay about 50 cents per click",
+            "which seems pretty pricey"
+          ]
+        },
+        "financial_performance": {
+          "sentiment": "neutral",
+          "confidence": 0.0,
+          "key_phrases": []
+        },
+        "publisher_relations": {
+          "sentiment": "neutral",
+          "confidence": 0.3,
+          "key_phrases": [
+            "high-quality websites like these would stand out among the typical Outbrain/Taboola stuff"
+          ]
+        },
+        "advertiser_value": {
+          "sentiment": "mixed",
+          "confidence": 0.6,
+          "key_phrases": [
+            "suggested using Outbrain or Taboola to get more benefit out of the coverage",
+            "which seems pretty pricey",
+            "Curious to know if others have tried to boost press coverage in this way, and if so what they've learned"
+          ]
+        }
+      },
+      "edge_cases": {
+        "is_sarcastic": false,
+        "has_mixed_sentiment": true,
+        "is_non_english": false,
+        "language": "en",
+        "is_spam": false
+      },
+      "themes": [
+        {
+          "theme": "Using content recommendation networks to amplify press coverage",
+          "relevance": 0.95
+        },
+        {
+          "theme": "Concerns about cost per click and ROI",
+          "relevance": 0.8
+        },
+        {
+          "theme": "Perceived quality gap between premium press and typical Taboola/Outbrain content",
+          "relevance": 0.6
+        }
+      ],
+      "reasoning": "The post is an exploratory question about using Outbrain/Taboola to promote existing high-quality press. It expresses interest in potential benefits but concern that $0.50 CPC is expensive, without clear praise or criticism of product quality or business ethics. This yields neutral overall sentiment with mixed feelings specifically about advertiser value and cost-effectiveness.",
+      "metadata": {
+        "id": "15849359",
+        "type": "post",
+        "subreddit": "hackernews",
+        "author": "gnicholas",
+        "created_utc": 1512441703,
+        "score": 1,
+        "num_comments": 0,
+        "url": ""
+      }
+    }
+  },
+  {
+    "text": "The ROI of Content Distribution Networks: Outbrain vs. Taboola vs. NRelate",
+    "context": "post",
+    "metadata": {
+      "id": "10452494",
+      "type": "post",
+      "subreddit": "hackernews",
+      "author": "grflynn",
+      "created_utc": 1445877304,
+      "score": 1,
+      "num_comments": 0,
+      "url": "https://moz.com/blog/maximize-roi-via-content-distribution-networks"
+    },
+    "analysis": {
+      "overall_sentiment": "neutral",
+      "field_sentiments": {
+        "product_quality": {
+          "sentiment": "neutral",
+          "confidence": 0.1,
+          "key_phrases": []
+        },
+        "user_experience": {
+          "sentiment": "neutral",
+          "confidence": 0.1,
+          "key_phrases": []
+        },
+        "business_practices": {
+          "sentiment": "neutral",
+          "confidence": 0.1,
+          "key_phrases": []
+        },
+        "financial_performance": {
+          "sentiment": "neutral",
+          "confidence": 0.1,
+          "key_phrases": []
+        },
+        "publisher_relations": {
+          "sentiment": "neutral",
+          "confidence": 0.1,
+          "key_phrases": []
+        },
+        "advertiser_value": {
+          "sentiment": "neutral",
+          "confidence": 0.1,
+          "key_phrases": []
+        }
+      },
+      "edge_cases": {
+        "is_sarcastic": false,
+        "has_mixed_sentiment": false,
+        "is_non_english": false,
+        "language": "en",
+        "is_spam": false
+      },
+      "themes": [
+        {
+          "theme": "comparison_of_content_distribution_networks",
+          "relevance": 0.9
+        },
+        {
+          "theme": "return_on_investment_discussion",
+          "relevance": 0.7
+        },
+        {
+          "theme": "ad_tech_platforms_outbrain_taboola_nrelate",
+          "relevance": 0.7
+        }
+      ],
+      "reasoning": "The text is only a title describing a comparison of ROI between Outbrain, Taboola, and NRelate. It contains no explicit positive or negative language about Taboola or any specific aspect such as product quality or user experience, so all field sentiments are effectively neutral with low confidence due to lack of detail.",
+      "metadata": {
+        "id": "10452494",
+        "type": "post",
+        "subreddit": "hackernews",
+        "author": "grflynn",
+        "created_utc": 1445877304,
+        "score": 1,
+        "num_comments": 0,
+        "url": "https://moz.com/blog/maximize-roi-via-content-distribution-networks"
+      }
+    }
+  }
+]

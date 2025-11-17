@@ -1,0 +1,418 @@
+{
+  "summary": {
+    "total_items": 754,
+    "total_posts": 139,
+    "total_comments": 615,
+    "unique_subreddits": 42,
+    "date_range": {
+      "earliest": 1423108307,
+      "latest": 1763118977
+    }
+  },
+  "overall_sentiment_distribution": {
+    "positive": "17.6%",
+    "negative": "39.5%",
+    "neutral": "37.8%",
+    "mixed": "5.0%"
+  },
+  "field_distributions": {
+    "product_quality": {
+      "negative": 63.888888888888886,
+      "positive": 20.555555555555554,
+      "neutral": 11.666666666666666,
+      "mixed": 3.888888888888889,
+      "total_mentions": 360
+    },
+    "user_experience": {
+      "negative": 78.91373801916933,
+      "positive": 13.099041533546327,
+      "neutral": 6.3897763578274756,
+      "mixed": 1.5974440894568689,
+      "total_mentions": 313
+    },
+    "business_practices": {
+      "positive": 14.38679245283019,
+      "negative": 64.85849056603774,
+      "neutral": 17.92452830188679,
+      "mixed": 2.8301886792452833,
+      "total_mentions": 424
+    },
+    "financial_performance": {
+      "positive": 54.70588235294118,
+      "negative": 27.647058823529413,
+      "neutral": 15.294117647058824,
+      "mixed": 2.3529411764705883,
+      "total_mentions": 170
+    },
+    "publisher_relations": {
+      "mixed": 2.272727272727273,
+      "negative": 47.72727272727273,
+      "positive": 40.15151515151515,
+      "neutral": 9.848484848484848,
+      "total_mentions": 132
+    },
+    "advertiser_value": {
+      "positive": 29.96632996632997,
+      "negative": 48.821548821548824,
+      "mixed": 8.080808080808081,
+      "neutral": 13.131313131313133,
+      "total_mentions": 297
+    }
+  },
+  "edge_cases": {
+    "sarcastic_count": 108,
+    "mixed_sentiment_count": 103,
+    "non_english_count": 7,
+    "spam_count": 58
+  },
+  "language_distribution": {
+    "en": 747,
+    "pt": 4,
+    "de": 2,
+    "es": 1
+  },
+  "top_themes_by_field": {
+    "business_practices": [
+      {
+        "theme": "Announces $200M Share Repurchase Expansion",
+        "frequency": 3,
+        "representative_quotes": [
+          {
+            "text": "Taboola Reports Strong Q2 2025 Financial Results, Surpassing High-End of Guidance; Increases Full-Year Guidance &amp; Announces $200M Share Repurchase Expansion - TBLA TBLAW",
+            "sentiment": "positive",
+            "score": 1,
+            "link": "https://www.globenewswire.com/news-release/2025/08/06/3128151/31297/en/Taboola-Reports-Strong-Q2-2025-Financial-Results-Surpassing-High-End-of-Guidance-Increases-Full-Year-Guidance-Announces-200M-Share-Repurchase-Expansion.html"
+          },
+          {
+            "text": "Taboola Reports Strong Fourth Quarter &amp; Full Year 2024 Financial Results; Announces $200M Share Repurchase Expansion; Launches Realize Platform - TBLA TBLAW",
+            "sentiment": "positive",
+            "score": 1,
+            "link": "https://www.globenewswire.com/news-release/2025/02/26/3032715/31297/en/Taboola-Reports-Strong-Fourth-Quarter-Full-Year-2024-Financial-Results-Announces-200M-Share-Repurchase-Expansion-Launches-Realize-Platform.html"
+          },
+          {
+            "text": "TBLA | Taboola Reports Strong Fourth Quarter &amp; Full Year 2024 Financial Results; Announces $200M Share Repurchase Expansion; Launches Realize Platform",
+            "sentiment": "positive",
+            "score": 1,
+            "link": "https://www.stocktitan.net/news/TBLA/taboola-reports-strong-fourth-quarter-full-year-2024-financial-mie1rvvsq6y8.html"
+          }
+        ]
+      },
+      {
+        "theme": "click bait",
+        "frequency": 2,
+        "representative_quotes": [
+          {
+            "text": "Is it still garbage click bait?",
+            "sentiment": "negative",
+            "score": 28,
+            "link": "https://www.reddit.com/comments/mlsnfcx"
+          },
+          {
+            "text": "Good for the publisher in the short term, maybe, but it does nothing to build your audience in a way that's sustainble longterm, and brings no value to the advertisers because the engagement of any re",
+            "sentiment": "negative",
+            "score": 0,
+            "link": "https://www.reddit.com/comments/ikshho8"
+          }
+        ]
+      },
+      {
+        "theme": "wined and dined by sales reps",
+        "frequency": 2,
+        "representative_quotes": [
+          {
+            "text": "Absolutely. Last November I had a meeting with a sales rep for Taboola. After going through the deck and checking out the case studies, I thanked him for his time, and told my planner to not bother se",
+            "sentiment": "negative",
+            "score": 8,
+            "link": "https://www.reddit.com/comments/cyrdw8g"
+          },
+          {
+            "text": "&gt;Those clients are usually the ones who push for solutions like these, because they have been wined and dined by sales reps and don't see that it may not provide a good fit for the brand, the targe",
+            "sentiment": "negative",
+            "score": 1,
+            "link": "https://www.reddit.com/comments/cyu1amb"
+          }
+        ]
+      }
+    ],
+    "financial_performance": [
+      {
+        "theme": "we are struggling",
+        "frequency": 2,
+        "representative_quotes": [
+          {
+            "text": "OK, sure, but who here is actually working for that media company/publisher that is actually, matter of fact, de facto making a profit without resorting to click bait or taboola/outbrain? Not even bei",
+            "sentiment": "negative",
+            "score": 2,
+            "link": "https://www.reddit.com/comments/cyrgz58"
+          },
+          {
+            "text": "&gt;  Because I work for a giant media company and we are struggling.\n\nWhat are your current revenue streams? \nAre you local or national? \nI know many local publishers who are fairing well with target",
+            "sentiment": "negative",
+            "score": 1,
+            "link": "https://www.reddit.com/comments/cyu14b7"
+          }
+        ]
+      },
+      {
+        "theme": "Reports Strong Q2 2025 Financial Results",
+        "frequency": 2,
+        "representative_quotes": [
+          {
+            "text": "Taboola Reports Strong Q2 2025 Financial Results, Surpassing High-End of Guidance; Increases Full-Year Guidance &amp; Announces $200M Share Repurchase Expansion",
+            "sentiment": "positive",
+            "score": 2,
+            "link": "https://quantisnow.com/i/taboola-reports-strong-q2-2025-financial-results-surpassing-highend-of-guidance-increases-fullyear-guidance-6148824?utm_source=reddit"
+          },
+          {
+            "text": "Taboola Reports Strong Q2 2025 Financial Results, Surpassing High-End of Guidance; Increases Full-Year Guidance &amp; Announces $200M Share Repurchase Expansion - TBLA TBLAW",
+            "sentiment": "positive",
+            "score": 1,
+            "link": "https://www.globenewswire.com/news-release/2025/08/06/3128151/31297/en/Taboola-Reports-Strong-Q2-2025-Financial-Results-Surpassing-High-End-of-Guidance-Increases-Full-Year-Guidance-Announces-200M-Share-Repurchase-Expansion.html"
+          }
+        ]
+      },
+      {
+        "theme": "Surpassing High-End of Guidance",
+        "frequency": 2,
+        "representative_quotes": [
+          {
+            "text": "Taboola Reports Strong Q2 2025 Financial Results, Surpassing High-End of Guidance; Increases Full-Year Guidance &amp; Announces $200M Share Repurchase Expansion",
+            "sentiment": "positive",
+            "score": 2,
+            "link": "https://quantisnow.com/i/taboola-reports-strong-q2-2025-financial-results-surpassing-highend-of-guidance-increases-fullyear-guidance-6148824?utm_source=reddit"
+          },
+          {
+            "text": "Taboola Reports Strong Q2 2025 Financial Results, Surpassing High-End of Guidance; Increases Full-Year Guidance &amp; Announces $200M Share Repurchase Expansion - TBLA TBLAW",
+            "sentiment": "positive",
+            "score": 1,
+            "link": "https://www.globenewswire.com/news-release/2025/08/06/3128151/31297/en/Taboola-Reports-Strong-Q2-2025-Financial-Results-Surpassing-High-End-of-Guidance-Increases-Full-Year-Guidance-Announces-200M-Share-Repurchase-Expansion.html"
+          }
+        ]
+      }
+    ],
+    "publisher_relations": [
+      {
+        "theme": "Empowering Publishers",
+        "frequency": 2,
+        "representative_quotes": [
+          {
+            "text": "Taboola Unveils DeeperDive, a Gen AI Answer Engine Built for the Open Web, Connecting Readers with Unique Publisher Content, Empowering Publishers to Defy Abuse by Gen AI Search - TBLA TBLAW",
+            "sentiment": "positive",
+            "score": 1,
+            "link": "https://www.globenewswire.com/news-release/2025/06/11/3097501/0/en/Taboola-Unveils-DeeperDive-a-Gen-AI-Answer-Engine-Built-for-the-Open-Web-Connecting-Readers-with-Unique-Publisher-Content-Empowering-Publishers-to-Defy-Abuse-by-Gen-AI-Search.html"
+          },
+          {
+            "text": "Taboola Unveils DeeperDive, a Gen AI Answer Engine Built for the Open Web, Connecting Readers with Unique Publisher Content, Empowering Publishers to Defy Abuse by Gen AI Search",
+            "sentiment": "positive",
+            "score": 1,
+            "link": "https://quantisnow.com/i/taboola-unveils-deeperdive-a-gen-ai-answer-engine-built-for-the-open-web-connecting-6081468?utm_source=reddit"
+          }
+        ]
+      },
+      {
+        "theme": "Connecting Readers with Unique Publisher Content",
+        "frequency": 2,
+        "representative_quotes": [
+          {
+            "text": "Taboola Unveils DeeperDive, a Gen AI Answer Engine Built for the Open Web, Connecting Readers with Unique Publisher Content, Empowering Publishers to Defy Abuse by Gen AI Search - TBLA TBLAW",
+            "sentiment": "positive",
+            "score": 1,
+            "link": "https://www.globenewswire.com/news-release/2025/06/11/3097501/0/en/Taboola-Unveils-DeeperDive-a-Gen-AI-Answer-Engine-Built-for-the-Open-Web-Connecting-Readers-with-Unique-Publisher-Content-Empowering-Publishers-to-Defy-Abuse-by-Gen-AI-Search.html"
+          },
+          {
+            "text": "Taboola Unveils DeeperDive, a Gen AI Answer Engine Built for the Open Web, Connecting Readers with Unique Publisher Content, Empowering Publishers to Defy Abuse by Gen AI Search",
+            "sentiment": "positive",
+            "score": 1,
+            "link": "https://quantisnow.com/i/taboola-unveils-deeperdive-a-gen-ai-answer-engine-built-for-the-open-web-connecting-6081468?utm_source=reddit"
+          }
+        ]
+      },
+      {
+        "theme": "Expands Partnership with Gannett",
+        "frequency": 2,
+        "representative_quotes": [
+          {
+            "text": "Taboola Expands Partnership with Gannett to Bolster Realize Offering, Empowering Performance Advertisers to Connect with Consumers Across Entirety of Gannett Properties - TBLA TBLAW",
+            "sentiment": "positive",
+            "score": 1,
+            "link": "https://www.globenewswire.com/news-release/2025/04/23/3066440/31297/en/Taboola-Expands-Partnership-with-Gannett-to-Bolster-Realize-Offering-Empowering-Performance-Advertisers-to-Connect-with-Consumers-Across-Entirety-of-Gannett-Properties.html"
+          },
+          {
+            "text": "Taboola Expands Partnership with Gannett to Bolster Realize Offering, Empowering Performance Advertisers to Connect with Consumers Across Entirety of Gannett Properties",
+            "sentiment": "positive",
+            "score": 1,
+            "link": "https://quantisnow.com/i/taboola-expands-partnership-with-gannett-to-bolster-realize-offering-empowering-performance-advertisers-to-connect-5997575?utm_source=reddit"
+          }
+        ]
+      }
+    ],
+    "advertiser_value": [
+      {
+        "theme": "bot traffic",
+        "frequency": 3,
+        "representative_quotes": [
+          {
+            "text": "How do you know those publishers haven't themselves bought the bot traffic from Microsoft's network partners? Or that they haven't bought from another site that has been buying MSFT syndicated parter ",
+            "sentiment": "negative",
+            "score": 2,
+            "link": "https://www.reddit.com/comments/iks33ip"
+          },
+          {
+            "text": "I'm still new to advertising in general, so maybe I'm doing something wrong or maybe I'm not organizing this.\n\nI actually tried to block the sites in an old campaign a while ago, after blocking so man",
+            "sentiment": "negative",
+            "score": 2,
+            "link": "https://www.reddit.com/comments/irw9yzv"
+          },
+          {
+            "text": "I would only trial Taboola with click fraud protection active. Too risky with bot traffic otherwise.",
+            "sentiment": "negative",
+            "score": 1,
+            "link": "https://www.reddit.com/comments/ll9gkjj"
+          }
+        ]
+      },
+      {
+        "theme": "low quality traffic",
+        "frequency": 2,
+        "representative_quotes": [
+          {
+            "text": "My experience is that it was like every other display network: full of crap, low quality traffic. And when you looked at the leads that did come through, you'd question if they would have arrived anyw",
+            "sentiment": "negative",
+            "score": 17,
+            "link": "https://www.reddit.com/comments/mmxveil"
+          },
+          {
+            "text": "The inventory in taboos is shambles. \n\nLow cpm but low quality traffic and clicks….",
+            "sentiment": "negative",
+            "score": 2,
+            "link": "https://www.reddit.com/comments/ll4r1cv"
+          }
+        ]
+      },
+      {
+        "theme": "Empowering performance advertisers",
+        "frequency": 2,
+        "representative_quotes": [
+          {
+            "text": "Taboola Expands Partnership with Gannett to Bolster Realize Offering, Empowering Performance Advertisers to Connect with Consumers Across Entirety of Gannett Properties - TBLA TBLAW",
+            "sentiment": "positive",
+            "score": 1,
+            "link": "https://www.globenewswire.com/news-release/2025/04/23/3066440/31297/en/Taboola-Expands-Partnership-with-Gannett-to-Bolster-Realize-Offering-Empowering-Performance-Advertisers-to-Connect-with-Consumers-Across-Entirety-of-Gannett-Properties.html"
+          },
+          {
+            "text": "Taboola Expands Partnership with Gannett to Bolster Realize Offering, Empowering Performance Advertisers to Connect with Consumers Across Entirety of Gannett Properties",
+            "sentiment": "positive",
+            "score": 1,
+            "link": "https://quantisnow.com/i/taboola-expands-partnership-with-gannett-to-bolster-realize-offering-empowering-performance-advertisers-to-connect-5997575?utm_source=reddit"
+          }
+        ]
+      }
+    ],
+    "product_quality": [
+      {
+        "theme": "low quality traffic",
+        "frequency": 2,
+        "representative_quotes": [
+          {
+            "text": "My experience is that it was like every other display network: full of crap, low quality traffic. And when you looked at the leads that did come through, you'd question if they would have arrived anyw",
+            "sentiment": "negative",
+            "score": 17,
+            "link": "https://www.reddit.com/comments/mmxveil"
+          },
+          {
+            "text": "The inventory in taboos is shambles. \n\nLow cpm but low quality traffic and clicks….",
+            "sentiment": "negative",
+            "score": 2,
+            "link": "https://www.reddit.com/comments/ll4r1cv"
+          }
+        ]
+      },
+      {
+        "theme": "leading content discovery platform",
+        "frequency": 2,
+        "representative_quotes": [
+          {
+            "text": "Taboola (TBLA) – Investor Announcement – October 30, 2024 - Taboola’s Creative Shop Surpasses Four Years, Reports Strong Growth Please see my other recent posts for more information on Taboola, there ",
+            "sentiment": "positive",
+            "score": 2,
+            "link": "https://www.reddit.com/r/pennystocks/comments/1gfmxyn/taboola_tbla_investor_announcement_october_30/"
+          },
+          {
+            "text": "Taboola (TBLA) – News Update – October 21, 2024 – Taboola signs big UK Publisher National World Please see my recent posts for more information:\n\nTaboola introduces Abby it’s AI Advertising Agent [htt",
+            "sentiment": "positive",
+            "score": 1,
+            "link": "https://www.reddit.com/r/pennystocks/comments/1g8rkeo/taboola_tbla_news_update_october_21_2024_taboola/"
+          }
+        ]
+      },
+      {
+        "theme": "Gen AI Answer Engine",
+        "frequency": 2,
+        "representative_quotes": [
+          {
+            "text": "Taboola Unveils DeeperDive, a Gen AI Answer Engine Built for the Open Web, Connecting Readers with Unique Publisher Content, Empowering Publishers to Defy Abuse by Gen AI Search - TBLA TBLAW",
+            "sentiment": "positive",
+            "score": 1,
+            "link": "https://www.globenewswire.com/news-release/2025/06/11/3097501/0/en/Taboola-Unveils-DeeperDive-a-Gen-AI-Answer-Engine-Built-for-the-Open-Web-Connecting-Readers-with-Unique-Publisher-Content-Empowering-Publishers-to-Defy-Abuse-by-Gen-AI-Search.html"
+          },
+          {
+            "text": "Taboola Unveils DeeperDive, a Gen AI Answer Engine Built for the Open Web, Connecting Readers with Unique Publisher Content, Empowering Publishers to Defy Abuse by Gen AI Search",
+            "sentiment": "positive",
+            "score": 1,
+            "link": "https://quantisnow.com/i/taboola-unveils-deeperdive-a-gen-ai-answer-engine-built-for-the-open-web-connecting-6081468?utm_source=reddit"
+          }
+        ]
+      }
+    ],
+    "user_experience": [
+      {
+        "theme": "clickbait",
+        "frequency": 2,
+        "representative_quotes": [
+          {
+            "text": "Why do publishers use Taboola/Outbrain if the content looks like clickbait? Why do so many premium publishers continue to use Taboola or Outbrain ad units at the bottom of their pages? The content oft",
+            "sentiment": "negative",
+            "score": 40,
+            "link": "https://www.reddit.com/r/programmatic/comments/1jwsr9w/why_do_publishers_use_taboolaoutbrain_if_the/"
+          },
+          {
+            "text": "Taboola is not a DSP. They are clickbait for bottom of articles.",
+            "sentiment": "negative",
+            "score": 13,
+            "link": "https://www.reddit.com/comments/mf5mj78"
+          }
+        ]
+      },
+      {
+        "theme": "low quality traffic",
+        "frequency": 2,
+        "representative_quotes": [
+          {
+            "text": "My experience is that it was like every other display network: full of crap, low quality traffic. And when you looked at the leads that did come through, you'd question if they would have arrived anyw",
+            "sentiment": "negative",
+            "score": 17,
+            "link": "https://www.reddit.com/comments/mmxveil"
+          },
+          {
+            "text": "The inventory in taboos is shambles. \n\nLow cpm but low quality traffic and clicks….",
+            "sentiment": "negative",
+            "score": 2,
+            "link": "https://www.reddit.com/comments/ll4r1cv"
+          }
+        ]
+      },
+      {
+        "theme": "\"why one believes the 'free' account for Affinity is not an objectively good, and generous offer\"",
+        "frequency": 1,
+        "representative_quotes": [
+          {
+            "text": "Nothing is Free: Conditions Apply I've been engaged in discussion about the recent changes. A point that seems to be at the forefront of many such debates is just why one believes the 'free' account f",
+            "sentiment": "negative",
+            "score": 194,
+            "link": "https://www.reddit.com/r/AffinityPhoto/comments/1omiaiw/nothing_is_free_conditions_apply/"
+          }
+        ]
+      }
+    ]
+  }
+}

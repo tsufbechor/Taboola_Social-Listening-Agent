@@ -1,0 +1,2329 @@
+[
+  {
+    "text": "Anyone here actually seeing lift from Taboola Realize vs classic Taboola native? We just finished a 6-week test:\n- Same budgets as Meta + Google search\n- Realize using Predictive Audiences + their new Motion Ads\n- Optimization goal: purchases (ecom, AOV ~$70)\n\nTop-line:\n- CPA on Realize came in ~18% cheaper than our existing Taboola native campaigns\n- Conversion rate on Motion Ads was legitimately ~15–20% higher than the static images we started with\n- They actually hit our ROAS target after week 3 once the algorithm had enough pixel data\n\nBUT:\n- Reporting feels very black-box. I can’t see enough breakdown by publisher/placement to feel comfortable scaling x5.\n- Click quality is mixed — some sessions look super engaged, others are 5s bounces that scream \"chumbox but with AI\".\n- Their UI is nicer than the old Taboola Ads, but still miles behind Google Ads in terms of workflows.\n\nCurious if other ad ops / performance folks are:\n1) Actually scaling Realize budgets beyond \"test\" level\n2) Seeing sustainable performance or just honeymoon phase while the algo learns\n3) Worried about brand safety / click arbitrage on the open web",
+    "context": "post",
+    "metadata": {
+      "id": "synthetic_1",
+      "type": "post",
+      "subreddit": "adops",
+      "author": "throwaway_realize_1",
+      "created_utc": 1763105119,
+      "score": 13,
+      "num_comments": 4,
+      "url": "https://www.reddit.com/r/adops/comments/synthetic_1/"
+    },
+    "analysis": {
+      "overall_sentiment": "mixed",
+      "field_sentiments": {
+        "product_quality": {
+          "sentiment": "positive",
+          "confidence": 0.86,
+          "key_phrases": [
+            "Conversion rate on Motion Ads was legitimately ~15–20% higher",
+            "They actually hit our ROAS target after week 3",
+            "CPA on Realize came in ~18% cheaper than our existing Taboola native campaigns"
+          ]
+        },
+        "user_experience": {
+          "sentiment": "mixed",
+          "confidence": 0.88,
+          "key_phrases": [
+            "Reporting feels very black-box",
+            "Their UI is nicer than the old Taboola Ads, but still miles behind Google Ads",
+            "Click quality is mixed"
+          ]
+        },
+        "business_practices": {
+          "sentiment": "negative",
+          "confidence": 0.8,
+          "key_phrases": [
+            "Reporting feels very black-box",
+            "can’t see enough breakdown by publisher/placement to feel comfortable scaling",
+            "click arbitrage on the open web"
+          ]
+        },
+        "financial_performance": {
+          "sentiment": "positive",
+          "confidence": 0.9,
+          "key_phrases": [
+            "CPA on Realize came in ~18% cheaper",
+            "Conversion rate ... ~15–20% higher",
+            "They actually hit our ROAS target after week 3"
+          ]
+        },
+        "publisher_relations": {
+          "sentiment": "negative",
+          "confidence": 0.7,
+          "key_phrases": [
+            "can’t see enough breakdown by publisher/placement",
+            "Worried about brand safety / click arbitrage on the open web",
+            "Click quality is mixed"
+          ]
+        },
+        "advertiser_value": {
+          "sentiment": "mixed",
+          "confidence": 0.9,
+          "key_phrases": [
+            "CPA ... ~18% cheaper",
+            "They actually hit our ROAS target",
+            "Click quality is mixed — some sessions look super engaged, others are 5s bounces"
+          ]
+        }
+      },
+      "edge_cases": {
+        "is_sarcastic": false,
+        "has_mixed_sentiment": true,
+        "is_non_english": false,
+        "language": "en",
+        "is_spam": false
+      },
+      "themes": [
+        {
+          "theme": "Performance and efficiency of Taboola Realize vs classic native",
+          "relevance": 0.95
+        },
+        {
+          "theme": "Transparency, reporting limitations, and brand safety concerns",
+          "relevance": 0.9
+        },
+        {
+          "theme": "Usability and workflow quality of the Taboola platform",
+          "relevance": 0.75
+        }
+      ],
+      "reasoning": "The post praises Realize’s performance (lower CPA, higher CVR, ROAS target hit) but criticizes opaque reporting, mixed click quality, and UI gaps vs Google. This creates strong positive sentiment on financial and product performance, but negative sentiment on transparency, brand safety risk, and publisher-level control. Overall tone is analytical and cautious, not sarcastic, with clear mixed sentiment across dimensions.",
+      "metadata": {
+        "id": "synthetic_1",
+        "type": "post",
+        "subreddit": "adops",
+        "author": "throwaway_realize_1",
+        "created_utc": 1763105119,
+        "score": 13,
+        "num_comments": 4,
+        "url": "https://www.reddit.com/r/adops/comments/synthetic_1/"
+      }
+    }
+  },
+  {
+    "text": "We’ve been running Realize for a big subscription brand and I’m seeing similar patterns. First 2–3 weeks are rough, then CPAs drop once the pixel has enough data. \n\nI still don’t love that I can’t easily kill specific publishers, but performance-wise it is no longer the joke it used to be.",
+    "context": "comment",
+    "metadata": {
+      "id": "c_1",
+      "type": "comment",
+      "post_id": "synthetic_1",
+      "author": "user_7669",
+      "created_utc": 1763106148,
+      "score": 25,
+      "depth": 0
+    },
+    "analysis": {
+      "overall_sentiment": "mixed",
+      "field_sentiments": {
+        "product_quality": {
+          "sentiment": "positive",
+          "confidence": 0.78,
+          "key_phrases": [
+            "performance-wise it is no longer the joke it used to be",
+            "CPAs drop once the pixel has enough data",
+            "similar patterns"
+          ]
+        },
+        "user_experience": {
+          "sentiment": "negative",
+          "confidence": 0.7,
+          "key_phrases": [
+            "First 2–3 weeks are rough",
+            "I still don’t love that I can’t easily kill specific publishers"
+          ]
+        },
+        "business_practices": {
+          "sentiment": "neutral",
+          "confidence": 0.2,
+          "key_phrases": []
+        },
+        "financial_performance": {
+          "sentiment": "positive",
+          "confidence": 0.8,
+          "key_phrases": [
+            "CPAs drop once the pixel has enough data",
+            "performance-wise it is no longer the joke it used to be"
+          ]
+        },
+        "publisher_relations": {
+          "sentiment": "negative",
+          "confidence": 0.85,
+          "key_phrases": [
+            "I still don’t love that I can’t easily kill specific publishers"
+          ]
+        },
+        "advertiser_value": {
+          "sentiment": "positive",
+          "confidence": 0.82,
+          "key_phrases": [
+            "CPAs drop once the pixel has enough data",
+            "performance-wise it is no longer the joke it used to be"
+          ]
+        }
+      },
+      "edge_cases": {
+        "is_sarcastic": false,
+        "has_mixed_sentiment": true,
+        "is_non_english": false,
+        "language": "en",
+        "is_spam": false
+      },
+      "themes": [
+        {
+          "theme": "Improving performance over time",
+          "relevance": 0.9
+        },
+        {
+          "theme": "Control over publisher inventory",
+          "relevance": 0.85
+        },
+        {
+          "theme": "Initial learning phase challenges",
+          "relevance": 0.8
+        }
+      ],
+      "reasoning": "The commenter reports rough initial performance but improved CPAs after the pixel learns, indicating good advertiser value and financial performance. They acknowledge Taboola is no longer a ‘joke,’ suggesting improved product quality. However, they criticize the inability to easily block specific publishers and mention a rough first 2–3 weeks, reflecting negative user experience and publisher controls. This mix of praise and criticism yields an overall mixed sentiment.",
+      "metadata": {
+        "id": "c_1",
+        "type": "comment",
+        "post_id": "synthetic_1",
+        "author": "user_7669",
+        "created_utc": 1763106148,
+        "score": 25,
+        "depth": 0
+      }
+    }
+  },
+  {
+    "text": "My take: if you are already buying \"chumbox\" inventory through other networks, Realize is just the more grown-up version. Better algo, same trashy corners of the internet. \n\nI use it when the client cares only about last-click CPA and not about brand perception at all.",
+    "context": "comment",
+    "metadata": {
+      "id": "c_2",
+      "type": "comment",
+      "post_id": "synthetic_1",
+      "author": "user_5383",
+      "created_utc": 1763109150,
+      "score": 20,
+      "depth": 0
+    },
+    "analysis": {
+      "overall_sentiment": "mixed",
+      "field_sentiments": {
+        "product_quality": {
+          "sentiment": "mixed",
+          "confidence": 0.82,
+          "key_phrases": [
+            "more grown-up version",
+            "Better algo",
+            "same trashy corners of the internet"
+          ]
+        },
+        "user_experience": {
+          "sentiment": "negative",
+          "confidence": 0.86,
+          "key_phrases": [
+            "same trashy corners of the internet",
+            "\"chumbox\" inventory",
+            "not about brand perception at all"
+          ]
+        },
+        "business_practices": {
+          "sentiment": "negative",
+          "confidence": 0.78,
+          "key_phrases": [
+            "same trashy corners of the internet",
+            "client cares only about last-click CPA",
+            "not about brand perception at all"
+          ]
+        },
+        "financial_performance": {
+          "sentiment": "neutral",
+          "confidence": 0.0,
+          "key_phrases": []
+        },
+        "publisher_relations": {
+          "sentiment": "neutral",
+          "confidence": 0.0,
+          "key_phrases": []
+        },
+        "advertiser_value": {
+          "sentiment": "positive",
+          "confidence": 0.8,
+          "key_phrases": [
+            "I use it when the client cares only about last-click CPA",
+            "Better algo",
+            "more grown-up version"
+          ]
+        }
+      },
+      "edge_cases": {
+        "is_sarcastic": false,
+        "has_mixed_sentiment": true,
+        "is_non_english": false,
+        "language": "en",
+        "is_spam": false
+      },
+      "themes": [
+        {
+          "theme": "Performance-focused advertising despite low-quality inventory",
+          "relevance": 0.93
+        },
+        {
+          "theme": "Improved technology but poor brand environment",
+          "relevance": 0.88
+        },
+        {
+          "theme": "Use-case limited to CPA-driven, brand-agnostic clients",
+          "relevance": 0.84
+        }
+      ],
+      "reasoning": "The commenter sees Taboola Realize as technically better (“better algo”, “more grown-up”) but operating in low-quality, ‘trashy’ inventory. They use it only when clients optimize for last-click CPA and ignore brand perception, implying positive value for performance advertisers but negative implications for user experience and brand safety. This creates an overall mixed sentiment.",
+      "metadata": {
+        "id": "c_2",
+        "type": "comment",
+        "post_id": "synthetic_1",
+        "author": "user_5383",
+        "created_utc": 1763109150,
+        "score": 20,
+        "depth": 0
+      }
+    }
+  },
+  {
+    "text": "Yup. If your CMO gets hives from seeing their logo next to weird toe fungus thumbnails, maybe don’t push budget here.",
+    "context": "comment",
+    "metadata": {
+      "id": "c_3",
+      "type": "comment",
+      "post_id": "synthetic_1",
+      "author": "user_6766",
+      "created_utc": 1763107453,
+      "score": 11,
+      "depth": 1
+    },
+    "analysis": {
+      "overall_sentiment": "negative",
+      "field_sentiments": {
+        "product_quality": {
+          "sentiment": "negative",
+          "confidence": 0.8,
+          "key_phrases": [
+            "weird toe fungus thumbnails",
+            "maybe don’t push budget here"
+          ]
+        },
+        "user_experience": {
+          "sentiment": "negative",
+          "confidence": 0.85,
+          "key_phrases": [
+            "weird toe fungus thumbnails",
+            "gets hives from seeing their logo next to"
+          ]
+        },
+        "business_practices": {
+          "sentiment": "negative",
+          "confidence": 0.6,
+          "key_phrases": [
+            "maybe don’t push budget here"
+          ]
+        },
+        "financial_performance": {
+          "sentiment": "neutral",
+          "confidence": 0.0,
+          "key_phrases": []
+        },
+        "publisher_relations": {
+          "sentiment": "neutral",
+          "confidence": 0.0,
+          "key_phrases": []
+        },
+        "advertiser_value": {
+          "sentiment": "negative",
+          "confidence": 0.9,
+          "key_phrases": [
+            "If your CMO gets hives from seeing their logo next to",
+            "maybe don’t push budget here"
+          ]
+        }
+      },
+      "edge_cases": {
+        "is_sarcastic": true,
+        "has_mixed_sentiment": false,
+        "is_non_english": false,
+        "language": "en",
+        "is_spam": false
+      },
+      "themes": [
+        {
+          "theme": "Brand safety concerns",
+          "relevance": 0.95
+        },
+        {
+          "theme": "Low-quality ad creatives",
+          "relevance": 0.9
+        },
+        {
+          "theme": "Discouraging ad spend on platform",
+          "relevance": 0.85
+        }
+      ],
+      "reasoning": "The comment criticizes Taboola’s ad environment as low-quality and brand-unsafe, using sarcastic imagery (“weird toe fungus thumbnails”) and advising against allocating budget. This reflects negatively on user experience, product quality, and advertiser value, with no mention of financial performance or publisher relations.",
+      "metadata": {
+        "id": "c_3",
+        "type": "comment",
+        "post_id": "synthetic_1",
+        "author": "user_6766",
+        "created_utc": 1763107453,
+        "score": 11,
+        "depth": 1
+      }
+    }
+  },
+  {
+    "text": "On the brand safety thing – lean on your Taboola rep. We pushed back hard and got a much stricter blocklist + category exclusions. \n\nPerformance dipped like 10%, but at least I can show the placements screenshot in a slide deck without dying inside.",
+    "context": "comment",
+    "metadata": {
+      "id": "c_4",
+      "type": "comment",
+      "post_id": "synthetic_1",
+      "author": "user_1651",
+      "created_utc": 1763108887,
+      "score": 19,
+      "depth": 0
+    },
+    "analysis": {
+      "overall_sentiment": "mixed",
+      "field_sentiments": {
+        "product_quality": {
+          "sentiment": "neutral",
+          "confidence": 0.2,
+          "key_phrases": []
+        },
+        "user_experience": {
+          "sentiment": "mixed",
+          "confidence": 0.7,
+          "key_phrases": [
+            "brand safety thing",
+            "much stricter blocklist + category exclusions",
+            "without dying inside"
+          ]
+        },
+        "business_practices": {
+          "sentiment": "positive",
+          "confidence": 0.6,
+          "key_phrases": [
+            "lean on your Taboola rep",
+            "We pushed back hard and got a much stricter blocklist"
+          ]
+        },
+        "financial_performance": {
+          "sentiment": "negative",
+          "confidence": 0.8,
+          "key_phrases": [
+            "Performance dipped like 10%"
+          ]
+        },
+        "publisher_relations": {
+          "sentiment": "neutral",
+          "confidence": 0.0,
+          "key_phrases": []
+        },
+        "advertiser_value": {
+          "sentiment": "mixed",
+          "confidence": 0.8,
+          "key_phrases": [
+            "much stricter blocklist + category exclusions",
+            "Performance dipped like 10%",
+            "at least I can show the placements screenshot ... without dying inside"
+          ]
+        }
+      },
+      "edge_cases": {
+        "is_sarcastic": true,
+        "has_mixed_sentiment": true,
+        "is_non_english": false,
+        "language": "en",
+        "is_spam": false
+      },
+      "themes": [
+        {
+          "theme": "brand_safety_controls",
+          "relevance": 0.95
+        },
+        {
+          "theme": "performance_tradeoff",
+          "relevance": 0.9
+        },
+        {
+          "theme": "working_with_platform_reps",
+          "relevance": 0.75
+        }
+      ],
+      "reasoning": "The commenter reports improved brand safety after pushing Taboola, which is positive for advertiser control and business practices, but notes a 10% performance drop, a negative financial aspect. The phrase about not “dying inside” is sarcastic, implying prior discomfort with placements. Overall, it reflects a tradeoff: better brand safety and presentability versus reduced performance, hence mixed sentiment.",
+      "metadata": {
+        "id": "c_4",
+        "type": "comment",
+        "post_id": "synthetic_1",
+        "author": "user_1651",
+        "created_utc": 1763108887,
+        "score": 19,
+        "depth": 0
+      }
+    }
+  },
+  {
+    "text": "Publisher POV on Taboola Realize – anyone else conflicted? We turned on Realize across display + native units a couple months ago. Not just the usual bottom-of-article widgets – they’re now filling more prominent slots programmatically.\n\nPros:\n- RPM is up ~22% vs our previous setup with standard native + display.\n- Their team keeps talking about tapping into \"performance budgets\" that normally go straight to search/social, and honestly the money is showing up.\n- Fill is strong, even on some smaller sections of the site that were hard to monetize.\n\nCons:\n- The creatives still feel like Taboola. Some are fine, some are classic \"You won’t believe what happened next\" energy.\n- UX team is furious. They say it cheapens the brand and we’re going backwards into chumbox land just as everyone else is cleaning it up.\n- We don’t have great controls to distinguish Realize performance ads vs the old-school content recs when something looks dodgy.\n\nAnyone else on the publisher side rolling this out? Are your business/finance folks just saying \"RPM good, stop complaining\" or has anyone actually pushed for stricter policies around what Realize can serve?",
+    "context": "post",
+    "metadata": {
+      "id": "synthetic_2",
+      "type": "post",
+      "subreddit": "programmatic",
+      "author": "throwaway_realize_2",
+      "created_utc": 1763185235,
+      "score": 51,
+      "num_comments": 4,
+      "url": "https://www.reddit.com/r/programmatic/comments/synthetic_2/"
+    },
+    "analysis": {
+      "overall_sentiment": "mixed",
+      "field_sentiments": {
+        "product_quality": {
+          "sentiment": "mixed",
+          "confidence": 0.78,
+          "key_phrases": [
+            "RPM is up ~22% vs our previous setup",
+            "Fill is strong, even on some smaller sections of the site",
+            "The creatives still feel like Taboola... classic 'You won’t believe what happened next' energy"
+          ]
+        },
+        "user_experience": {
+          "sentiment": "negative",
+          "confidence": 0.93,
+          "key_phrases": [
+            "UX team is furious",
+            "They say it cheapens the brand",
+            "we’re going backwards into chumbox land"
+          ]
+        },
+        "business_practices": {
+          "sentiment": "mixed",
+          "confidence": 0.7,
+          "key_phrases": [
+            "tapping into 'performance budgets' that normally go straight to search/social",
+            "we don’t have great controls to distinguish Realize performance ads vs the old-school content recs",
+            "more prominent slots programmatically"
+          ]
+        },
+        "financial_performance": {
+          "sentiment": "positive",
+          "confidence": 0.96,
+          "key_phrases": [
+            "RPM is up ~22% vs our previous setup",
+            "honestly the money is showing up",
+            "Fill is strong"
+          ]
+        },
+        "publisher_relations": {
+          "sentiment": "mixed",
+          "confidence": 0.74,
+          "key_phrases": [
+            "Their team keeps talking about tapping into 'performance budgets'",
+            "UX team is furious",
+            "Are your business/finance folks just saying 'RPM good, stop complaining'"
+          ]
+        },
+        "advertiser_value": {
+          "sentiment": "neutral",
+          "confidence": 0.4,
+          "key_phrases": [
+            "tapping into 'performance budgets'",
+            "performance ads vs the old-school content recs",
+            "Not just the usual bottom-of-article widgets"
+          ]
+        }
+      },
+      "edge_cases": {
+        "is_sarcastic": false,
+        "has_mixed_sentiment": true,
+        "is_non_english": false,
+        "language": "en",
+        "is_spam": false
+      },
+      "themes": [
+        {
+          "theme": "Revenue vs brand/UX tradeoff",
+          "relevance": 0.96
+        },
+        {
+          "theme": "Ad quality and creative style concerns",
+          "relevance": 0.88
+        },
+        {
+          "theme": "Control and policy over ad types/placements",
+          "relevance": 0.8
+        }
+      ],
+      "reasoning": "The post praises strong RPM and fill but criticizes ad quality, brand impact, and limited controls. This creates a clear tension between financial upside and negative user experience/brand concerns, leading to an overall mixed sentiment across the evaluated dimensions.",
+      "metadata": {
+        "id": "synthetic_2",
+        "type": "post",
+        "subreddit": "programmatic",
+        "author": "throwaway_realize_2",
+        "created_utc": 1763185235,
+        "score": 51,
+        "num_comments": 4,
+        "url": "https://www.reddit.com/r/programmatic/comments/synthetic_2/"
+      }
+    }
+  },
+  {
+    "text": "Publisher here. Finance loves Realize, editorial hates it, UX wants to set it on fire. \n\nWe modeled it out and without that extra Realize revenue we literally can’t fund two of our newsroom roles next year. So guess which side wins the argument.",
+    "context": "comment",
+    "metadata": {
+      "id": "c_5",
+      "type": "comment",
+      "post_id": "synthetic_2",
+      "author": "user_2187",
+      "created_utc": 1763186044,
+      "score": 37,
+      "depth": 0
+    },
+    "analysis": {
+      "overall_sentiment": "mixed",
+      "field_sentiments": {
+        "product_quality": {
+          "sentiment": "negative",
+          "confidence": 0.8,
+          "key_phrases": [
+            "editorial hates it",
+            "UX wants to set it on fire"
+          ]
+        },
+        "user_experience": {
+          "sentiment": "negative",
+          "confidence": 0.95,
+          "key_phrases": [
+            "UX wants to set it on fire"
+          ]
+        },
+        "business_practices": {
+          "sentiment": "negative",
+          "confidence": 0.7,
+          "key_phrases": [
+            "So guess which side wins the argument"
+          ]
+        },
+        "financial_performance": {
+          "sentiment": "positive",
+          "confidence": 0.9,
+          "key_phrases": [
+            "Finance loves Realize",
+            "without that extra Realize revenue we literally can’t fund two of our newsroom roles"
+          ]
+        },
+        "publisher_relations": {
+          "sentiment": "mixed",
+          "confidence": 0.85,
+          "key_phrases": [
+            "Finance loves Realize, editorial hates it, UX wants to set it on fire",
+            "So guess which side wins the argument"
+          ]
+        },
+        "advertiser_value": {
+          "sentiment": "neutral",
+          "confidence": 0.0,
+          "key_phrases": []
+        }
+      },
+      "edge_cases": {
+        "is_sarcastic": true,
+        "has_mixed_sentiment": true,
+        "is_non_english": false,
+        "language": "en",
+        "is_spam": false
+      },
+      "themes": [
+        {
+          "theme": "Revenue vs. editorial/UX tradeoff",
+          "relevance": 0.98
+        },
+        {
+          "theme": "Internal stakeholder conflict",
+          "relevance": 0.9
+        },
+        {
+          "theme": "Dependence on ad tech for staffing",
+          "relevance": 0.85
+        }
+      ],
+      "reasoning": "The comment shows strong dislike of the product and its UX from editorial and UX teams, but clear financial dependence and approval from finance. This creates a mixed overall sentiment: positive on revenue impact, negative on quality and experience, with sarcastic frustration about business decisions driven by money over user or editorial concerns.",
+      "metadata": {
+        "id": "c_5",
+        "type": "comment",
+        "post_id": "synthetic_2",
+        "author": "user_2187",
+        "created_utc": 1763186044,
+        "score": 37,
+        "depth": 0
+      }
+    }
+  },
+  {
+    "text": "We negotiated creative guidelines into the contract. No \"one weird trick\" style headlines, no fake newsy layouts. \n\nRealize can still perform with semi-respectable creative, but you need to be annoying about it on every QBR or it quietly drifts back to lowest-common-denominator ads.",
+    "context": "comment",
+    "metadata": {
+      "id": "c_6",
+      "type": "comment",
+      "post_id": "synthetic_2",
+      "author": "user_2633",
+      "created_utc": 1763187271,
+      "score": 28,
+      "depth": 0
+    },
+    "analysis": {
+      "overall_sentiment": "mixed",
+      "field_sentiments": {
+        "product_quality": {
+          "sentiment": "neutral",
+          "confidence": 0.2,
+          "key_phrases": []
+        },
+        "user_experience": {
+          "sentiment": "negative",
+          "confidence": 0.8,
+          "key_phrases": [
+            "no \"one weird trick\" style headlines, no fake newsy layouts",
+            "drifts back to lowest-common-denominator ads",
+            "need to be annoying about it on every QBR"
+          ]
+        },
+        "business_practices": {
+          "sentiment": "negative",
+          "confidence": 0.85,
+          "key_phrases": [
+            "you need to be annoying about it on every QBR",
+            "quietly drifts back",
+            "lowest-common-denominator ads"
+          ]
+        },
+        "financial_performance": {
+          "sentiment": "positive",
+          "confidence": 0.5,
+          "key_phrases": [
+            "Realize can still perform with semi-respectable creative"
+          ]
+        },
+        "publisher_relations": {
+          "sentiment": "neutral",
+          "confidence": 0.0,
+          "key_phrases": []
+        },
+        "advertiser_value": {
+          "sentiment": "mixed",
+          "confidence": 0.7,
+          "key_phrases": [
+            "can still perform with semi-respectable creative",
+            "need to be annoying about it on every QBR",
+            "drifts back to lowest-common-denominator ads"
+          ]
+        }
+      },
+      "edge_cases": {
+        "is_sarcastic": false,
+        "has_mixed_sentiment": true,
+        "is_non_english": false,
+        "language": "en",
+        "is_spam": false
+      },
+      "themes": [
+        {
+          "theme": "Pressure to maintain ethical/quality ad creatives",
+          "relevance": 0.95
+        },
+        {
+          "theme": "Tension between performance and ad quality",
+          "relevance": 0.9
+        },
+        {
+          "theme": "Reversion to low-quality, clickbait ads without oversight",
+          "relevance": 0.85
+        }
+      ],
+      "reasoning": "The commenter acknowledges that campaigns can perform with more respectable creatives (positive for performance/advertiser value) but criticizes the tendency to revert to clickbait, low-quality ads unless constantly policed, reflecting negative views on user experience and business practices. This yields an overall mixed sentiment.",
+      "metadata": {
+        "id": "c_6",
+        "type": "comment",
+        "post_id": "synthetic_2",
+        "author": "user_2633",
+        "created_utc": 1763187271,
+        "score": 28,
+        "depth": 0
+      }
+    }
+  },
+  {
+    "text": "This. Taboola’s default is \"optimize for money, we’ll figure out vibe later\". If you don’t set guardrails, the vibe will be trash.",
+    "context": "comment",
+    "metadata": {
+      "id": "c_7",
+      "type": "comment",
+      "post_id": "synthetic_2",
+      "author": "user_5285",
+      "created_utc": 1763185980,
+      "score": 21,
+      "depth": 1
+    },
+    "analysis": {
+      "overall_sentiment": "negative",
+      "field_sentiments": {
+        "product_quality": {
+          "sentiment": "negative",
+          "confidence": 0.8,
+          "key_phrases": [
+            "the vibe will be trash",
+            "optimize for money, we’ll figure out vibe later",
+            "don’t set guardrails"
+          ]
+        },
+        "user_experience": {
+          "sentiment": "negative",
+          "confidence": 0.95,
+          "key_phrases": [
+            "we’ll figure out vibe later",
+            "If you don’t set guardrails, the vibe will be trash",
+            "default is \"optimize for money\""
+          ]
+        },
+        "business_practices": {
+          "sentiment": "negative",
+          "confidence": 0.95,
+          "key_phrases": [
+            "Taboola’s default is \"optimize for money\"",
+            "we’ll figure out vibe later",
+            "If you don’t set guardrails"
+          ]
+        },
+        "financial_performance": {
+          "sentiment": "neutral",
+          "confidence": 0.0,
+          "key_phrases": []
+        },
+        "publisher_relations": {
+          "sentiment": "neutral",
+          "confidence": 0.2,
+          "key_phrases": [
+            "If you don’t set guardrails",
+            "default is \"optimize for money\""
+          ]
+        },
+        "advertiser_value": {
+          "sentiment": "neutral",
+          "confidence": 0.0,
+          "key_phrases": []
+        }
+      },
+      "edge_cases": {
+        "is_sarcastic": false,
+        "has_mixed_sentiment": false,
+        "is_non_english": false,
+        "language": "en",
+        "is_spam": false
+      },
+      "themes": [
+        {
+          "theme": "Revenue-first optimization",
+          "relevance": 0.98
+        },
+        {
+          "theme": "Poor user experience without guardrails",
+          "relevance": 0.95
+        },
+        {
+          "theme": "Need for content and quality controls",
+          "relevance": 0.8
+        }
+      ],
+      "reasoning": "The comment criticizes Taboola for prioritizing revenue over experience, implying that without strict controls the resulting content quality and user ‘vibe’ are very poor. This targets business practices and user experience negatively, with no positive counterpoints or discussion of financial performance or advertiser value.",
+      "metadata": {
+        "id": "c_7",
+        "type": "comment",
+        "post_id": "synthetic_2",
+        "author": "user_5285",
+        "created_utc": 1763185980,
+        "score": 21,
+        "depth": 1
+      }
+    }
+  },
+  {
+    "text": "Honestly as a reader, I already assume anything in those units is sketchy. I just scroll past. If it keeps your site alive I can live with it, but please don’t put it mid-article between paragraphs like some sites are doing now 😭.",
+    "context": "comment",
+    "metadata": {
+      "id": "c_8",
+      "type": "comment",
+      "post_id": "synthetic_2",
+      "author": "user_9091",
+      "created_utc": 1763188824,
+      "score": 17,
+      "depth": 0
+    },
+    "analysis": {
+      "overall_sentiment": "mixed",
+      "field_sentiments": {
+        "product_quality": {
+          "sentiment": "negative",
+          "confidence": 0.8,
+          "key_phrases": [
+            "I already assume anything in those units is sketchy",
+            "I just scroll past"
+          ]
+        },
+        "user_experience": {
+          "sentiment": "negative",
+          "confidence": 0.95,
+          "key_phrases": [
+            "I just scroll past",
+            "please don’t put it mid-article between paragraphs",
+            "like some sites are doing now 😭"
+          ]
+        },
+        "business_practices": {
+          "sentiment": "mixed",
+          "confidence": 0.7,
+          "key_phrases": [
+            "If it keeps your site alive I can live with it",
+            "please don’t put it mid-article"
+          ]
+        },
+        "financial_performance": {
+          "sentiment": "neutral",
+          "confidence": 0.0,
+          "key_phrases": []
+        },
+        "publisher_relations": {
+          "sentiment": "mixed",
+          "confidence": 0.7,
+          "key_phrases": [
+            "If it keeps your site alive I can live with it",
+            "please don’t put it mid-article"
+          ]
+        },
+        "advertiser_value": {
+          "sentiment": "negative",
+          "confidence": 0.6,
+          "key_phrases": [
+            "I already assume anything in those units is sketchy",
+            "I just scroll past"
+          ]
+        }
+      },
+      "edge_cases": {
+        "is_sarcastic": false,
+        "has_mixed_sentiment": true,
+        "is_non_english": false,
+        "language": "en",
+        "is_spam": false
+      },
+      "themes": [
+        {
+          "theme": "Ad trust and perceived sketchiness",
+          "relevance": 0.95
+        },
+        {
+          "theme": "Intrusive ad placement in content",
+          "relevance": 0.9
+        },
+        {
+          "theme": "Reluctant acceptance to support publishers",
+          "relevance": 0.75
+        }
+      ],
+      "reasoning": "The commenter distrusts Taboola-style units, calling them sketchy and ignoring them, which harms user experience and advertiser value. However, they tolerate the ads if they help keep the site financially viable, indicating conditional acceptance. They strongly dislike mid-article placements, criticizing intrusive implementation rather than the mere existence of ads. Overall tone is negative with a pragmatic, supportive note toward publishers.",
+      "metadata": {
+        "id": "c_8",
+        "type": "comment",
+        "post_id": "synthetic_2",
+        "author": "user_9091",
+        "created_utc": 1763188824,
+        "score": 17,
+        "depth": 0
+      }
+    }
+  },
+  {
+    "text": "Small ecom brand test – Taboola Realize results vs Meta Niche: home fitness accessories\nBudget: $200/day\nSetup:\n- Realize using Predictive Audiences (we uploaded our converters list)\n- Mixed static + Motion Ads creative\n- Goal: purchases\n\nAfter 30 days:\n- CPA on Realize around $41 (Meta is ~$38, Google search is $45–$50 in our vertical)\n- Click-through is solid, but a lot of the traffic is mobile news readers who bounce quickly.\n- Last-click attribution says Realize is a hero. Our MMM spreadsheet says it is more of a strong supporting player than a miracle worker.\n\nThe good:\n- Scale beyond search/social is real. We got incremental reach on audiences that never click our Meta ads.\n- Creative tools are actually nice – being able to auto-generate variations from one hero concept saved our tiny team tons of time.\n\nThe meh:\n- Attribution feels generous. If someone sees us on Realize, searches brand on Google the next day, Realize still tries to claim the win.\n- UI still has odd quirks (filters randomly resetting, basic bulk-edit pain).\n\nNet: we’re keeping it in the mix at 15–20% of spend, but not turning off Meta for this any time soon.\n\nWould love to hear from anyone who did go all-in and moved a big chunk of performance budget to Realize – was it worth it long-term?",
+    "context": "post",
+    "metadata": {
+      "id": "synthetic_3",
+      "type": "post",
+      "subreddit": "PPC",
+      "author": "throwaway_realize_3",
+      "created_utc": 1763058165,
+      "score": 33,
+      "num_comments": 4,
+      "url": "https://www.reddit.com/r/PPC/comments/synthetic_3/"
+    },
+    "analysis": {
+      "overall_sentiment": "mixed",
+      "field_sentiments": {
+        "product_quality": {
+          "sentiment": "positive",
+          "confidence": 0.78,
+          "key_phrases": [
+            "Creative tools are actually nice",
+            "auto-generate variations from one hero concept saved our tiny team tons of time",
+            "Scale beyond search/social is real"
+          ]
+        },
+        "user_experience": {
+          "sentiment": "mixed",
+          "confidence": 0.86,
+          "key_phrases": [
+            "UI still has odd quirks (filters randomly resetting, basic bulk-edit pain)",
+            "Click-through is solid, but a lot of the traffic is mobile news readers who bounce quickly",
+            "Creative tools are actually nice"
+          ]
+        },
+        "business_practices": {
+          "sentiment": "negative",
+          "confidence": 0.8,
+          "key_phrases": [
+            "Attribution feels generous",
+            "Realize still tries to claim the win",
+            "Last-click attribution says Realize is a hero. Our MMM spreadsheet says it is more of a strong supporting player"
+          ]
+        },
+        "financial_performance": {
+          "sentiment": "positive",
+          "confidence": 0.74,
+          "key_phrases": [
+            "CPA on Realize around $41 (Meta is ~$38, Google search is $45–$50 in our vertical)",
+            "we’re keeping it in the mix at 15–20% of spend",
+            "Scale beyond search/social is real"
+          ]
+        },
+        "publisher_relations": {
+          "sentiment": "neutral",
+          "confidence": 0.0,
+          "key_phrases": []
+        },
+        "advertiser_value": {
+          "sentiment": "mixed",
+          "confidence": 0.9,
+          "key_phrases": [
+            "Scale beyond search/social is real",
+            "Net: we’re keeping it in the mix at 15–20% of spend, but not turning off Meta for this any time soon",
+            "Attribution feels generous"
+          ]
+        }
+      },
+      "edge_cases": {
+        "is_sarcastic": false,
+        "has_mixed_sentiment": true,
+        "is_non_english": false,
+        "language": "en",
+        "is_spam": false
+      },
+      "themes": [
+        {
+          "theme": "Incremental reach and diversification beyond Meta/Google",
+          "relevance": 0.92
+        },
+        {
+          "theme": "Attribution and measurement concerns",
+          "relevance": 0.9
+        },
+        {
+          "theme": "Usability and workflow (UI quirks vs strong creative tools)",
+          "relevance": 0.82
+        }
+      ],
+      "reasoning": "The post balances positives (incremental reach, decent CPA, strong creative tools) with negatives (overly generous attribution, UI quirks, lower-quality traffic). The advertiser sees Realize as a useful secondary channel worth 15–20% of spend, not a Meta replacement. This yields mixed overall sentiment, with positive views on product quality and financial viability but skepticism about business practices and full-funnel value.",
+      "metadata": {
+        "id": "synthetic_3",
+        "type": "post",
+        "subreddit": "PPC",
+        "author": "throwaway_realize_3",
+        "created_utc": 1763058165,
+        "score": 33,
+        "num_comments": 4,
+        "url": "https://www.reddit.com/r/PPC/comments/synthetic_3/"
+      }
+    }
+  },
+  {
+    "text": "We’re a DTC skincare brand and had almost the exact same numbers. Slightly worse CPA than Meta prospecting, but way better than open-web display we tried before. \n\nIt shines for us as a remarketing layer – people who read publisher content about our niche then see us again in social/search convert at a higher rate.",
+    "context": "comment",
+    "metadata": {
+      "id": "c_9",
+      "type": "comment",
+      "post_id": "synthetic_3",
+      "author": "user_2113",
+      "created_utc": 1763058450,
+      "score": 29,
+      "depth": 0
+    },
+    "analysis": {
+      "overall_sentiment": "positive",
+      "field_sentiments": {
+        "product_quality": {
+          "sentiment": "neutral",
+          "confidence": 0.0,
+          "key_phrases": []
+        },
+        "user_experience": {
+          "sentiment": "neutral",
+          "confidence": 0.0,
+          "key_phrases": []
+        },
+        "business_practices": {
+          "sentiment": "neutral",
+          "confidence": 0.0,
+          "key_phrases": []
+        },
+        "financial_performance": {
+          "sentiment": "positive",
+          "confidence": 0.82,
+          "key_phrases": [
+            "Slightly worse CPA than Meta prospecting, but way better than open-web display",
+            "It shines for us as a remarketing layer",
+            "convert at a higher rate"
+          ]
+        },
+        "publisher_relations": {
+          "sentiment": "positive",
+          "confidence": 0.6,
+          "key_phrases": [
+            "people who read publisher content about our niche",
+            "then see us again in social/search convert at a higher rate"
+          ]
+        },
+        "advertiser_value": {
+          "sentiment": "positive",
+          "confidence": 0.9,
+          "key_phrases": [
+            "way better than open-web display we tried before",
+            "It shines for us as a remarketing layer",
+            "convert at a higher rate"
+          ]
+        }
+      },
+      "edge_cases": {
+        "is_sarcastic": false,
+        "has_mixed_sentiment": true,
+        "is_non_english": false,
+        "language": "en",
+        "is_spam": false
+      },
+      "themes": [
+        {
+          "theme": "Remarketing effectiveness",
+          "relevance": 0.95
+        },
+        {
+          "theme": "Comparative performance vs other channels",
+          "relevance": 0.9
+        },
+        {
+          "theme": "Conversion rate improvement from publisher traffic",
+          "relevance": 0.8
+        }
+      ],
+      "reasoning": "The commenter is an advertiser describing Taboola as slightly worse than Meta on CPA but significantly better than prior open-web display, and particularly strong as a remarketing layer that improves conversion rates. This yields overall positive sentiment with some nuance, hence mixed sentiment flag due to one mild negative comparison amid generally positive performance/value statements. No sarcasm or non-English content detected.",
+      "metadata": {
+        "id": "c_9",
+        "type": "comment",
+        "post_id": "synthetic_3",
+        "author": "user_2113",
+        "created_utc": 1763058450,
+        "score": 29,
+        "depth": 0
+      }
+    }
+  },
+  {
+    "text": "Careful with their attribution windows. Default is super generous. Once we tightened the window and forced last-touch sanity, magically the \"Realize is crushing it\" story became \"Realize is solid but not a miracle\".",
+    "context": "comment",
+    "metadata": {
+      "id": "c_10",
+      "type": "comment",
+      "post_id": "synthetic_3",
+      "author": "user_9341",
+      "created_utc": 1763060889,
+      "score": 24,
+      "depth": 0
+    },
+    "analysis": {
+      "overall_sentiment": "mixed",
+      "field_sentiments": {
+        "product_quality": {
+          "sentiment": "mixed",
+          "confidence": 0.7,
+          "key_phrases": [
+            "\"Realize is crushing it\"",
+            "\"Realize is solid but not a miracle\""
+          ]
+        },
+        "user_experience": {
+          "sentiment": "neutral",
+          "confidence": 0.0,
+          "key_phrases": []
+        },
+        "business_practices": {
+          "sentiment": "negative",
+          "confidence": 0.9,
+          "key_phrases": [
+            "Careful with their attribution windows",
+            "Default is super generous",
+            "forced last-touch sanity"
+          ]
+        },
+        "financial_performance": {
+          "sentiment": "neutral",
+          "confidence": 0.0,
+          "key_phrases": []
+        },
+        "publisher_relations": {
+          "sentiment": "neutral",
+          "confidence": 0.0,
+          "key_phrases": []
+        },
+        "advertiser_value": {
+          "sentiment": "mixed",
+          "confidence": 0.8,
+          "key_phrases": [
+            "\"crushing it\" story",
+            "\"solid but not a miracle\""
+          ]
+        }
+      },
+      "edge_cases": {
+        "is_sarcastic": true,
+        "has_mixed_sentiment": true,
+        "is_non_english": false,
+        "language": "en",
+        "is_spam": false
+      },
+      "themes": [
+        {
+          "theme": "Attribution window manipulation",
+          "relevance": 0.95
+        },
+        {
+          "theme": "Overstated performance claims",
+          "relevance": 0.9
+        },
+        {
+          "theme": "Need for stricter measurement (last-touch sanity)",
+          "relevance": 0.8
+        }
+      ],
+      "reasoning": "The comment criticizes Taboola’s generous default attribution windows as misleading, implying questionable business practices. Performance is portrayed as initially overstated (“crushing it”) but, under stricter attribution, only “solid,” creating mixed sentiment about product effectiveness and advertiser value. The phrasing is mildly sarcastic.",
+      "metadata": {
+        "id": "c_10",
+        "type": "comment",
+        "post_id": "synthetic_3",
+        "author": "user_9341",
+        "created_utc": 1763060889,
+        "score": 24,
+        "depth": 0
+      }
+    }
+  },
+  {
+    "text": "LOL this. Every ad platform: \"We drove 130% of your revenue last month.\"",
+    "context": "comment",
+    "metadata": {
+      "id": "c_11",
+      "type": "comment",
+      "post_id": "synthetic_3",
+      "author": "user_8657",
+      "created_utc": 1763060603,
+      "score": 32,
+      "depth": 1
+    },
+    "analysis": {
+      "overall_sentiment": "negative",
+      "field_sentiments": {
+        "product_quality": {
+          "sentiment": "negative",
+          "confidence": 0.7,
+          "key_phrases": [
+            "LOL this",
+            "\"We drove 130% of your revenue last month.\""
+          ]
+        },
+        "user_experience": {
+          "sentiment": "neutral",
+          "confidence": 0.0,
+          "key_phrases": []
+        },
+        "business_practices": {
+          "sentiment": "negative",
+          "confidence": 0.9,
+          "key_phrases": [
+            "Every ad platform",
+            "\"We drove 130% of your revenue last month.\""
+          ]
+        },
+        "financial_performance": {
+          "sentiment": "negative",
+          "confidence": 0.6,
+          "key_phrases": [
+            "130% of your revenue"
+          ]
+        },
+        "publisher_relations": {
+          "sentiment": "neutral",
+          "confidence": 0.0,
+          "key_phrases": []
+        },
+        "advertiser_value": {
+          "sentiment": "negative",
+          "confidence": 0.7,
+          "key_phrases": [
+            "Every ad platform",
+            "\"We drove 130% of your revenue last month.\""
+          ]
+        }
+      },
+      "edge_cases": {
+        "is_sarcastic": true,
+        "has_mixed_sentiment": false,
+        "is_non_english": false,
+        "language": "en",
+        "is_spam": false
+      },
+      "themes": [
+        {
+          "theme": "Exaggerated performance claims",
+          "relevance": 0.95
+        },
+        {
+          "theme": "Distrust of ad platforms",
+          "relevance": 0.9
+        },
+        {
+          "theme": "Skepticism about reported revenue impact",
+          "relevance": 0.85
+        }
+      ],
+      "reasoning": "The commenter mocks ad platforms’ claims of driving 130% of revenue, implying they are unrealistic or dishonest. The laughter (“LOL this”) and exaggeration suggest sarcasm and skepticism toward reported performance, reflecting negatively on business practices, product credibility, and true advertiser value. No direct mention of UX or publisher relations.",
+      "metadata": {
+        "id": "c_11",
+        "type": "comment",
+        "post_id": "synthetic_3",
+        "author": "user_8657",
+        "created_utc": 1763060603,
+        "score": 32,
+        "depth": 1
+      }
+    }
+  },
+  {
+    "text": "The creative tools are actually the bit I like most. Being able to spin 10 variants from one static and test them on cheap Realize traffic, then port winners back to Meta, has been surprisingly useful.",
+    "context": "comment",
+    "metadata": {
+      "id": "c_12",
+      "type": "comment",
+      "post_id": "synthetic_3",
+      "author": "user_9255",
+      "created_utc": 1763061011,
+      "score": 18,
+      "depth": 0
+    },
+    "analysis": {
+      "overall_sentiment": "positive",
+      "field_sentiments": {
+        "product_quality": {
+          "sentiment": "positive",
+          "confidence": 0.9,
+          "key_phrases": [
+            "The creative tools are actually the bit I like most",
+            "Being able to spin 10 variants from one static",
+            "has been surprisingly useful"
+          ]
+        },
+        "user_experience": {
+          "sentiment": "positive",
+          "confidence": 0.75,
+          "key_phrases": [
+            "the bit I like most",
+            "Being able to spin 10 variants",
+            "has been surprisingly useful"
+          ]
+        },
+        "business_practices": {
+          "sentiment": "neutral",
+          "confidence": 0.0,
+          "key_phrases": []
+        },
+        "financial_performance": {
+          "sentiment": "neutral",
+          "confidence": 0.0,
+          "key_phrases": []
+        },
+        "publisher_relations": {
+          "sentiment": "neutral",
+          "confidence": 0.0,
+          "key_phrases": []
+        },
+        "advertiser_value": {
+          "sentiment": "positive",
+          "confidence": 0.85,
+          "key_phrases": [
+            "test them on cheap Realize traffic",
+            "then port winners back to Meta",
+            "has been surprisingly useful"
+          ]
+        }
+      },
+      "edge_cases": {
+        "is_sarcastic": false,
+        "has_mixed_sentiment": false,
+        "is_non_english": false,
+        "language": "en",
+        "is_spam": false
+      },
+      "themes": [
+        {
+          "theme": "Creative tools and features",
+          "relevance": 0.95
+        },
+        {
+          "theme": "Ad variant testing and optimization",
+          "relevance": 0.9
+        },
+        {
+          "theme": "Cost-effective traffic for experimentation",
+          "relevance": 0.8
+        }
+      ],
+      "reasoning": "The commenter expresses clear appreciation for Taboola’s creative tools and their utility in generating and testing multiple ad variants cheaply, then using winners on Meta. No negative aspects are mentioned, and the tone is straightforward, not sarcastic. Only product quality, user experience, and advertiser value are addressed; other fields are not referenced.",
+      "metadata": {
+        "id": "c_12",
+        "type": "comment",
+        "post_id": "synthetic_3",
+        "author": "user_9255",
+        "created_utc": 1763061011,
+        "score": 18,
+        "depth": 0
+      }
+    }
+  },
+  {
+    "text": "Is Taboola Realize actually different from AI-powered chumbox? Their pitch:\n- AI performance engine\n- 600M daily active users through premium publishers and OEMs\n- Predictive Audiences using your first-party conversion data\n- New formats like Motion Ads, vertical video, etc.\n- Supposedly brings \"search-like\" performance to the open web\n\nReality from my seat so far:\n- Still fighting the same brand-safety and quality concerns as classic Taboola.\n- Reporting is better, but nowhere near what you get from a proper DSP.\n- It does move the needle on conversions, especially for DR brands that are already comfortable living on the edge of clickbait.\n\nSo… is this:\n1) A legit attempt to claw back performance budgets from Google/Meta and give publishers a real alternative\n2) Just a shinier packaging of the same old model with an \"AI\" sticker\n\nGenuine question – if you’ve run a serious Realize program (not a $50/day test), how are you positioning it in your channel mix?",
+    "context": "post",
+    "metadata": {
+      "id": "synthetic_4",
+      "type": "post",
+      "subreddit": "advertising",
+      "author": "throwaway_realize_4",
+      "created_utc": 1763148413,
+      "score": 45,
+      "num_comments": 4,
+      "url": "https://www.reddit.com/r/advertising/comments/synthetic_4/"
+    },
+    "analysis": {
+      "overall_sentiment": "mixed",
+      "field_sentiments": {
+        "product_quality": {
+          "sentiment": "mixed",
+          "confidence": 0.86,
+          "key_phrases": [
+            "Is Taboola Realize actually different from AI-powered chumbox?",
+            "New formats like Motion Ads, vertical video, etc.",
+            "Just a shinier packaging of the same old model with an \"AI\" sticker"
+          ]
+        },
+        "user_experience": {
+          "sentiment": "negative",
+          "confidence": 0.78,
+          "key_phrases": [
+            "Still fighting the same brand-safety and quality concerns as classic Taboola.",
+            "comfortable living on the edge of clickbait",
+            "AI-powered chumbox"
+          ]
+        },
+        "business_practices": {
+          "sentiment": "mixed",
+          "confidence": 0.7,
+          "key_phrases": [
+            "Just a shinier packaging of the same old model with an \"AI\" sticker",
+            "A legit attempt to claw back performance budgets from Google/Meta",
+            "Supposedly brings \"search-like\" performance to the open web"
+          ]
+        },
+        "financial_performance": {
+          "sentiment": "neutral",
+          "confidence": 0.2,
+          "key_phrases": []
+        },
+        "publisher_relations": {
+          "sentiment": "mixed",
+          "confidence": 0.6,
+          "key_phrases": [
+            "600M daily active users through premium publishers and OEMs",
+            "give publishers a real alternative",
+            "Still fighting the same brand-safety and quality concerns"
+          ]
+        },
+        "advertiser_value": {
+          "sentiment": "mixed",
+          "confidence": 0.9,
+          "key_phrases": [
+            "It does move the needle on conversions",
+            "Reporting is better, but nowhere near what you get from a proper DSP.",
+            "especially for DR brands that are already comfortable living on the edge of clickbait"
+          ]
+        }
+      },
+      "edge_cases": {
+        "is_sarcastic": true,
+        "has_mixed_sentiment": true,
+        "is_non_english": false,
+        "language": "en",
+        "is_spam": false
+      },
+      "themes": [
+        {
+          "theme": "Effectiveness vs. quality/brand safety tradeoff",
+          "relevance": 0.95
+        },
+        {
+          "theme": "Skepticism about AI rebranding and differentiation",
+          "relevance": 0.9
+        },
+        {
+          "theme": "Positioning Taboola Realize in performance marketing mix",
+          "relevance": 0.8
+        }
+      ],
+      "reasoning": "The post balances skepticism with acknowledgment of performance. The author questions whether Realize is truly innovative or just AI-branded chumbox, criticizes brand safety and reporting, but concedes it can drive conversions for certain DR advertisers. This yields mixed overall sentiment, with notably negative tone on user experience and cautious, conditional positivity on advertiser value and strategic positioning.",
+      "metadata": {
+        "id": "synthetic_4",
+        "type": "post",
+        "subreddit": "advertising",
+        "author": "throwaway_realize_4",
+        "created_utc": 1763148413,
+        "score": 45,
+        "num_comments": 4,
+        "url": "https://www.reddit.com/r/advertising/comments/synthetic_4/"
+      }
+    }
+  },
+  {
+    "text": "As someone who’s been in native since Outbrain v1 – yes, it’s different. Old Taboola was basically \"traffic arbitrage machine\". Realize is much closer to a performance DSP that happens to live inside their publisher network. \n\nStill has all the legacy baggage though.",
+    "context": "comment",
+    "metadata": {
+      "id": "c_13",
+      "type": "comment",
+      "post_id": "synthetic_4",
+      "author": "user_9639",
+      "created_utc": 1763148572,
+      "score": 30,
+      "depth": 0
+    },
+    "analysis": {
+      "overall_sentiment": "mixed",
+      "field_sentiments": {
+        "product_quality": {
+          "sentiment": "mixed",
+          "confidence": 0.82,
+          "key_phrases": [
+            "Realize is much closer to a performance DSP",
+            "Old Taboola was basically \"traffic arbitrage machine\"",
+            "Still has all the legacy baggage though"
+          ]
+        },
+        "user_experience": {
+          "sentiment": "negative",
+          "confidence": 0.65,
+          "key_phrases": [
+            "traffic arbitrage machine",
+            "Still has all the legacy baggage though"
+          ]
+        },
+        "business_practices": {
+          "sentiment": "negative",
+          "confidence": 0.78,
+          "key_phrases": [
+            "traffic arbitrage machine",
+            "legacy baggage"
+          ]
+        },
+        "financial_performance": {
+          "sentiment": "neutral",
+          "confidence": 0.0,
+          "key_phrases": []
+        },
+        "publisher_relations": {
+          "sentiment": "neutral",
+          "confidence": 0.45,
+          "key_phrases": [
+            "happens to live inside their publisher network"
+          ]
+        },
+        "advertiser_value": {
+          "sentiment": "positive",
+          "confidence": 0.7,
+          "key_phrases": [
+            "Realize is much closer to a performance DSP",
+            "as someone who’s been in native since Outbrain v1 – yes, it’s different"
+          ]
+        }
+      },
+      "edge_cases": {
+        "is_sarcastic": false,
+        "has_mixed_sentiment": true,
+        "is_non_english": false,
+        "language": "en",
+        "is_spam": false
+      },
+      "themes": [
+        {
+          "theme": "Evolution from arbitrage to performance-focused product",
+          "relevance": 0.9
+        },
+        {
+          "theme": "Legacy issues and baggage",
+          "relevance": 0.85
+        },
+        {
+          "theme": "Positioning as a DSP within a publisher network",
+          "relevance": 0.7
+        }
+      ],
+      "reasoning": "The commenter contrasts an older, negatively viewed Taboola focused on traffic arbitrage with a newer product (Realize) that is more like a performance DSP, which is positive for advertisers. However, they emphasize that legacy baggage remains, implying ongoing structural or reputational issues. This combination of improvement plus persistent problems yields a mixed overall sentiment, with positive advertiser value but negative views on past practices and lingering issues.",
+      "metadata": {
+        "id": "c_13",
+        "type": "comment",
+        "post_id": "synthetic_4",
+        "author": "user_9639",
+        "created_utc": 1763148572,
+        "score": 30,
+        "depth": 0
+      }
+    }
+  },
+  {
+    "text": "From a brand point of view it’s still a chumbox until proven otherwise. The deck says \"AI performance engine\", the user sees \"10 foods doctors hate\" right under a serious news story. That’s the disconnect they haven’t solved yet.",
+    "context": "comment",
+    "metadata": {
+      "id": "c_14",
+      "type": "comment",
+      "post_id": "synthetic_4",
+      "author": "user_5467",
+      "created_utc": 1763148974,
+      "score": 27,
+      "depth": 0
+    },
+    "analysis": {
+      "overall_sentiment": "negative",
+      "field_sentiments": {
+        "product_quality": {
+          "sentiment": "negative",
+          "confidence": 0.9,
+          "key_phrases": [
+            "it’s still a chumbox until proven otherwise",
+            "The deck says \"AI performance engine\"",
+            "the user sees \"10 foods doctors hate\""
+          ]
+        },
+        "user_experience": {
+          "sentiment": "negative",
+          "confidence": 0.95,
+          "key_phrases": [
+            "the user sees \"10 foods doctors hate\"",
+            "right under a serious news story",
+            "That’s the disconnect they haven’t solved yet"
+          ]
+        },
+        "business_practices": {
+          "sentiment": "negative",
+          "confidence": 0.8,
+          "key_phrases": [
+            "From a brand point of view it’s still a chumbox",
+            "The deck says \"AI performance engine\"",
+            "That’s the disconnect they haven’t solved yet"
+          ]
+        },
+        "financial_performance": {
+          "sentiment": "neutral",
+          "confidence": 0.0,
+          "key_phrases": []
+        },
+        "publisher_relations": {
+          "sentiment": "negative",
+          "confidence": 0.7,
+          "key_phrases": [
+            "right under a serious news story",
+            "From a brand point of view it’s still a chumbox",
+            "That’s the disconnect they haven’t solved yet"
+          ]
+        },
+        "advertiser_value": {
+          "sentiment": "negative",
+          "confidence": 0.7,
+          "key_phrases": [
+            "From a brand point of view it’s still a chumbox",
+            "The deck says \"AI performance engine\"",
+            "That’s the disconnect they haven’t solved yet"
+          ]
+        }
+      },
+      "edge_cases": {
+        "is_sarcastic": true,
+        "has_mixed_sentiment": false,
+        "is_non_english": false,
+        "language": "en",
+        "is_spam": false
+      },
+      "themes": [
+        {
+          "theme": "Brand vs reality disconnect",
+          "relevance": 0.98
+        },
+        {
+          "theme": "Low-quality, clickbait ad formats",
+          "relevance": 0.95
+        },
+        {
+          "theme": "Negative impact on serious content environments",
+          "relevance": 0.85
+        }
+      ],
+      "reasoning": "The commenter criticizes Taboola’s positioning versus the actual ad experience, calling it a ‘chumbox’ and highlighting clickbait next to serious news. This implies poor product quality, bad user experience, and a brand/UX disconnect that harms both publishers and advertisers. Tone is mildly sarcastic and consistently negative.",
+      "metadata": {
+        "id": "c_14",
+        "type": "comment",
+        "post_id": "synthetic_4",
+        "author": "user_5467",
+        "created_utc": 1763148974,
+        "score": 27,
+        "depth": 0
+      }
+    }
+  },
+  {
+    "text": "Yeah but that same \"10 foods\" funnel is paying everyone’s salaries so…",
+    "context": "comment",
+    "metadata": {
+      "id": "c_15",
+      "type": "comment",
+      "post_id": "synthetic_4",
+      "author": "user_8176",
+      "created_utc": 1763149577,
+      "score": 23,
+      "depth": 1
+    },
+    "analysis": {
+      "overall_sentiment": "mixed",
+      "field_sentiments": {
+        "product_quality": {
+          "sentiment": "neutral",
+          "confidence": 0.1,
+          "key_phrases": []
+        },
+        "user_experience": {
+          "sentiment": "negative",
+          "confidence": 0.7,
+          "key_phrases": [
+            "\"10 foods\" funnel",
+            "that same \"10 foods\" funnel"
+          ]
+        },
+        "business_practices": {
+          "sentiment": "mixed",
+          "confidence": 0.8,
+          "key_phrases": [
+            "\"10 foods\" funnel is paying everyone’s salaries",
+            "paying everyone’s salaries"
+          ]
+        },
+        "financial_performance": {
+          "sentiment": "positive",
+          "confidence": 0.8,
+          "key_phrases": [
+            "paying everyone’s salaries"
+          ]
+        },
+        "publisher_relations": {
+          "sentiment": "positive",
+          "confidence": 0.6,
+          "key_phrases": [
+            "paying everyone’s salaries"
+          ]
+        },
+        "advertiser_value": {
+          "sentiment": "neutral",
+          "confidence": 0.0,
+          "key_phrases": []
+        }
+      },
+      "edge_cases": {
+        "is_sarcastic": true,
+        "has_mixed_sentiment": true,
+        "is_non_english": false,
+        "language": "en",
+        "is_spam": false
+      },
+      "themes": [
+        {
+          "theme": "Revenue dependence on low-quality ad funnels",
+          "relevance": 0.95
+        },
+        {
+          "theme": "Tension between annoyance and financial necessity",
+          "relevance": 0.9
+        },
+        {
+          "theme": "Sustainability of ad-driven business models",
+          "relevance": 0.6
+        }
+      ],
+      "reasoning": "The comment implicitly criticizes the low-quality, clickbait-style funnel (“10 foods”) while acknowledging it funds salaries. This creates mixed sentiment: negative toward the experience and tactic, but positive toward its financial impact and role in supporting the business and publishers. The phrasing suggests mild sarcasm about relying on such content.",
+      "metadata": {
+        "id": "c_15",
+        "type": "comment",
+        "post_id": "synthetic_4",
+        "author": "user_8176",
+        "created_utc": 1763149577,
+        "score": 23,
+        "depth": 1
+      }
+    }
+  },
+  {
+    "text": "Realize gets interesting once you hook in first-party conversion data. Predictive Audiences actually worked for our leadgen client – we cut out a lot of junk impressions once it had enough events to learn from. \n\nIf you just run it on broad with no data, it feels like 2016 Taboola all over again.",
+    "context": "comment",
+    "metadata": {
+      "id": "c_16",
+      "type": "comment",
+      "post_id": "synthetic_4",
+      "author": "user_6909",
+      "created_utc": 1763150702,
+      "score": 22,
+      "depth": 0
+    },
+    "analysis": {
+      "overall_sentiment": "mixed",
+      "field_sentiments": {
+        "product_quality": {
+          "sentiment": "mixed",
+          "confidence": 0.86,
+          "key_phrases": [
+            "Predictive Audiences actually worked for our leadgen client",
+            "once it had enough events to learn from",
+            "If you just run it on broad with no data, it feels like 2016 Taboola all over again"
+          ]
+        },
+        "user_experience": {
+          "sentiment": "mixed",
+          "confidence": 0.7,
+          "key_phrases": [
+            "cut out a lot of junk impressions",
+            "If you just run it on broad with no data, it feels like 2016 Taboola all over again"
+          ]
+        },
+        "business_practices": {
+          "sentiment": "neutral",
+          "confidence": 0.2,
+          "key_phrases": []
+        },
+        "financial_performance": {
+          "sentiment": "neutral",
+          "confidence": 0.0,
+          "key_phrases": []
+        },
+        "publisher_relations": {
+          "sentiment": "neutral",
+          "confidence": 0.0,
+          "key_phrases": []
+        },
+        "advertiser_value": {
+          "sentiment": "positive",
+          "confidence": 0.88,
+          "key_phrases": [
+            "cut out a lot of junk impressions",
+            "Predictive Audiences actually worked for our leadgen client",
+            "once you hook in first-party conversion data"
+          ]
+        }
+      },
+      "edge_cases": {
+        "is_sarcastic": false,
+        "has_mixed_sentiment": true,
+        "is_non_english": false,
+        "language": "en",
+        "is_spam": false
+      },
+      "themes": [
+        {
+          "theme": "Data-driven optimization improves performance",
+          "relevance": 0.95
+        },
+        {
+          "theme": "Quality depends on sufficient conversion data",
+          "relevance": 0.9
+        },
+        {
+          "theme": "Legacy negative perception of Taboola when run broadly",
+          "relevance": 0.8
+        }
+      ],
+      "reasoning": "The commenter reports good results using Predictive Audiences with first-party conversion data, improving lead quality and reducing junk impressions. However, they contrast this with a negative experience when running broad campaigns without data, likening it to an older, worse version of Taboola. This creates mixed sentiment overall, with clear positive value for advertisers when properly configured.",
+      "metadata": {
+        "id": "c_16",
+        "type": "comment",
+        "post_id": "synthetic_4",
+        "author": "user_6909",
+        "created_utc": 1763150702,
+        "score": 22,
+        "depth": 0
+      }
+    }
+  },
+  {
+    "text": "B2B folks – any luck with Taboola Realize for SaaS? Most of the Realize case studies I’m seeing are ecom, financial publishers, or big performance advertisers.\n\nWe’re B2B SaaS (mid-ticket, around $10k ACV, long sales cycle):\n- Uploaded our won-opps to build Predictive Audiences\n- Optimized to demo requests\n- Ran a mix of thought-leadership content and more direct-response creatives\n\nResults after 45 days:\n- CPL is actually competitive with LinkedIn, but lead quality is all over the place.\n- SDR team says half the Realize leads \"just wanted to read the article\" and have zero intent.\n- On the plus side, we’re seeing more top-of-funnel awareness in regions where we had literally no paid presence before.\n\nFeels like Realize is somewhere between top-funnel display and real performance for us.\n\nAnyone cracked a playbook here? Better to treat it as:\n- Cheap reach and retargeting fuel, or\n- A legit performance channel once you tighten audiences and creative enough?",
+    "context": "post",
+    "metadata": {
+      "id": "synthetic_5",
+      "type": "post",
+      "subreddit": "marketing",
+      "author": "throwaway_realize_5",
+      "created_utc": 1763190822,
+      "score": 40,
+      "num_comments": 4,
+      "url": "https://www.reddit.com/r/marketing/comments/synthetic_5/"
+    },
+    "analysis": {
+      "overall_sentiment": "mixed",
+      "field_sentiments": {
+        "product_quality": {
+          "sentiment": "mixed",
+          "confidence": 0.78,
+          "key_phrases": [
+            "CPL is actually competitive with LinkedIn",
+            "lead quality is all over the place",
+            "Feels like Realize is somewhere between top-funnel display and real performance for us"
+          ]
+        },
+        "user_experience": {
+          "sentiment": "neutral",
+          "confidence": 0.3,
+          "key_phrases": []
+        },
+        "business_practices": {
+          "sentiment": "neutral",
+          "confidence": 0.2,
+          "key_phrases": []
+        },
+        "financial_performance": {
+          "sentiment": "positive",
+          "confidence": 0.7,
+          "key_phrases": [
+            "CPL is actually competitive with LinkedIn",
+            "Cheap reach",
+            "mid-ticket, around $10k ACV"
+          ]
+        },
+        "publisher_relations": {
+          "sentiment": "neutral",
+          "confidence": 0.0,
+          "key_phrases": []
+        },
+        "advertiser_value": {
+          "sentiment": "mixed",
+          "confidence": 0.9,
+          "key_phrases": [
+            "CPL is actually competitive with LinkedIn, but lead quality is all over the place",
+            "half the Realize leads \"just wanted to read the article\" and have zero intent",
+            "we’re seeing more top-of-funnel awareness in regions where we had literally no paid presence before"
+          ]
+        }
+      },
+      "edge_cases": {
+        "is_sarcastic": false,
+        "has_mixed_sentiment": true,
+        "is_non_english": false,
+        "language": "en",
+        "is_spam": false
+      },
+      "themes": [
+        {
+          "theme": "Lead quality vs cost efficiency",
+          "relevance": 0.95
+        },
+        {
+          "theme": "Top-of-funnel awareness vs performance",
+          "relevance": 0.9
+        },
+        {
+          "theme": "Channel positioning and use case (reach vs performance)",
+          "relevance": 0.85
+        }
+      ],
+      "reasoning": "The post balances positives (competitive CPL, new regional awareness) with negatives (inconsistent lead quality, low intent). The user is uncertain whether to treat Taboola Realize as a performance channel or mainly for reach/retargeting, indicating mixed sentiment about product quality and advertiser value, but somewhat positive on financial efficiency. No sarcasm or spam is present.",
+      "metadata": {
+        "id": "synthetic_5",
+        "type": "post",
+        "subreddit": "marketing",
+        "author": "throwaway_realize_5",
+        "created_utc": 1763190822,
+        "score": 40,
+        "num_comments": 4,
+        "url": "https://www.reddit.com/r/marketing/comments/synthetic_5/"
+      }
+    }
+  },
+  {
+    "text": "B2B here. Treat it as content distribution first, performance second. Our best leads still come from search and LinkedIn. \n\nWhere Realize helped was warming up accounts in new regions – we then retargeted those visitors on LinkedIn with much better success.",
+    "context": "comment",
+    "metadata": {
+      "id": "c_17",
+      "type": "comment",
+      "post_id": "synthetic_5",
+      "author": "user_5317",
+      "created_utc": 1763191781,
+      "score": 26,
+      "depth": 0
+    },
+    "analysis": {
+      "overall_sentiment": "positive",
+      "field_sentiments": {
+        "product_quality": {
+          "sentiment": "neutral",
+          "confidence": 0.3,
+          "key_phrases": []
+        },
+        "user_experience": {
+          "sentiment": "neutral",
+          "confidence": 0.3,
+          "key_phrases": []
+        },
+        "business_practices": {
+          "sentiment": "neutral",
+          "confidence": 0.2,
+          "key_phrases": []
+        },
+        "financial_performance": {
+          "sentiment": "neutral",
+          "confidence": 0.0,
+          "key_phrases": []
+        },
+        "publisher_relations": {
+          "sentiment": "neutral",
+          "confidence": 0.0,
+          "key_phrases": []
+        },
+        "advertiser_value": {
+          "sentiment": "positive",
+          "confidence": 0.8,
+          "key_phrases": [
+            "Treat it as content distribution first, performance second",
+            "Where Realize helped was warming up accounts in new regions",
+            "we then retargeted those visitors on LinkedIn with much better success"
+          ]
+        }
+      },
+      "edge_cases": {
+        "is_sarcastic": false,
+        "has_mixed_sentiment": false,
+        "is_non_english": false,
+        "language": "en",
+        "is_spam": false
+      },
+      "themes": [
+        {
+          "theme": "Content distribution vs performance marketing",
+          "relevance": 0.9
+        },
+        {
+          "theme": "Top-of-funnel account warming",
+          "relevance": 0.8
+        },
+        {
+          "theme": "Retargeting synergy with LinkedIn",
+          "relevance": 0.8
+        }
+      ],
+      "reasoning": "The commenter positions the product as useful for content distribution and account warming, not as a primary performance channel. They report positive results when using it to warm up new regional accounts and then retargeting on LinkedIn, indicating clear advertiser value. No explicit opinions are given on product quality, UX, business practices, financial performance, or publisher relations.",
+      "metadata": {
+        "id": "c_17",
+        "type": "comment",
+        "post_id": "synthetic_5",
+        "author": "user_5317",
+        "created_utc": 1763191781,
+        "score": 26,
+        "depth": 0
+      }
+    }
+  },
+  {
+    "text": "We tried to make it a pure demo-request machine and it flopped. Once we switched to softer CTAs (guides, benchmarks, calculators) and let SDRs work the leads, quality improved a lot. \n\nIt’s not magic, but CPMs were decent compared to trying to brute-force cold LinkedIn traffic.",
+    "context": "comment",
+    "metadata": {
+      "id": "c_18",
+      "type": "comment",
+      "post_id": "synthetic_5",
+      "author": "user_7700",
+      "created_utc": 1763194178,
+      "score": 21,
+      "depth": 0
+    },
+    "analysis": {
+      "overall_sentiment": "positive",
+      "field_sentiments": {
+        "product_quality": {
+          "sentiment": "neutral",
+          "confidence": 0.2,
+          "key_phrases": []
+        },
+        "user_experience": {
+          "sentiment": "neutral",
+          "confidence": 0.2,
+          "key_phrases": []
+        },
+        "business_practices": {
+          "sentiment": "positive",
+          "confidence": 0.7,
+          "key_phrases": [
+            "Once we switched to softer CTAs (guides, benchmarks, calculators) and let SDRs work the leads, quality improved a lot",
+            "We tried to make it a pure demo-request machine and it flopped"
+          ]
+        },
+        "financial_performance": {
+          "sentiment": "positive",
+          "confidence": 0.7,
+          "key_phrases": [
+            "CPMs were decent compared to trying to brute-force cold LinkedIn traffic"
+          ]
+        },
+        "publisher_relations": {
+          "sentiment": "neutral",
+          "confidence": 0.0,
+          "key_phrases": []
+        },
+        "advertiser_value": {
+          "sentiment": "positive",
+          "confidence": 0.8,
+          "key_phrases": [
+            "quality improved a lot",
+            "CPMs were decent compared to trying to brute-force cold LinkedIn traffic",
+            "It’s not magic, but CPMs were decent"
+          ]
+        }
+      },
+      "edge_cases": {
+        "is_sarcastic": false,
+        "has_mixed_sentiment": true,
+        "is_non_english": false,
+        "language": "en",
+        "is_spam": false
+      },
+      "themes": [
+        {
+          "theme": "Lead generation strategy and CTA optimization",
+          "relevance": 0.95
+        },
+        {
+          "theme": "Traffic and CPM cost-effectiveness",
+          "relevance": 0.85
+        },
+        {
+          "theme": "Lead quality improvement via SDR follow-up",
+          "relevance": 0.8
+        }
+      ],
+      "reasoning": "The commenter reports an initial failed approach (hard demo CTAs) but a successful pivot to softer CTAs plus SDR follow-up, leading to better lead quality. They also state CPMs were decent versus cold LinkedIn traffic. No direct mention of product UX, core quality, or publisher relations. Tone is pragmatic and mildly positive, with both negative (initial flop) and positive (improved quality, decent CPMs) elements.",
+      "metadata": {
+        "id": "c_18",
+        "type": "comment",
+        "post_id": "synthetic_5",
+        "author": "user_7700",
+        "created_utc": 1763194178,
+        "score": 21,
+        "depth": 0
+      }
+    }
+  },
+  {
+    "text": "+1 on softer CTAs. If someone is in \"read an article about SaaS metrics\" mode on a news site, they’re probably not ready to book a 45-minute demo with your AE yet.",
+    "context": "comment",
+    "metadata": {
+      "id": "c_19",
+      "type": "comment",
+      "post_id": "synthetic_5",
+      "author": "user_8434",
+      "created_utc": 1763191733,
+      "score": 18,
+      "depth": 1
+    },
+    "analysis": {
+      "overall_sentiment": "neutral",
+      "field_sentiments": {
+        "product_quality": {
+          "sentiment": "neutral",
+          "confidence": 0.0,
+          "key_phrases": []
+        },
+        "user_experience": {
+          "sentiment": "positive",
+          "confidence": 0.6,
+          "key_phrases": [
+            "+1 on softer CTAs",
+            "someone is in \"read an article\" mode",
+            "not ready to book a 45-minute demo"
+          ]
+        },
+        "business_practices": {
+          "sentiment": "neutral",
+          "confidence": 0.2,
+          "key_phrases": [
+            "softer CTAs",
+            "not ready to book a 45-minute demo"
+          ]
+        },
+        "financial_performance": {
+          "sentiment": "neutral",
+          "confidence": 0.0,
+          "key_phrases": []
+        },
+        "publisher_relations": {
+          "sentiment": "neutral",
+          "confidence": 0.0,
+          "key_phrases": []
+        },
+        "advertiser_value": {
+          "sentiment": "positive",
+          "confidence": 0.5,
+          "key_phrases": [
+            "softer CTAs",
+            "not ready to book a 45-minute demo"
+          ]
+        }
+      },
+      "edge_cases": {
+        "is_sarcastic": false,
+        "has_mixed_sentiment": false,
+        "is_non_english": false,
+        "language": "en",
+        "is_spam": false
+      },
+      "themes": [
+        {
+          "theme": "Call-to-action softness and timing",
+          "relevance": 0.95
+        },
+        {
+          "theme": "User intent and readiness",
+          "relevance": 0.9
+        },
+        {
+          "theme": "Ad funnel appropriateness",
+          "relevance": 0.7
+        }
+      ],
+      "reasoning": "The comment endorses using softer calls-to-action that match the user’s browsing intent, implying a positive stance toward better-aligned, less aggressive advertising flows. It does not mention Taboola’s product quality, financials, or publisher relations directly, so those are neutral with low confidence. No sarcasm or mixed sentiment is present.",
+      "metadata": {
+        "id": "c_19",
+        "type": "comment",
+        "post_id": "synthetic_5",
+        "author": "user_8434",
+        "created_utc": 1763191733,
+        "score": 18,
+        "depth": 1
+      }
+    }
+  },
+  {
+    "text": "Sarcastic take: Realize is great if your ICP is \"people bored at work scrolling news on their company laptop\". Which, to be fair, describes half of B2B buying committees anyway.",
+    "context": "comment",
+    "metadata": {
+      "id": "c_20",
+      "type": "comment",
+      "post_id": "synthetic_5",
+      "author": "user_1032",
+      "created_utc": 1763193163,
+      "score": 24,
+      "depth": 0
+    },
+    "analysis": {
+      "overall_sentiment": "mixed",
+      "field_sentiments": {
+        "product_quality": {
+          "sentiment": "neutral",
+          "confidence": 0.3,
+          "key_phrases": []
+        },
+        "user_experience": {
+          "sentiment": "neutral",
+          "confidence": 0.3,
+          "key_phrases": []
+        },
+        "business_practices": {
+          "sentiment": "neutral",
+          "confidence": 0.2,
+          "key_phrases": []
+        },
+        "financial_performance": {
+          "sentiment": "positive",
+          "confidence": 0.6,
+          "key_phrases": [
+            "Realize is great if your ICP is \"people bored at work scrolling news on their company laptop\"",
+            "describes half of B2B buying committees"
+          ]
+        },
+        "publisher_relations": {
+          "sentiment": "neutral",
+          "confidence": 0.0,
+          "key_phrases": []
+        },
+        "advertiser_value": {
+          "sentiment": "positive",
+          "confidence": 0.7,
+          "key_phrases": [
+            "Realize is great if your ICP is \"people bored at work scrolling news on their company laptop\"",
+            "describes half of B2B buying committees"
+          ]
+        }
+      },
+      "edge_cases": {
+        "is_sarcastic": true,
+        "has_mixed_sentiment": true,
+        "is_non_english": false,
+        "language": "en",
+        "is_spam": false
+      },
+      "themes": [
+        {
+          "theme": "Audience targeting fit",
+          "relevance": 0.9
+        },
+        {
+          "theme": "B2B buying behavior",
+          "relevance": 0.8
+        },
+        {
+          "theme": "Workplace content consumption",
+          "relevance": 0.7
+        }
+      ],
+      "reasoning": "The comment uses sarcasm but ultimately concedes that Taboola’s Realize works well if advertisers target bored workers, which the author claims make up much of B2B buying committees. This implies positive advertiser value and, indirectly, positive business/financial potential, while not addressing product quality, UX, or publisher relations directly.",
+      "metadata": {
+        "id": "c_20",
+        "type": "comment",
+        "post_id": "synthetic_5",
+        "author": "user_1032",
+        "created_utc": 1763193163,
+        "score": 24,
+        "depth": 0
+      }
+    }
+  }
+]

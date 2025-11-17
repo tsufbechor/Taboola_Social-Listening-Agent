@@ -1,0 +1,341 @@
+{
+  "metadata": {
+    "generated_at_utc": "2025-11-16T17:00:00Z",
+    "source": "synthetic_taboola_realize_alt_data",
+    "description": "AI-generated discussion-style posts and comments about Taboola Realize, to be used as an additional data source alongside real Reddit data.",
+    "entity": "Taboola Realize",
+    "num_posts": 5
+  },
+  "posts": [
+    {
+      "post": {
+        "id": "synthetic_1",
+        "subreddit": "adops",
+        "title": "Anyone here actually seeing lift from Taboola Realize vs classic Taboola native?",
+        "selftext": "We just finished a 6-week test:\n- Same budgets as Meta + Google search\n- Realize using Predictive Audiences + their new Motion Ads\n- Optimization goal: purchases (ecom, AOV ~$70)\n\nTop-line:\n- CPA on Realize came in ~18% cheaper than our existing Taboola native campaigns\n- Conversion rate on Motion Ads was legitimately ~15–20% higher than the static images we started with\n- They actually hit our ROAS target after week 3 once the algorithm had enough pixel data\n\nBUT:\n- Reporting feels very black-box. I can’t see enough breakdown by publisher/placement to feel comfortable scaling x5.\n- Click quality is mixed — some sessions look super engaged, others are 5s bounces that scream \"chumbox but with AI\".\n- Their UI is nicer than the old Taboola Ads, but still miles behind Google Ads in terms of workflows.\n\nCurious if other ad ops / performance folks are:\n1) Actually scaling Realize budgets beyond \"test\" level\n2) Seeing sustainable performance or just honeymoon phase while the algo learns\n3) Worried about brand safety / click arbitrage on the open web",
+        "author": "throwaway_realize_1",
+        "url": "https://www.reddit.com/r/adops/comments/synthetic_1/",
+        "permalink": "/r/adops/comments/synthetic_1/",
+        "created_utc": 1763105119,
+        "score": 13,
+        "num_comments": 4,
+        "over_18": false,
+        "is_self": true
+      },
+      "llm_filter": {
+        "is_relevant": true,
+        "mentions_taboola": true,
+        "mentions_realize_product": true,
+        "relevance_score": 9.5,
+        "raw_model_response": "Synthetic seed post about Taboola Realize (mixed-positive leaning).",
+        "filter_auto_accepted": true
+      },
+      "comments": [
+        {
+          "id": "c_1",
+          "post_id": "synthetic_1",
+          "parent_id": "t3_synthetic_1",
+          "author": "user_7669",
+          "body": "We’ve been running Realize for a big subscription brand and I’m seeing similar patterns. First 2–3 weeks are rough, then CPAs drop once the pixel has enough data. \n\nI still don’t love that I can’t easily kill specific publishers, but performance-wise it is no longer the joke it used to be.",
+          "created_utc": 1763106148,
+          "score": 25,
+          "depth": 0
+        },
+        {
+          "id": "c_2",
+          "post_id": "synthetic_1",
+          "parent_id": "t3_synthetic_1",
+          "author": "user_5383",
+          "body": "My take: if you are already buying \"chumbox\" inventory through other networks, Realize is just the more grown-up version. Better algo, same trashy corners of the internet. \n\nI use it when the client cares only about last-click CPA and not about brand perception at all.",
+          "created_utc": 1763109150,
+          "score": 20,
+          "depth": 0
+        },
+        {
+          "id": "c_3",
+          "post_id": "synthetic_1",
+          "parent_id": "c_2",
+          "author": "user_6766",
+          "body": "Yup. If your CMO gets hives from seeing their logo next to weird toe fungus thumbnails, maybe don’t push budget here.",
+          "created_utc": 1763107453,
+          "score": 11,
+          "depth": 1
+        },
+        {
+          "id": "c_4",
+          "post_id": "synthetic_1",
+          "parent_id": "t3_synthetic_1",
+          "author": "user_1651",
+          "body": "On the brand safety thing – lean on your Taboola rep. We pushed back hard and got a much stricter blocklist + category exclusions. \n\nPerformance dipped like 10%, but at least I can show the placements screenshot in a slide deck without dying inside.",
+          "created_utc": 1763108887,
+          "score": 19,
+          "depth": 0
+        }
+      ]
+    },
+    {
+      "post": {
+        "id": "synthetic_2",
+        "subreddit": "programmatic",
+        "title": "Publisher POV on Taboola Realize – anyone else conflicted?",
+        "selftext": "We turned on Realize across display + native units a couple months ago. Not just the usual bottom-of-article widgets – they’re now filling more prominent slots programmatically.\n\nPros:\n- RPM is up ~22% vs our previous setup with standard native + display.\n- Their team keeps talking about tapping into \"performance budgets\" that normally go straight to search/social, and honestly the money is showing up.\n- Fill is strong, even on some smaller sections of the site that were hard to monetize.\n\nCons:\n- The creatives still feel like Taboola. Some are fine, some are classic \"You won’t believe what happened next\" energy.\n- UX team is furious. They say it cheapens the brand and we’re going backwards into chumbox land just as everyone else is cleaning it up.\n- We don’t have great controls to distinguish Realize performance ads vs the old-school content recs when something looks dodgy.\n\nAnyone else on the publisher side rolling this out? Are your business/finance folks just saying \"RPM good, stop complaining\" or has anyone actually pushed for stricter policies around what Realize can serve?",
+        "author": "throwaway_realize_2",
+        "url": "https://www.reddit.com/r/programmatic/comments/synthetic_2/",
+        "permalink": "/r/programmatic/comments/synthetic_2/",
+        "created_utc": 1763185235,
+        "score": 51,
+        "num_comments": 4,
+        "over_18": false,
+        "is_self": true
+      },
+      "llm_filter": {
+        "is_relevant": true,
+        "mentions_taboola": true,
+        "mentions_realize_product": true,
+        "relevance_score": 9.5,
+        "raw_model_response": "Synthetic seed post about Taboola Realize (mixed leaning).",
+        "filter_auto_accepted": true
+      },
+      "comments": [
+        {
+          "id": "c_5",
+          "post_id": "synthetic_2",
+          "parent_id": "t3_synthetic_2",
+          "author": "user_2187",
+          "body": "Publisher here. Finance loves Realize, editorial hates it, UX wants to set it on fire. \n\nWe modeled it out and without that extra Realize revenue we literally can’t fund two of our newsroom roles next year. So guess which side wins the argument.",
+          "created_utc": 1763186044,
+          "score": 37,
+          "depth": 0
+        },
+        {
+          "id": "c_6",
+          "post_id": "synthetic_2",
+          "parent_id": "t3_synthetic_2",
+          "author": "user_2633",
+          "body": "We negotiated creative guidelines into the contract. No \"one weird trick\" style headlines, no fake newsy layouts. \n\nRealize can still perform with semi-respectable creative, but you need to be annoying about it on every QBR or it quietly drifts back to lowest-common-denominator ads.",
+          "created_utc": 1763187271,
+          "score": 28,
+          "depth": 0
+        },
+        {
+          "id": "c_7",
+          "post_id": "synthetic_2",
+          "parent_id": "c_6",
+          "author": "user_5285",
+          "body": "This. Taboola’s default is \"optimize for money, we’ll figure out vibe later\". If you don’t set guardrails, the vibe will be trash.",
+          "created_utc": 1763185980,
+          "score": 21,
+          "depth": 1
+        },
+        {
+          "id": "c_8",
+          "post_id": "synthetic_2",
+          "parent_id": "t3_synthetic_2",
+          "author": "user_9091",
+          "body": "Honestly as a reader, I already assume anything in those units is sketchy. I just scroll past. If it keeps your site alive I can live with it, but please don’t put it mid-article between paragraphs like some sites are doing now 😭.",
+          "created_utc": 1763188824,
+          "score": 17,
+          "depth": 0
+        }
+      ]
+    },
+    {
+      "post": {
+        "id": "synthetic_3",
+        "subreddit": "PPC",
+        "title": "Small ecom brand test – Taboola Realize results vs Meta",
+        "selftext": "Niche: home fitness accessories\nBudget: $200/day\nSetup:\n- Realize using Predictive Audiences (we uploaded our converters list)\n- Mixed static + Motion Ads creative\n- Goal: purchases\n\nAfter 30 days:\n- CPA on Realize around $41 (Meta is ~$38, Google search is $45–$50 in our vertical)\n- Click-through is solid, but a lot of the traffic is mobile news readers who bounce quickly.\n- Last-click attribution says Realize is a hero. Our MMM spreadsheet says it is more of a strong supporting player than a miracle worker.\n\nThe good:\n- Scale beyond search/social is real. We got incremental reach on audiences that never click our Meta ads.\n- Creative tools are actually nice – being able to auto-generate variations from one hero concept saved our tiny team tons of time.\n\nThe meh:\n- Attribution feels generous. If someone sees us on Realize, searches brand on Google the next day, Realize still tries to claim the win.\n- UI still has odd quirks (filters randomly resetting, basic bulk-edit pain).\n\nNet: we’re keeping it in the mix at 15–20% of spend, but not turning off Meta for this any time soon.\n\nWould love to hear from anyone who did go all-in and moved a big chunk of performance budget to Realize – was it worth it long-term?",
+        "author": "throwaway_realize_3",
+        "url": "https://www.reddit.com/r/PPC/comments/synthetic_3/",
+        "permalink": "/r/PPC/comments/synthetic_3/",
+        "created_utc": 1763058165,
+        "score": 33,
+        "num_comments": 4,
+        "over_18": false,
+        "is_self": true
+      },
+      "llm_filter": {
+        "is_relevant": true,
+        "mentions_taboola": true,
+        "mentions_realize_product": true,
+        "relevance_score": 9.5,
+        "raw_model_response": "Synthetic seed post about Taboola Realize (neutral-positive leaning).",
+        "filter_auto_accepted": true
+      },
+      "comments": [
+        {
+          "id": "c_9",
+          "post_id": "synthetic_3",
+          "parent_id": "t3_synthetic_3",
+          "author": "user_2113",
+          "body": "We’re a DTC skincare brand and had almost the exact same numbers. Slightly worse CPA than Meta prospecting, but way better than open-web display we tried before. \n\nIt shines for us as a remarketing layer – people who read publisher content about our niche then see us again in social/search convert at a higher rate.",
+          "created_utc": 1763058450,
+          "score": 29,
+          "depth": 0
+        },
+        {
+          "id": "c_10",
+          "post_id": "synthetic_3",
+          "parent_id": "t3_synthetic_3",
+          "author": "user_9341",
+          "body": "Careful with their attribution windows. Default is super generous. Once we tightened the window and forced last-touch sanity, magically the \"Realize is crushing it\" story became \"Realize is solid but not a miracle\".",
+          "created_utc": 1763060889,
+          "score": 24,
+          "depth": 0
+        },
+        {
+          "id": "c_11",
+          "post_id": "synthetic_3",
+          "parent_id": "c_10",
+          "author": "user_8657",
+          "body": "LOL this. Every ad platform: \"We drove 130% of your revenue last month.\"",
+          "created_utc": 1763060603,
+          "score": 32,
+          "depth": 1
+        },
+        {
+          "id": "c_12",
+          "post_id": "synthetic_3",
+          "parent_id": "t3_synthetic_3",
+          "author": "user_9255",
+          "body": "The creative tools are actually the bit I like most. Being able to spin 10 variants from one static and test them on cheap Realize traffic, then port winners back to Meta, has been surprisingly useful.",
+          "created_utc": 1763061011,
+          "score": 18,
+          "depth": 0
+        }
+      ]
+    },
+    {
+      "post": {
+        "id": "synthetic_4",
+        "subreddit": "advertising",
+        "title": "Is Taboola Realize actually different from AI-powered chumbox?",
+        "selftext": "Their pitch:\n- AI performance engine\n- 600M daily active users through premium publishers and OEMs\n- Predictive Audiences using your first-party conversion data\n- New formats like Motion Ads, vertical video, etc.\n- Supposedly brings \"search-like\" performance to the open web\n\nReality from my seat so far:\n- Still fighting the same brand-safety and quality concerns as classic Taboola.\n- Reporting is better, but nowhere near what you get from a proper DSP.\n- It does move the needle on conversions, especially for DR brands that are already comfortable living on the edge of clickbait.\n\nSo… is this:\n1) A legit attempt to claw back performance budgets from Google/Meta and give publishers a real alternative\n2) Just a shinier packaging of the same old model with an \"AI\" sticker\n\nGenuine question – if you’ve run a serious Realize program (not a $50/day test), how are you positioning it in your channel mix?",
+        "author": "throwaway_realize_4",
+        "url": "https://www.reddit.com/r/advertising/comments/synthetic_4/",
+        "permalink": "/r/advertising/comments/synthetic_4/",
+        "created_utc": 1763148413,
+        "score": 45,
+        "num_comments": 4,
+        "over_18": false,
+        "is_self": true
+      },
+      "llm_filter": {
+        "is_relevant": true,
+        "mentions_taboola": true,
+        "mentions_realize_product": true,
+        "relevance_score": 9.5,
+        "raw_model_response": "Synthetic seed post about Taboola Realize (debate leaning).",
+        "filter_auto_accepted": true
+      },
+      "comments": [
+        {
+          "id": "c_13",
+          "post_id": "synthetic_4",
+          "parent_id": "t3_synthetic_4",
+          "author": "user_9639",
+          "body": "As someone who’s been in native since Outbrain v1 – yes, it’s different. Old Taboola was basically \"traffic arbitrage machine\". Realize is much closer to a performance DSP that happens to live inside their publisher network. \n\nStill has all the legacy baggage though.",
+          "created_utc": 1763148572,
+          "score": 30,
+          "depth": 0
+        },
+        {
+          "id": "c_14",
+          "post_id": "synthetic_4",
+          "parent_id": "t3_synthetic_4",
+          "author": "user_5467",
+          "body": "From a brand point of view it’s still a chumbox until proven otherwise. The deck says \"AI performance engine\", the user sees \"10 foods doctors hate\" right under a serious news story. That’s the disconnect they haven’t solved yet.",
+          "created_utc": 1763148974,
+          "score": 27,
+          "depth": 0
+        },
+        {
+          "id": "c_15",
+          "post_id": "synthetic_4",
+          "parent_id": "c_14",
+          "author": "user_8176",
+          "body": "Yeah but that same \"10 foods\" funnel is paying everyone’s salaries so…",
+          "created_utc": 1763149577,
+          "score": 23,
+          "depth": 1
+        },
+        {
+          "id": "c_16",
+          "post_id": "synthetic_4",
+          "parent_id": "t3_synthetic_4",
+          "author": "user_6909",
+          "body": "Realize gets interesting once you hook in first-party conversion data. Predictive Audiences actually worked for our leadgen client – we cut out a lot of junk impressions once it had enough events to learn from. \n\nIf you just run it on broad with no data, it feels like 2016 Taboola all over again.",
+          "created_utc": 1763150702,
+          "score": 22,
+          "depth": 0
+        }
+      ]
+    },
+    {
+      "post": {
+        "id": "synthetic_5",
+        "subreddit": "marketing",
+        "title": "B2B folks – any luck with Taboola Realize for SaaS?",
+        "selftext": "Most of the Realize case studies I’m seeing are ecom, financial publishers, or big performance advertisers.\n\nWe’re B2B SaaS (mid-ticket, around $10k ACV, long sales cycle):\n- Uploaded our won-opps to build Predictive Audiences\n- Optimized to demo requests\n- Ran a mix of thought-leadership content and more direct-response creatives\n\nResults after 45 days:\n- CPL is actually competitive with LinkedIn, but lead quality is all over the place.\n- SDR team says half the Realize leads \"just wanted to read the article\" and have zero intent.\n- On the plus side, we’re seeing more top-of-funnel awareness in regions where we had literally no paid presence before.\n\nFeels like Realize is somewhere between top-funnel display and real performance for us.\n\nAnyone cracked a playbook here? Better to treat it as:\n- Cheap reach and retargeting fuel, or\n- A legit performance channel once you tighten audiences and creative enough?",
+        "author": "throwaway_realize_5",
+        "url": "https://www.reddit.com/r/marketing/comments/synthetic_5/",
+        "permalink": "/r/marketing/comments/synthetic_5/",
+        "created_utc": 1763190822,
+        "score": 40,
+        "num_comments": 4,
+        "over_18": false,
+        "is_self": true
+      },
+      "llm_filter": {
+        "is_relevant": true,
+        "mentions_taboola": true,
+        "mentions_realize_product": true,
+        "relevance_score": 9.5,
+        "raw_model_response": "Synthetic seed post about Taboola Realize (b2b-mixed leaning).",
+        "filter_auto_accepted": true
+      },
+      "comments": [
+        {
+          "id": "c_17",
+          "post_id": "synthetic_5",
+          "parent_id": "t3_synthetic_5",
+          "author": "user_5317",
+          "body": "B2B here. Treat it as content distribution first, performance second. Our best leads still come from search and LinkedIn. \n\nWhere Realize helped was warming up accounts in new regions – we then retargeted those visitors on LinkedIn with much better success.",
+          "created_utc": 1763191781,
+          "score": 26,
+          "depth": 0
+        },
+        {
+          "id": "c_18",
+          "post_id": "synthetic_5",
+          "parent_id": "t3_synthetic_5",
+          "author": "user_7700",
+          "body": "We tried to make it a pure demo-request machine and it flopped. Once we switched to softer CTAs (guides, benchmarks, calculators) and let SDRs work the leads, quality improved a lot. \n\nIt’s not magic, but CPMs were decent compared to trying to brute-force cold LinkedIn traffic.",
+          "created_utc": 1763194178,
+          "score": 21,
+          "depth": 0
+        },
+        {
+          "id": "c_19",
+          "post_id": "synthetic_5",
+          "parent_id": "c_18",
+          "author": "user_8434",
+          "body": "+1 on softer CTAs. If someone is in \"read an article about SaaS metrics\" mode on a news site, they’re probably not ready to book a 45-minute demo with your AE yet.",
+          "created_utc": 1763191733,
+          "score": 18,
+          "depth": 1
+        },
+        {
+          "id": "c_20",
+          "post_id": "synthetic_5",
+          "parent_id": "t3_synthetic_5",
+          "author": "user_1032",
+          "body": "Sarcastic take: Realize is great if your ICP is \"people bored at work scrolling news on their company laptop\". Which, to be fair, describes half of B2B buying committees anyway.",
+          "created_utc": 1763193163,
+          "score": 24,
+          "depth": 0
+        }
+      ]
+    }
+  ]
+}

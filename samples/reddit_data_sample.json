@@ -1,0 +1,76 @@
+{
+      "post": {
+        "id": "1k6eeu1",
+        "subreddit": "adops",
+        "title": "advice on working with an ad management company to replace Taboola",
+        "selftext": "Hi, I am running ad operations for a small publisher with several domains that are currently running a combination of Adsense and Taboola ads. Taboola ads are by far our biggest source of ad revenue, and we have a direct relationship with Taboola, but because of our small size it's not really a great fit working with them directly. We only generate a few hundred dollars a day of ad revenue, so we're too small to be very interesting to them.  \n  \nI'd like to find an ad management company that can be the intermediary between us and Taboola, so we don't have to deal with maintaining the relationship directly anymore (it's just quite a hassle for us, as their expectations around our growth are not really achievable).\n\nCould someone help me get the lay of the land on how to get Taboola ads without working with Taboola directly? I see tons of folks out there who seem to be working with intermediaries, but I don't know how to distinguish one from another. We're not really looking for a full yield management solution (Taboola ads seem to be working quite well and we don't want to change our site a ton).\n\n\n\nImportant: We also use Taboola's feature of organic cross-posting quite heavily in our sites, so any ad management company we work with would have to be able to support that placement type.\n\n  \nThank you so much!",
+        "author": "Lazy_Homework_225",
+        "url": "https://www.reddit.com/r/adops/comments/1k6eeu1/advice_on_working_with_an_ad_management_company/",
+        "permalink": "/r/adops/comments/1k6eeu1/advice_on_working_with_an_ad_management_company/",
+        "created_utc": 1745452980,
+        "score": 5,
+        "num_comments": 6,
+        "over_18": false,
+        "is_self": true
+      },
+      "llm_filter": {
+        "is_relevant": true,
+        "mentions_taboola": true,
+        "mentions_realize_product": false,
+        "relevance_score": 9.0,
+        "raw_model_response": "Auto-accepted by filter: Strong indicator: taboola ad",
+        "filter_auto_accepted": true
+      },
+      "comments": [
+        {
+          "id": "mov6zvp",
+          "post_id": "1k6eeu1",
+          "parent_id": "t3_1k6eeu1",
+          "author": "joe951",
+          "body": "What are you having to do to “maintain the relationship”?   Seems odd that you need to talk to them at all after initial setup.",
+          "created_utc": 1745531939,
+          "score": 2,
+          "depth": 0
+        },
+        {
+          "id": "mot6zbj",
+          "post_id": "1k6eeu1",
+          "parent_id": "t3_1k6eeu1",
+          "author": "btdawson",
+          "body": "Full transparency I didn’t read the whole thing but anyone playing middle man is going to take a percentage of revenue. That said, you might make a decent bit more by switching from Adsense to a full stack, so perhaps the uplift makes it worth it.",
+          "created_utc": 1745510922,
+          "score": 1,
+          "depth": 0
+        },
+        {
+          "id": "moujlkn",
+          "post_id": "1k6eeu1",
+          "parent_id": "t3_1k6eeu1",
+          "author": "davidvalue",
+          "body": "If u wanna keep Taboola but ditch the direct hassle, there's a few smaller ad ops firms that act as intermediaries. Just watch out cuz they'll take a cut. Make sure they support Taboola's organic cross-posting, that's kinda niche. Maybe hit up some smaller ad agencies or ad tech platforms that partner with Taboola. They’ll manage everything but it won’t be free. Hope this helps!",
+          "created_utc": 1745524843,
+          "score": 1,
+          "depth": 0
+        },
+        {
+          "id": "mov7eyn",
+          "post_id": "1k6eeu1",
+          "parent_id": "t1_moujlkn",
+          "author": "Lazy_Homework_225",
+          "body": "Do you have any examples? I don't know what to look for, other than googling for Taboola partners. I came across this link: [https://www.taboola.com/policies/programmatic-demand-and-supply-partners](https://www.taboola.com/policies/programmatic-demand-and-supply-partners)\n\nand have been combing through it, but if you have anyone specific in mind I would greatly appreciate the recommendation!",
+          "created_utc": 1745532074,
+          "score": 1,
+          "depth": 1
+        },
+        {
+          "id": "mp1ddo0",
+          "post_id": "1k6eeu1",
+          "parent_id": "t3_1k6eeu1",
+          "author": "grosadilla",
+          "body": "Have you considered mgid?",
+          "created_utc": 1745615043,
+          "score": 1,
+          "depth": 0
+        }
+      ]
+    }

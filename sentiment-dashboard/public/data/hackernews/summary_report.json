@@ -1,0 +1,293 @@
+{
+  "summary": {
+    "total_items": 63,
+    "total_posts": 31,
+    "total_comments": 32,
+    "unique_subreddits": 2,
+    "date_range": {
+      "earliest": 1325006332,
+      "latest": 1721320909
+    }
+  },
+  "overall_sentiment_distribution": {
+    "neutral": "42.9%",
+    "negative": "47.6%",
+    "positive": "7.9%",
+    "mixed": "1.6%"
+  },
+  "field_distributions": {
+    "product_quality": {
+      "negative": 76.47058823529412,
+      "neutral": 14.705882352941178,
+      "positive": 8.823529411764707,
+      "total_mentions": 34
+    },
+    "user_experience": {
+      "negative": 96.55172413793103,
+      "neutral": 3.4482758620689653,
+      "total_mentions": 29
+    },
+    "business_practices": {
+      "negative": 78.37837837837837,
+      "neutral": 21.62162162162162,
+      "total_mentions": 37
+    },
+    "financial_performance": {
+      "neutral": 37.5,
+      "negative": 31.25,
+      "positive": 31.25,
+      "total_mentions": 16
+    },
+    "publisher_relations": {
+      "positive": 10.526315789473683,
+      "negative": 89.47368421052632,
+      "total_mentions": 19
+    },
+    "advertiser_value": {
+      "negative": 58.82352941176471,
+      "neutral": 5.88235294117647,
+      "positive": 29.411764705882355,
+      "mixed": 5.88235294117647,
+      "total_mentions": 17
+    }
+  },
+  "edge_cases": {
+    "sarcastic_count": 13,
+    "mixed_sentiment_count": 4,
+    "non_english_count": 0,
+    "spam_count": 1
+  },
+  "language_distribution": {
+    "en": 63
+  },
+  "top_themes_by_field": {
+    "publisher_relations": [
+      {
+        "theme": "Taboola partners with them",
+        "frequency": 1,
+        "representative_quotes": [
+          {
+            "text": "Taboola ($157mm VC funding) partners with malware; Akamai and Amazon complicit I&#x27;m at my moms house for Mother&#x27;s Day weekend and cleaned her computer after she told me she was getting a lot ",
+            "sentiment": "negative",
+            "score": 15,
+            "link": "https://www.reddit.com/comments/9514333"
+          }
+        ]
+      },
+      {
+        "theme": "stop supporting malware",
+        "frequency": 1,
+        "representative_quotes": [
+          {
+            "text": "Taboola ($157mm VC funding) partners with malware; Akamai and Amazon complicit I&#x27;m at my moms house for Mother&#x27;s Day weekend and cleaned her computer after she told me she was getting a lot ",
+            "sentiment": "negative",
+            "score": 15,
+            "link": "https://www.reddit.com/comments/9514333"
+          }
+        ]
+      },
+      {
+        "theme": "editorial indiscretion",
+        "frequency": 1,
+        "representative_quotes": [
+          {
+            "text": "\"Quiet Quitting\" and Editorial Mistrust &quot;Quiet quitting&quot;, &quot;Return to work&quot;, other weird topics lately seem to pop up out of nowhere expecting to be welcomed into the lexicon. These",
+            "sentiment": "negative",
+            "score": 3,
+            "link": "https://www.reddit.com/comments/33095644"
+          }
+        ]
+      }
+    ],
+    "product_quality": [
+      {
+        "theme": "clickbait giant",
+        "frequency": 1,
+        "representative_quotes": [
+          {
+            "text": "Taboola and Outbrain are merging to create a clickbait giant",
+            "sentiment": "negative",
+            "score": 125,
+            "link": "https://www.nytimes.com/2019/10/04/business/media/online-advertising-chumbox-merger.html"
+          }
+        ]
+      },
+      {
+        "theme": "partners with malware",
+        "frequency": 1,
+        "representative_quotes": [
+          {
+            "text": "Taboola ($157mm VC funding) partners with malware; Akamai and Amazon complicit I&#x27;m at my moms house for Mother&#x27;s Day weekend and cleaned her computer after she told me she was getting a lot ",
+            "sentiment": "negative",
+            "score": 15,
+            "link": "https://www.reddit.com/comments/9514333"
+          }
+        ]
+      },
+      {
+        "theme": "suchhappy.com being malware",
+        "frequency": 1,
+        "representative_quotes": [
+          {
+            "text": "Taboola ($157mm VC funding) partners with malware; Akamai and Amazon complicit I&#x27;m at my moms house for Mother&#x27;s Day weekend and cleaned her computer after she told me she was getting a lot ",
+            "sentiment": "negative",
+            "score": 15,
+            "link": "https://www.reddit.com/comments/9514333"
+          }
+        ]
+      }
+    ],
+    "user_experience": [
+      {
+        "theme": "clickbait giant",
+        "frequency": 1,
+        "representative_quotes": [
+          {
+            "text": "Taboola and Outbrain are merging to create a clickbait giant",
+            "sentiment": "negative",
+            "score": 125,
+            "link": "https://www.nytimes.com/2019/10/04/business/media/online-advertising-chumbox-merger.html"
+          }
+        ]
+      },
+      {
+        "theme": "getting a lot of popups",
+        "frequency": 1,
+        "representative_quotes": [
+          {
+            "text": "Taboola ($157mm VC funding) partners with malware; Akamai and Amazon complicit I&#x27;m at my moms house for Mother&#x27;s Day weekend and cleaned her computer after she told me she was getting a lot ",
+            "sentiment": "negative",
+            "score": 15,
+            "link": "https://www.reddit.com/comments/9514333"
+          }
+        ]
+      },
+      {
+        "theme": "suchhappy.com pop-up",
+        "frequency": 1,
+        "representative_quotes": [
+          {
+            "text": "Taboola ($157mm VC funding) partners with malware; Akamai and Amazon complicit I&#x27;m at my moms house for Mother&#x27;s Day weekend and cleaned her computer after she told me she was getting a lot ",
+            "sentiment": "negative",
+            "score": 15,
+            "link": "https://www.reddit.com/comments/9514333"
+          }
+        ]
+      }
+    ],
+    "business_practices": [
+      {
+        "theme": "are merging to create a clickbait giant",
+        "frequency": 1,
+        "representative_quotes": [
+          {
+            "text": "Taboola and Outbrain are merging to create a clickbait giant",
+            "sentiment": "negative",
+            "score": 125,
+            "link": "https://www.nytimes.com/2019/10/04/business/media/online-advertising-chumbox-merger.html"
+          }
+        ]
+      },
+      {
+        "theme": "Taboola ($157mm VC funding) partners with malware",
+        "frequency": 1,
+        "representative_quotes": [
+          {
+            "text": "Taboola ($157mm VC funding) partners with malware; Akamai and Amazon complicit I&#x27;m at my moms house for Mother&#x27;s Day weekend and cleaned her computer after she told me she was getting a lot ",
+            "sentiment": "negative",
+            "score": 15,
+            "link": "https://www.reddit.com/comments/9514333"
+          }
+        ]
+      },
+      {
+        "theme": "When will VC funded companies stop using malware to grow?",
+        "frequency": 1,
+        "representative_quotes": [
+          {
+            "text": "Taboola ($157mm VC funding) partners with malware; Akamai and Amazon complicit I&#x27;m at my moms house for Mother&#x27;s Day weekend and cleaned her computer after she told me she was getting a lot ",
+            "sentiment": "negative",
+            "score": 15,
+            "link": "https://www.reddit.com/comments/9514333"
+          }
+        ]
+      }
+    ],
+    "advertiser_value": [
+      {
+        "theme": "partners with malware",
+        "frequency": 1,
+        "representative_quotes": [
+          {
+            "text": "Taboola ($157mm VC funding) partners with malware; Akamai and Amazon complicit I&#x27;m at my moms house for Mother&#x27;s Day weekend and cleaned her computer after she told me she was getting a lot ",
+            "sentiment": "negative",
+            "score": 15,
+            "link": "https://www.reddit.com/comments/9514333"
+          }
+        ]
+      },
+      {
+        "theme": "ads on the page",
+        "frequency": 1,
+        "representative_quotes": [
+          {
+            "text": "Taboola ($157mm VC funding) partners with malware; Akamai and Amazon complicit I&#x27;m at my moms house for Mother&#x27;s Day weekend and cleaned her computer after she told me she was getting a lot ",
+            "sentiment": "negative",
+            "score": 15,
+            "link": "https://www.reddit.com/comments/9514333"
+          }
+        ]
+      },
+      {
+        "theme": "more ad spend",
+        "frequency": 1,
+        "representative_quotes": [
+          {
+            "text": "\"Quiet Quitting\" and Editorial Mistrust &quot;Quiet quitting&quot;, &quot;Return to work&quot;, other weird topics lately seem to pop up out of nowhere expecting to be welcomed into the lexicon. These",
+            "sentiment": "negative",
+            "score": 3,
+            "link": "https://www.reddit.com/comments/33095644"
+          }
+        ]
+      }
+    ],
+    "financial_performance": [
+      {
+        "theme": "$850M deal",
+        "frequency": 1,
+        "representative_quotes": [
+          {
+            "text": "Taboola and Outbrain merge in $850M deal to take on Google and Facebook",
+            "sentiment": "neutral",
+            "score": 5,
+            "link": "https://techcrunch.com/2019/10/03/taboola-outbrain/"
+          }
+        ]
+      },
+      {
+        "theme": "scores Apple advertising deal",
+        "frequency": 1,
+        "representative_quotes": [
+          {
+            "text": "Taboola scores Apple advertising deal, shares surge",
+            "sentiment": "positive",
+            "score": 2,
+            "link": "https://www.reuters.com/business/media-telecom/taboola-scores-apple-advertising-deal-shares-surge-2024-07-16/"
+          }
+        ]
+      },
+      {
+        "theme": "shares surge",
+        "frequency": 1,
+        "representative_quotes": [
+          {
+            "text": "Taboola scores Apple advertising deal, shares surge",
+            "sentiment": "positive",
+            "score": 2,
+            "link": "https://www.reuters.com/business/media-telecom/taboola-scores-apple-advertising-deal-shares-surge-2024-07-16/"
+          }
+        ]
+      }
+    ]
+  }
+}

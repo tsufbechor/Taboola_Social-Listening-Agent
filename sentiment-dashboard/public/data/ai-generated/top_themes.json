@@ -1,0 +1,230 @@
+{
+  "product_quality": [
+    {
+      "theme": "RPM is up ~22% vs our previous setup",
+      "frequency": 1,
+      "representative_quotes": [
+        {
+          "text": "Publisher POV on Taboola Realize – anyone else conflicted? We turned on Realize across display + native units a couple months ago. Not just the usual bottom-of-article widgets – they’re now filling mo",
+          "sentiment": "mixed",
+          "score": 51,
+          "link": "https://www.reddit.com/r/programmatic/comments/synthetic_2/"
+        }
+      ]
+    },
+    {
+      "theme": "Fill is strong, even on some smaller sections of the site",
+      "frequency": 1,
+      "representative_quotes": [
+        {
+          "text": "Publisher POV on Taboola Realize – anyone else conflicted? We turned on Realize across display + native units a couple months ago. Not just the usual bottom-of-article widgets – they’re now filling mo",
+          "sentiment": "mixed",
+          "score": 51,
+          "link": "https://www.reddit.com/r/programmatic/comments/synthetic_2/"
+        }
+      ]
+    },
+    {
+      "theme": "Is Taboola Realize actually different from AI-powered chumbox?",
+      "frequency": 1,
+      "representative_quotes": [
+        {
+          "text": "Is Taboola Realize actually different from AI-powered chumbox? Their pitch:\n- AI performance engine\n- 600M daily active users through premium publishers and OEMs\n- Predictive Audiences using your firs",
+          "sentiment": "mixed",
+          "score": 45,
+          "link": "https://www.reddit.com/r/advertising/comments/synthetic_4/"
+        }
+      ]
+    }
+  ],
+  "user_experience": [
+    {
+      "theme": "UX team is furious",
+      "frequency": 1,
+      "representative_quotes": [
+        {
+          "text": "Publisher POV on Taboola Realize – anyone else conflicted? We turned on Realize across display + native units a couple months ago. Not just the usual bottom-of-article widgets – they’re now filling mo",
+          "sentiment": "negative",
+          "score": 51,
+          "link": "https://www.reddit.com/r/programmatic/comments/synthetic_2/"
+        }
+      ]
+    },
+    {
+      "theme": "They say it cheapens the brand",
+      "frequency": 1,
+      "representative_quotes": [
+        {
+          "text": "Publisher POV on Taboola Realize – anyone else conflicted? We turned on Realize across display + native units a couple months ago. Not just the usual bottom-of-article widgets – they’re now filling mo",
+          "sentiment": "negative",
+          "score": 51,
+          "link": "https://www.reddit.com/r/programmatic/comments/synthetic_2/"
+        }
+      ]
+    },
+    {
+      "theme": "Still fighting the same brand-safety and quality concerns as classic Taboola.",
+      "frequency": 1,
+      "representative_quotes": [
+        {
+          "text": "Is Taboola Realize actually different from AI-powered chumbox? Their pitch:\n- AI performance engine\n- 600M daily active users through premium publishers and OEMs\n- Predictive Audiences using your firs",
+          "sentiment": "negative",
+          "score": 45,
+          "link": "https://www.reddit.com/r/advertising/comments/synthetic_4/"
+        }
+      ]
+    }
+  ],
+  "business_practices": [
+    {
+      "theme": "tapping into 'performance budgets' that normally go straight to search/social",
+      "frequency": 1,
+      "representative_quotes": [
+        {
+          "text": "Publisher POV on Taboola Realize – anyone else conflicted? We turned on Realize across display + native units a couple months ago. Not just the usual bottom-of-article widgets – they’re now filling mo",
+          "sentiment": "mixed",
+          "score": 51,
+          "link": "https://www.reddit.com/r/programmatic/comments/synthetic_2/"
+        }
+      ]
+    },
+    {
+      "theme": "we don’t have great controls to distinguish Realize performance ads vs the old-school content recs",
+      "frequency": 1,
+      "representative_quotes": [
+        {
+          "text": "Publisher POV on Taboola Realize – anyone else conflicted? We turned on Realize across display + native units a couple months ago. Not just the usual bottom-of-article widgets – they’re now filling mo",
+          "sentiment": "mixed",
+          "score": 51,
+          "link": "https://www.reddit.com/r/programmatic/comments/synthetic_2/"
+        }
+      ]
+    },
+    {
+      "theme": "Just a shinier packaging of the same old model with an \"AI\" sticker",
+      "frequency": 1,
+      "representative_quotes": [
+        {
+          "text": "Is Taboola Realize actually different from AI-powered chumbox? Their pitch:\n- AI performance engine\n- 600M daily active users through premium publishers and OEMs\n- Predictive Audiences using your firs",
+          "sentiment": "mixed",
+          "score": 45,
+          "link": "https://www.reddit.com/r/advertising/comments/synthetic_4/"
+        }
+      ]
+    }
+  ],
+  "financial_performance": [
+    {
+      "theme": "RPM is up ~22% vs our previous setup",
+      "frequency": 1,
+      "representative_quotes": [
+        {
+          "text": "Publisher POV on Taboola Realize – anyone else conflicted? We turned on Realize across display + native units a couple months ago. Not just the usual bottom-of-article widgets – they’re now filling mo",
+          "sentiment": "positive",
+          "score": 51,
+          "link": "https://www.reddit.com/r/programmatic/comments/synthetic_2/"
+        }
+      ]
+    },
+    {
+      "theme": "honestly the money is showing up",
+      "frequency": 1,
+      "representative_quotes": [
+        {
+          "text": "Publisher POV on Taboola Realize – anyone else conflicted? We turned on Realize across display + native units a couple months ago. Not just the usual bottom-of-article widgets – they’re now filling mo",
+          "sentiment": "positive",
+          "score": 51,
+          "link": "https://www.reddit.com/r/programmatic/comments/synthetic_2/"
+        }
+      ]
+    },
+    {
+      "theme": "CPL is actually competitive with LinkedIn",
+      "frequency": 1,
+      "representative_quotes": [
+        {
+          "text": "B2B folks – any luck with Taboola Realize for SaaS? Most of the Realize case studies I’m seeing are ecom, financial publishers, or big performance advertisers.\n\nWe’re B2B SaaS (mid-ticket, around $10k",
+          "sentiment": "positive",
+          "score": 40,
+          "link": "https://www.reddit.com/r/marketing/comments/synthetic_5/"
+        }
+      ]
+    }
+  ],
+  "publisher_relations": [
+    {
+      "theme": "Their team keeps talking about tapping into 'performance budgets'",
+      "frequency": 1,
+      "representative_quotes": [
+        {
+          "text": "Publisher POV on Taboola Realize – anyone else conflicted? We turned on Realize across display + native units a couple months ago. Not just the usual bottom-of-article widgets – they’re now filling mo",
+          "sentiment": "mixed",
+          "score": 51,
+          "link": "https://www.reddit.com/r/programmatic/comments/synthetic_2/"
+        }
+      ]
+    },
+    {
+      "theme": "UX team is furious",
+      "frequency": 1,
+      "representative_quotes": [
+        {
+          "text": "Publisher POV on Taboola Realize – anyone else conflicted? We turned on Realize across display + native units a couple months ago. Not just the usual bottom-of-article widgets – they’re now filling mo",
+          "sentiment": "mixed",
+          "score": 51,
+          "link": "https://www.reddit.com/r/programmatic/comments/synthetic_2/"
+        }
+      ]
+    },
+    {
+      "theme": "600M daily active users through premium publishers and OEMs",
+      "frequency": 1,
+      "representative_quotes": [
+        {
+          "text": "Is Taboola Realize actually different from AI-powered chumbox? Their pitch:\n- AI performance engine\n- 600M daily active users through premium publishers and OEMs\n- Predictive Audiences using your firs",
+          "sentiment": "mixed",
+          "score": 45,
+          "link": "https://www.reddit.com/r/advertising/comments/synthetic_4/"
+        }
+      ]
+    }
+  ],
+  "advertiser_value": [
+    {
+      "theme": "It does move the needle on conversions",
+      "frequency": 1,
+      "representative_quotes": [
+        {
+          "text": "Is Taboola Realize actually different from AI-powered chumbox? Their pitch:\n- AI performance engine\n- 600M daily active users through premium publishers and OEMs\n- Predictive Audiences using your firs",
+          "sentiment": "mixed",
+          "score": 45,
+          "link": "https://www.reddit.com/r/advertising/comments/synthetic_4/"
+        }
+      ]
+    },
+    {
+      "theme": "Reporting is better, but nowhere near what you get from a proper DSP.",
+      "frequency": 1,
+      "representative_quotes": [
+        {
+          "text": "Is Taboola Realize actually different from AI-powered chumbox? Their pitch:\n- AI performance engine\n- 600M daily active users through premium publishers and OEMs\n- Predictive Audiences using your firs",
+          "sentiment": "mixed",
+          "score": 45,
+          "link": "https://www.reddit.com/r/advertising/comments/synthetic_4/"
+        }
+      ]
+    },
+    {
+      "theme": "CPL is actually competitive with LinkedIn, but lead quality is all over the place",
+      "frequency": 1,
+      "representative_quotes": [
+        {
+          "text": "B2B folks – any luck with Taboola Realize for SaaS? Most of the Realize case studies I’m seeing are ecom, financial publishers, or big performance advertisers.\n\nWe’re B2B SaaS (mid-ticket, around $10k",
+          "sentiment": "mixed",
+          "score": 40,
+          "link": "https://www.reddit.com/r/marketing/comments/synthetic_5/"
+        }
+      ]
+    }
+  ]
+}

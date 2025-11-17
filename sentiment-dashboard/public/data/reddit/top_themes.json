@@ -1,0 +1,344 @@
+{
+  "business_practices": [
+    {
+      "theme": "Native advertising effectiveness",
+      "frequency": 3,
+      "representative_quotes": [
+        {
+          "text": "We run programmatic for several health brands. It depends on what the product is and what qualifies as a \"lead\". \n\nTaboola and native placements work best when you are distributing content or have a landing page that is designed to inform and not just sell something. \n\nDisplay and video perform well, especially if you integrate CRM and the clients 1st party data. \n\nHappy to help with deeper strategy if you need, just let me know!",
+          "sentiment": "positive",
+          "score": 3,
+          "link": "https://www.reddit.com/r/programmatic/comments/1ne5mzy/comment/ndmd5b9"
+        },
+        {
+          "text": "Testing platforms like Taboola can definitely provide a fresh avenue for reaching potential leads, especially if you're looking to diversify your ad strategy. They often have unique placements that can catch attention in a different way than traditional ads.",
+          "sentiment": "positive",
+          "score": 1,
+          "link": "https://www.reddit.com/r/programmatic/comments/1ne5mzy/comment/ndpu4d5"
+        },
+        {
+          "text": "Click bait serves a purpose. Native is good for storytelling, and for giving your customers the why. A display ad will show your logo, and the product (if you are selling something) and maybe have your catchphrase. Which is fine when all you need to do to generate sales is say something like \"just do it\" or coke is it.\"\n\nBut when your offering needs people to understand why it's valuable to them, native gives you the room to explain that. Native forces you to include copy with your image, and most native doesn't want your logo. So the copy has to convince the customer to click and learn more..and thats the other part of native that people miss. It used to be content discovery, and thats still where its value is. Pay off what the copy says in the page it clicks through to. Continue to build up the why before you ask the consumer for a form fill or a purchase. \n\nDm me if you wanna chat. I used to work at outbrain. Taboola and out brain are the coke and pepsi of native",
+          "sentiment": "positive",
+          "score": 11,
+          "link": "https://www.reddit.com/comments/mluf015"
+        }
+      ]
+    },
+    {
+      "theme": "click bait",
+      "frequency": 2,
+      "representative_quotes": [
+        {
+          "text": "Is it still garbage click bait?",
+          "sentiment": "negative",
+          "score": 28,
+          "link": "https://www.reddit.com/comments/mlsnfcx"
+        },
+        {
+          "text": "Good for the publisher in the short term, maybe, but it does nothing to build your audience in a way that's sustainble longterm, and brings no value to the advertisers because the engagement of any re",
+          "sentiment": "negative",
+          "score": 0,
+          "link": "https://www.reddit.com/comments/ikshho8"
+        }
+      ]
+    },
+    {
+      "theme": "wined and dined by sales reps",
+      "frequency": 2,
+      "representative_quotes": [
+        {
+          "text": "Absolutely. Last November I had a meeting with a sales rep for Taboola. After going through the deck and checking out the case studies, I thanked him for his time, and told my planner to not bother se",
+          "sentiment": "negative",
+          "score": 8,
+          "link": "https://www.reddit.com/comments/cyrdw8g"
+        },
+        {
+          "text": "&gt;Those clients are usually the ones who push for solutions like these, because they have been wined and dined by sales reps and don't see that it may not provide a good fit for the brand, the targe",
+          "sentiment": "negative",
+          "score": 1,
+          "link": "https://www.reddit.com/comments/cyu1amb"
+        }
+      ]
+    }
+  ],
+  "financial_performance": [
+    {
+      "theme": "Revenue generation for publishers",
+      "frequency": 2,
+      "representative_quotes": [
+        {
+          "text": "Because they pay us an insane amount of money (seriously).",
+          "sentiment": "positive",
+          "score": 11,
+          "link": "https://www.reddit.com/r/programmatic/comments/1jwsr9w/comment/mmlmuv6"
+        },
+        {
+          "text": "For some sites, it makes a ton of $$. Like tens of thousands of easy incremental rev per month depending on your traffic.",
+          "sentiment": "positive",
+          "score": 5,
+          "link": "https://www.reddit.com/r/programmatic/comments/1jwsr9w/comment/mmn67a9"
+        }
+      ]
+    },
+    {
+      "theme": "Investment interest",
+      "frequency": 2,
+      "representative_quotes": [
+        {
+          "text": "Taboola should be a very interesting IPO to follow.",
+          "sentiment": "positive",
+          "score": 7,
+          "link": "https://www.reddit.com/comments/gli8okm"
+        },
+        {
+          "text": "Because it's a really good way to make money.",
+          "sentiment": "positive",
+          "score": 5,
+          "link": "https://www.reddit.com/r/programmatic/comments/1jwsr9w/comment/mmmsfrz"
+        }
+      ]
+    },
+    {
+      "theme": "we are struggling",
+      "frequency": 2,
+      "representative_quotes": [
+        {
+          "text": "OK, sure, but who here is actually working for that media company/publisher that is actually, matter of fact, de facto making a profit without resorting to click bait or taboola/outbrain? Not even bei",
+          "sentiment": "negative",
+          "score": 2,
+          "link": "https://www.reddit.com/comments/cyrgz58"
+        },
+        {
+          "text": "&gt;  Because I work for a giant media company and we are struggling.\n\nWhat are your current revenue streams? \nAre you local or national? \nI know many local publishers who are fairing well with target",
+          "sentiment": "negative",
+          "score": 1,
+          "link": "https://www.reddit.com/comments/cyu14b7"
+        }
+      ]
+    }
+  ],
+  "publisher_relations": [
+    {
+      "theme": "Revenue generation",
+      "frequency": 2,
+      "representative_quotes": [
+        {
+          "text": "Because they pay us an insane amount of money (seriously).",
+          "sentiment": "positive",
+          "score": 11,
+          "link": "https://www.reddit.com/r/programmatic/comments/1jwsr9w/comment/mmlmuv6"
+        },
+        {
+          "text": "For some sites, it makes a ton of $$. Like tens of thousands of easy incremental rev per month depending on your traffic.",
+          "sentiment": "positive",
+          "score": 5,
+          "link": "https://www.reddit.com/r/programmatic/comments/1jwsr9w/comment/mmn67a9"
+        }
+      ]
+    },
+    {
+      "theme": "Platform effectiveness",
+      "frequency": 2,
+      "representative_quotes": [
+        {
+          "text": "Because it kinda works dude",
+          "sentiment": "positive",
+          "score": 46,
+          "link": "https://www.reddit.com/r/programmatic/comments/1jwsr9w/comment/mmkuq9g"
+        },
+        {
+          "text": "I hear you. But also.... it works.",
+          "sentiment": "positive",
+          "score": 5,
+          "link": "https://www.reddit.com/r/programmatic/comments/1jwsr9w/comment/mmm0pqp"
+        }
+      ]
+    },
+    {
+      "theme": "Quality improvements",
+      "frequency": 2,
+      "representative_quotes": [
+        {
+          "text": "Haha, there was a lot of money in the past, but this is a subject that is being tackled by the whole ad space and MFAs are getting more and more rare. Our demand is now less than 10% MFA and I hope that number keeps going down. Taboola is always updating and making the policy stricter for these advertisers and that is why the number keeps going down, yet that doesn't mean you wont find them in other native providers.",
+          "sentiment": "positive",
+          "score": 6,
+          "link": "https://www.reddit.com/comments/mc2o19q"
+        },
+        {
+          "text": "They can buy on a CPC basis working directly (rather than programmatically). A lot of premium publishers also get free traffic for signing deals to host Taboola widgets.",
+          "sentiment": "positive",
+          "score": 3,
+          "link": "https://www.reddit.com/comments/iks7uy1"
+        }
+      ]
+    }
+  ],
+  "advertiser_value": [
+    {
+      "theme": "Effective for specific use cases",
+      "frequency": 2,
+      "representative_quotes": [
+        {
+          "text": "We run programmatic for several health brands. It depends on what the product is and what qualifies as a \"lead\". \n\nTaboola and native placements work best when you are distributing content or have a landing page that is designed to inform and not just sell something. \n\nDisplay and video perform well, especially if you integrate CRM and the clients 1st party data. \n\nHappy to help with deeper strategy if you need, just let me know!",
+          "sentiment": "positive",
+          "score": 3,
+          "link": "https://www.reddit.com/r/programmatic/comments/1ne5mzy/comment/ndmd5b9"
+        },
+        {
+          "text": "Testing platforms like Taboola can definitely provide a fresh avenue for reaching potential leads, especially if you're looking to diversify your ad strategy. They often have unique placements that can catch attention in a different way than traditional ads.",
+          "sentiment": "positive",
+          "score": 1,
+          "link": "https://www.reddit.com/r/programmatic/comments/1ne5mzy/comment/ndpu4d5"
+        }
+      ]
+    },
+    {
+      "theme": "bot traffic",
+      "frequency": 3,
+      "representative_quotes": [
+        {
+          "text": "How do you know those publishers haven't themselves bought the bot traffic from Microsoft's network partners? Or that they haven't bought from another site that has been buying MSFT syndicated parter ",
+          "sentiment": "negative",
+          "score": 2,
+          "link": "https://www.reddit.com/comments/iks33ip"
+        },
+        {
+          "text": "I'm still new to advertising in general, so maybe I'm doing something wrong or maybe I'm not organizing this.\n\nI actually tried to block the sites in an old campaign a while ago, after blocking so man",
+          "sentiment": "negative",
+          "score": 2,
+          "link": "https://www.reddit.com/comments/irw9yzv"
+        },
+        {
+          "text": "I would only trial Taboola with click fraud protection active. Too risky with bot traffic otherwise.",
+          "sentiment": "negative",
+          "score": 1,
+          "link": "https://www.reddit.com/comments/ll9gkjj"
+        }
+      ]
+    },
+    {
+      "theme": "low quality traffic",
+      "frequency": 2,
+      "representative_quotes": [
+        {
+          "text": "My experience is that it was like every other display network: full of crap, low quality traffic. And when you looked at the leads that did come through, you'd question if they would have arrived anyw",
+          "sentiment": "negative",
+          "score": 17,
+          "link": "https://www.reddit.com/comments/mmxveil"
+        },
+        {
+          "text": "The inventory in taboos is shambles. \n\nLow cpm but low quality traffic and clicks….",
+          "sentiment": "negative",
+          "score": 2,
+          "link": "https://www.reddit.com/comments/ll4r1cv"
+        }
+      ]
+    }
+  ],
+  "product_quality": [
+    {
+      "theme": "Native advertising platform strengths",
+      "frequency": 2,
+      "representative_quotes": [
+        {
+          "text": "We run programmatic for several health brands. It depends on what the product is and what qualifies as a \"lead\". \n\nTaboola and native placements work best when you are distributing content or have a landing page that is designed to inform and not just sell something. \n\nDisplay and video perform well, especially if you integrate CRM and the clients 1st party data. \n\nHappy to help with deeper strategy if you need, just let me know!",
+          "sentiment": "positive",
+          "score": 3,
+          "link": "https://www.reddit.com/r/programmatic/comments/1ne5mzy/comment/ndmd5b9"
+        },
+        {
+          "text": "Testing platforms like Taboola can definitely provide a fresh avenue for reaching potential leads, especially if you're looking to diversify your ad strategy. They often have unique placements that can catch attention in a different way than traditional ads.",
+          "sentiment": "positive",
+          "score": 1,
+          "link": "https://www.reddit.com/r/programmatic/comments/1ne5mzy/comment/ndpu4d5"
+        }
+      ]
+    },
+    {
+      "theme": "Quality and platform improvements",
+      "frequency": 2,
+      "representative_quotes": [
+        {
+          "text": "Haha, there was a lot of money in the past, but this is a subject that is being tackled by the whole ad space and MFAs are getting more and more rare. Our demand is now less than 10% MFA and I hope that number keeps going down. Taboola is always updating and making the policy stricter for these advertisers and that is why the number keeps going down, yet that doesn't mean you wont find them in other native providers.",
+          "sentiment": "positive",
+          "score": 6,
+          "link": "https://www.reddit.com/comments/mc2o19q"
+        },
+        {
+          "text": "Click bait serves a purpose. Native is good for storytelling, and for giving your customers the why. A display ad will show your logo, and the product (if you are selling something) and maybe have your catchphrase. Which is fine when all you need to do to generate sales is say something like \"just do it\" or coke is it.\"\n\nBut when your offering needs people to understand why it's valuable to them, native gives you the room to explain that. Native forces you to include copy with your image, and most native doesn't want your logo. So the copy has to convince the customer to click and learn more..and thats the other part of native that people miss. It used to be content discovery, and thats still where its value is. Pay off what the copy says in the page it clicks through to. Continue to build up the why before you ask the consumer for a form fill or a purchase. \n\nDm me if you wanna chat. I used to work at outbrain. Taboola and out brain are the coke and pepsi of native",
+          "sentiment": "positive",
+          "score": 11,
+          "link": "https://www.reddit.com/comments/mluf015"
+        }
+      ]
+    },
+    {
+      "theme": "low quality traffic",
+      "frequency": 2,
+      "representative_quotes": [
+        {
+          "text": "My experience is that it was like every other display network: full of crap, low quality traffic. And when you looked at the leads that did come through, you'd question if they would have arrived anyw",
+          "sentiment": "negative",
+          "score": 17,
+          "link": "https://www.reddit.com/comments/mmxveil"
+        },
+        {
+          "text": "The inventory in taboos is shambles. \n\nLow cpm but low quality traffic and clicks….",
+          "sentiment": "negative",
+          "score": 2,
+          "link": "https://www.reddit.com/comments/ll4r1cv"
+        }
+      ]
+    }
+  ],
+  "user_experience": [
+    {
+      "theme": "clickbait",
+      "frequency": 2,
+      "representative_quotes": [
+        {
+          "text": "Why do publishers use Taboola/Outbrain if the content looks like clickbait? Why do so many premium publishers continue to use Taboola or Outbrain ad units at the bottom of their pages? The content oft",
+          "sentiment": "negative",
+          "score": 40,
+          "link": "https://www.reddit.com/r/programmatic/comments/1jwsr9w/why_do_publishers_use_taboolaoutbrain_if_the/"
+        },
+        {
+          "text": "Taboola is not a DSP. They are clickbait for bottom of articles.",
+          "sentiment": "negative",
+          "score": 13,
+          "link": "https://www.reddit.com/comments/mf5mj78"
+        }
+      ]
+    },
+    {
+      "theme": "low quality traffic",
+      "frequency": 2,
+      "representative_quotes": [
+        {
+          "text": "My experience is that it was like every other display network: full of crap, low quality traffic. And when you looked at the leads that did come through, you'd question if they would have arrived anyw",
+          "sentiment": "negative",
+          "score": 17,
+          "link": "https://www.reddit.com/comments/mmxveil"
+        },
+        {
+          "text": "The inventory in taboos is shambles. \n\nLow cpm but low quality traffic and clicks….",
+          "sentiment": "negative",
+          "score": 2,
+          "link": "https://www.reddit.com/comments/ll4r1cv"
+        }
+      ]
+    },
+    {
+      "theme": "\"why one believes the 'free' account for Affinity is not an objectively good, and generous offer\"",
+      "frequency": 1,
+      "representative_quotes": [
+        {
+          "text": "Nothing is Free: Conditions Apply I've been engaged in discussion about the recent changes. A point that seems to be at the forefront of many such debates is just why one believes the 'free' account f",
+          "sentiment": "negative",
+          "score": 194,
+          "link": "https://www.reddit.com/r/AffinityPhoto/comments/1omiaiw/nothing_is_free_conditions_apply/"
+        }
+      ]
+    }
+  ]
+}

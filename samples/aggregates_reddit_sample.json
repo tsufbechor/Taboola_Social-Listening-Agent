@@ -1,0 +1,84 @@
+{
+  "summary": {
+    "total_items": 754,
+    "total_posts": 139,
+    "total_comments": 615,
+    "unique_subreddits": 42,
+    "date_range": {
+      "earliest": 1423108307,
+      "latest": 1763118977
+    }
+  },
+  "overall_sentiment_distribution": {
+    "positive": "17.6%",
+    "negative": "39.5%",
+    "neutral": "37.8%",
+    "mixed": "5.0%"
+  },
+  "field_distributions": {
+    "product_quality": {
+      "negative": 63.888888888888886,
+      "positive": 20.555555555555554,
+      "neutral": 11.666666666666666,
+      "mixed": 3.888888888888889,
+      "total_mentions": 360
+    },
+    "user_experience": {
+      "negative": 78.91373801916933,
+      "positive": 13.099041533546327,
+      "neutral": 6.3897763578274756,
+      "mixed": 1.5974440894568689,
+      "total_mentions": 313
+    },
+    "business_practices": {
+      "positive": 14.38679245283019,
+      "negative": 64.85849056603774,
+      "neutral": 17.92452830188679,
+      "mixed": 2.8301886792452833,
+      "total_mentions": 424
+    },
+    "financial_performance": {
+      "positive": 54.70588235294118,
+      "negative": 27.647058823529413,
+      "neutral": 15.294117647058824,
+      "mixed": 2.3529411764705883,
+      "total_mentions": 170
+    },
+    "publisher_relations": {
+      "mixed": 2.272727272727273,
+      "negative": 47.72727272727273,
+      "positive": 40.15151515151515,
+      "neutral": 9.848484848484848,
+      "total_mentions": 132
+    },
+    "advertiser_value": {
+      "positive": 29.96632996632997,
+      "negative": 48.821548821548824,
+      "mixed": 8.080808080808081,
+      "neutral": 13.131313131313133,
+      "total_mentions": 297
+    }
+  },
+  "top_themes_by_field": {
+    "business_practices": [
+      {
+        "theme": "click bait",
+        "frequency": 2,
+        "representative_quotes": [
+          {
+            "text": "Is it still garbage click bait?",
+            "sentiment": "negative",
+            "score": 28,
+            "link": "https://www.reddit.com/comments/mlsnfcx"
+          },
+          {
+            "text": "Good for the publisher in the short term, maybe, but it does nothing to build your audience in a way that's sustainble longterm, and brings no value to the advertisers because the engagement of any re",
+            "sentiment": "negative",
+            "score": 0,
+            "link": "https://www.reddit.com/comments/ikshho8"
+          }
+        ]
+      }
+    ]
+  }
+}

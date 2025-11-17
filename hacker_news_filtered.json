@@ -1,0 +1,1091 @@
+{
+  "metadata": {
+    "generated_at_utc": "2025-11-16T21:00:18Z",
+    "search_queries": [
+      "Taboola",
+      "Taboola Realize"
+    ],
+    "max_posts_per_query": 200
+  },
+  "posts": [
+    {
+      "post": {
+        "id": "11160348",
+        "subreddit": "hackernews",
+        "title": "Taboola adds New York Daily News to its client list",
+        "selftext": "",
+        "author": "tekheletknight",
+        "url": "http://geektime.com/2016/02/23/taboola-ups-its-reporting-innovation-with-new-york-daily-news/",
+        "permalink": "https://news.ycombinator.com/item?id=11160348",
+        "created_utc": 1456247084,
+        "score": 2,
+        "num_comments": 0,
+        "over_18": false,
+        "is_self": false
+      },
+      "llm_filter": {
+        "is_relevant": true,
+        "mentions_taboola": true,
+        "mentions_realize_product": false,
+        "relevance_score": 9.0,
+        "raw_model_response": "Auto-accepted by filter: Strong indicator: taboola ad",
+        "filter_auto_accepted": true
+      },
+      "comments": []
+    },
+    {
+      "post": {
+        "id": "33095644",
+        "subreddit": "hackernews",
+        "title": "\"Quiet Quitting\" and Editorial Mistrust",
+        "selftext": "&quot;Quiet quitting&quot;, &quot;Return to work&quot;, other weird topics lately seem to pop up out of nowhere expecting to be welcomed into the lexicon. These issues get talked about as if they&#x27;re a bigger thing than what they actually are.<p>&quot;My benefactors are not impressed by your inobedience&quot;.<p>It&#x27;s writing in a way that seems like it&#x27;s not the news being reported, it&#x27;s the news seeking an anger-click by using an inflammatory title. Things appear to be only getting more sensational, more antagonistic, more like a thinly veiled attempt to convey a message of &quot;party&#x27;s over, you&#x27;ll go back to your cube or you&#x27;ll starve&quot;.<p>My hypothesis: I think new media is in a negative feedback loop. The misbehavior and editorial indiscretion we see now maybe is a result of pressure from near-instant social reporting of events and the push to regain the reader&#x27;s attention. We see more and more rushed articles with factual inaccuracies, simple typos, often the body is 1-2 sentences long, barely more expressive than the title. Headlines are also embellished to the point of being inaccurate, or rely on double-entendre to garner attention.<p>Consider this flow chart:<p>0. internet and social media reporting starts<p>1. viewership&#x2F;readership drops<p>2. post sensationalist stories to gain readers<p>3. viewership&#x2F;readership drops, mistrust created<p>4. lower the time to publish by lowering editorial standards<p>5. viewership&#x2F;readership drops, writer quality suffers<p>6. readers are gone, but a passerby&#x27;s bar is much lower, and can be attracted through positive AND negative means..<p>7. viewership&#x2F;readership drops, writers are now guest-contributors, readers are drivebys seeking only to use your article&#x27;s title to validate their own whims in online arguments<p>8. more ad spend, more &#x27;listicles&#x27; with one item per pageload, more modal dialogs, more paywall<p>9. viewership&#x2F;readership is mostly bots, scrapers, and facebook users at this point.<p>10. Speculation: This is the stage where all your readers are people who rage-clicked your stock-art thumbnail on a Taboola ad block, or the Firefox new-tab screen. You pray to be lucky enough to be the subject of a viral Reddit ragepost. You use titles and subject matter like &quot;This Mitch McConnell Dildo Is (Actually) Here for a Good Cause&quot; [0]<p>There&#x27;s a distinct feeling that we, or popular news media, have pivoted the business model to an org that is 49% ads, 50% ad tracking, and 1% content in that you still accept money from college grads to publish their &quot;opinion column&quot; ostensibly through what&#x27;s left of the brand you once had.<p>In the quest to get clicks and readers, in a world where nobody reads past the headline, where does this guide us? What is the bottom of this barrel that we&#x27;re racing to?<p>Ask yourself:<p>- When do we just give up on the story-body and just post the headline?<p>- At what point is it more profitable for news outlets to be acquired by corporations seeking to sell more goods?<p>- When does the news <i>become</i> the advertisement?<p>[o] - This Mitch McConnell Dildo Is (Actually) Here for a Good Cause - https:&#x2F;&#x2F;www.vice.com&#x2F;en&#x2F;article&#x2F;jgpvyx&#x2F;mitch-mcconnell-dame-dildo -",
+        "author": "aliqot",
+        "url": "",
+        "permalink": "https://news.ycombinator.com/item?id=33095644",
+        "created_utc": 1664978237,
+        "score": 3,
+        "num_comments": 2,
+        "over_18": false,
+        "is_self": true
+      },
+      "llm_filter": {
+        "is_relevant": true,
+        "mentions_taboola": true,
+        "mentions_realize_product": false,
+        "relevance_score": 9.0,
+        "raw_model_response": "Auto-accepted by filter: Strong indicator: taboola ad",
+        "filter_auto_accepted": true
+      },
+      "comments": [
+        {
+          "id": "33096538",
+          "post_id": "33095644",
+          "parent_id": "33095644",
+          "author": "tacostakohashi",
+          "body": "I think you are overanalyzing&#x2F;overthinking this a bit.<p>All of these things have pretty much already happened.<p>The headline is the story - if anything, it has gone one step further, the URL is the story, that&#x27;s what people copy and paste to their friends with the headline embedded, nobody clicks, and if they do they don&#x27;t read it.<p>Sometimes news organizations are acquired, e.g. Sleepopolis + any and all other such websites were just bought by mattress manufacturers. Bloomberg is kind of one of the better news outfits... but it&#x27;s also kind of just an ad to sell more terminals&#x2F;subscriptions. Yelp, Glassdoor, BBB, TripAdvisor, Angies List, etc... any kind of &quot;consumer review&quot; site always ends up totally captured by the folks being reviewed.<p>Standalone news orgs like NYT, News Corp&#x2F;FOX, etc just have cozy relationships with their advertisers, so it&#x27;s pretty much an outsourcing arrangement - there&#x27;s no need for advertisers to acquire, better that they just focus on their core business and buy ads.<p>This is what you get &#x2F; can expect for &quot;free&quot;, &quot;ad supported&quot;, etc. If you want quality information, you can get it, but you&#x27;ll have to pay for it.",
+          "created_utc": 1664982541,
+          "score": 0,
+          "depth": 0
+        },
+        {
+          "id": "33096847",
+          "post_id": "33095644",
+          "parent_id": "33095644",
+          "author": "throwaway29303",
+          "body": "I agree. My two cents[0].<p>And another thing about these inflammatory headlines is the Boomers VS. Millennials or something about Gen Z; and yet it seems everyone forgets about Gen X for some reason. It really makes one think. ;-)<p>[0] - <a href=\"https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=30177963\" rel=\"nofollow\">https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=30177963</a>",
+          "created_utc": 1664983803,
+          "score": 0,
+          "depth": 0
+        }
+      ]
+    },
+    {
+      "post": {
+        "id": "8574014",
+        "subreddit": "hackernews",
+        "title": "Ask HN: Ad Networks that support https?",
+        "selftext": "I am trying to find an ad network that will work for https pages but I can&#x27;t seem to find any reputable networks.<p>Right now I use AdSense and taboola, but I would like another full featured CPM ad network for standard size banner ads.<p>Any ideas?",
+        "author": "sslpls",
+        "url": "",
+        "permalink": "https://news.ycombinator.com/item?id=8574014",
+        "created_utc": 1415386070,
+        "score": 1,
+        "num_comments": 0,
+        "over_18": false,
+        "is_self": true
+      },
+      "llm_filter": {
+        "is_relevant": true,
+        "mentions_taboola": true,
+        "mentions_realize_product": false,
+        "relevance_score": 9.0,
+        "raw_model_response": "Auto-accepted by filter: Strong context (3 relevant terms)",
+        "filter_auto_accepted": true
+      },
+      "comments": []
+    },
+    {
+      "post": {
+        "id": "24071570",
+        "subreddit": "hackernews",
+        "title": "How to Become at User Acquisition with Native Advertising?",
+        "selftext": "Hey guys!<p>I wanted to let you know a good friend of mine (Lior Vexler) is hosting a Zoom webinar&#x2F;presentation about Native advertising next week. \nIf anyone wants to jump in (it&#x27;s for free for all of you guys), please email me at Itay.forer@gmail.com. I will send you all the details.<p>Here is some more info:<p>In this one hour session, Lior Vexler will share different strategies and tactics of effectively acquiring new users. He will explore, including content platforms such as Taboola &amp; Outbrain.<p>Why:<p>Every founder who just got funding knows how challenging it can be to focus the right time and energy for the right marketing efforts. There are many platforms out there, many strategies. Which one should you choose? Should the marketing efforts stay in-house or be leveraged to an agency? So many questions and decisions to be answered.<p>What Is Native Advertising?<p>Native advertising is the use of paid ads that match the look, feel, and function of the media format in which they appear. Content advertising is merely advertising your content. It&#x27;s an effective strategy because the competition for organic reach is off the charts.",
+        "author": "Itay_Forer",
+        "url": "",
+        "permalink": "https://news.ycombinator.com/item?id=24071570",
+        "created_utc": 1596726430,
+        "score": 1,
+        "num_comments": 0,
+        "over_18": false,
+        "is_self": true
+      },
+      "llm_filter": {
+        "is_relevant": true,
+        "mentions_taboola": true,
+        "mentions_realize_product": false,
+        "relevance_score": 9.0,
+        "raw_model_response": "Auto-accepted by filter: Strong context (3 relevant terms)",
+        "filter_auto_accepted": true
+      },
+      "comments": []
+    },
+    {
+      "post": {
+        "id": "20409693",
+        "subreddit": "hackernews",
+        "title": "Taboola, Outbrain and the Chum Supply Chain",
+        "selftext": "",
+        "author": "ksajadi",
+        "url": "https://themargins.substack.com/p/taboola-outbrain-and-the-chum-supply",
+        "permalink": "https://news.ycombinator.com/item?id=20409693",
+        "created_utc": 1562829444,
+        "score": 208,
+        "num_comments": 127,
+        "over_18": false,
+        "is_self": false
+      },
+      "llm_filter": {
+        "is_relevant": true,
+        "mentions_taboola": true,
+        "mentions_realize_product": false,
+        "relevance_score": 9.0,
+        "raw_model_response": "{\"is_relevant\": true, \"mentions_taboola\": true, \"mentions_realize_product\": false, \"relevance_score\": 9.0}"
+      },
+      "comments": [
+        {
+          "id": "20410249",
+          "post_id": "20409693",
+          "parent_id": "20409693",
+          "author": "k1m",
+          "body": "Here&#x27;s Adblock Plus adding Taboola to their &quot;Acceptable Ads&quot; programme to allow those ads to show - enabled by default when you install it: <a href=\"https:&#x2F;&#x2F;adblockplus.org&#x2F;forum&#x2F;viewtopic.php?f=12&amp;t=25991\" rel=\"nofollow\">https:&#x2F;&#x2F;adblockplus.org&#x2F;forum&#x2F;viewtopic.php?f=12&amp;t=25991</a><p>If you haven&#x27;t already switched, please install and encourage others to install uBlock Origin: <a href=\"https:&#x2F;&#x2F;github.com&#x2F;gorhill&#x2F;uBlock\" rel=\"nofollow\">https:&#x2F;&#x2F;github.com&#x2F;gorhill&#x2F;uBlock</a>",
+          "created_utc": 1562837517,
+          "score": 0,
+          "depth": 0
+        },
+        {
+          "id": "20409809",
+          "post_id": "20409693",
+          "parent_id": "20409693",
+          "author": "samdung",
+          "body": "Finally, someone is talking sense about these shitty Taboola, Outbrain clickbait ads.<p>I have all the reputed news sites asking me to disable adblockers only to be shown the scum links from Taboola and Outbrain. Most times ads from Taboola and Outbrain keep showing up even when i specifically disable those divs.",
+          "created_utc": 1562831052,
+          "score": 0,
+          "depth": 0
+        },
+        {
+          "id": "20411397",
+          "post_id": "20409693",
+          "parent_id": "20409693",
+          "author": "mehlmao",
+          "body": "A few years ago I got really into the (ad-supported) solitaire game included with Windows 10. I wasn&#x27;t really surprised that almost all the ads were Outbrain&#x2F;Taboola type chum, targeted at senior citizens. I was surprised that almost all of the ads were scams, promising 0% interest mortgage refinancing or threatening that you could lose your Medicare benefits, etc. I wonder why we haven&#x27;t seen backlash towards companies hosting obviously malicious ads.",
+          "created_utc": 1562852368,
+          "score": 0,
+          "depth": 0
+        },
+        {
+          "id": "20410433",
+          "post_id": "20409693",
+          "parent_id": "20409693",
+          "author": "alex_young",
+          "body": "Here&#x27;s what I don&#x27;t get:  What is being exchanged of value here?<p>In all but one case in this analysis, the only thing that is worth something is the click.  A click not leading to a credit card transaction.<p>Take the case of the 5G ad.  If you convince a user to click on that and then on one of the ads on the google results, someone gets $10.  Nothing of value unless the user also has interest in the super specialized networking equipment being sold, something that seems extraordinarily unlikely.<p>This is a form of fraud isn&#x27;t it?  You&#x27;re just putting a few million page views in the mix and calling it legitimate behavior when someone accidentally clicks once in a while.",
+          "created_utc": 1562840389,
+          "score": 0,
+          "depth": 0
+        },
+        {
+          "id": "20410229",
+          "post_id": "20409693",
+          "parent_id": "20409693",
+          "author": "pjc50",
+          "body": "So I was idly wondering whether the UK Advertising Standards Authority had had a runin with these people, and found surprisingly few examples.<p><a href=\"https:&#x2F;&#x2F;www.asa.org.uk&#x2F;rulings&#x2F;rakuten-europe-srl-a16-335037.html\" rel=\"nofollow\">https:&#x2F;&#x2F;www.asa.org.uk&#x2F;rulings&#x2F;rakuten-europe-srl-a16-335037...</a> mug with &quot;C&quot; handle and &quot;UNT&quot; body, banned<p><a href=\"https:&#x2F;&#x2F;www.asa.org.uk&#x2F;advice-online&#x2F;recognising-ads-native-advertising.html\" rel=\"nofollow\">https:&#x2F;&#x2F;www.asa.org.uk&#x2F;advice-online&#x2F;recognising-ads-native-...</a> Ruling on &quot;native advertising&quot;, mentions Outbrain ruling <a href=\"https:&#x2F;&#x2F;www.asa.org.uk&#x2F;rulings&#x2F;Outbrain-Inc-A13-251818.html\" rel=\"nofollow\">https:&#x2F;&#x2F;www.asa.org.uk&#x2F;rulings&#x2F;Outbrain-Inc-A13-251818.html</a>",
+          "created_utc": 1562837203,
+          "score": 0,
+          "depth": 0
+        },
+        {
+          "id": "20410124",
+          "post_id": "20409693",
+          "parent_id": "20409693",
+          "author": "etaioinshrdlu",
+          "body": "I have worked in ad tech. It was fun. These types of ads were a funny joke.<p>I have also worked for US defense related companies. It was also fun and the tech was top notch.<p>Most people&#x27;s jobs in the world seem to come at someone else&#x27;s expense if you think deeply enough. Quite a shame.",
+          "created_utc": 1562835704,
+          "score": 0,
+          "depth": 0
+        },
+        {
+          "id": "20409859",
+          "post_id": "20409693",
+          "parent_id": "20409693",
+          "author": "shedside",
+          "body": "I sincerely hate these accursed things. Loathe them. Installed an ad blocker with the specific intent to rid myself of them.",
+          "created_utc": 1562831828,
+          "score": 0,
+          "depth": 0
+        },
+        {
+          "id": "20410350",
+          "post_id": "20409693",
+          "parent_id": "20409693",
+          "author": "hope_canyon",
+          "body": "I interviewed for a role at outbrain as like a... Junior account manager or something, before retraining as a Dev. So glad i missed that noise. I was a tester at an agency and that was ok and worked on some cool stuff... But this would not have been my speed at all. I didn&#x27;t really know much about outbrain when I interviewed for the job, what an eye opening article.",
+          "created_utc": 1562838928,
+          "score": 0,
+          "depth": 0
+        },
+        {
+          "id": "20409835",
+          "post_id": "20409693",
+          "parent_id": "20409693",
+          "author": "ablation",
+          "body": "Easily one of the grubbiest forms of advertising on the web. Hollow, vapid and devoid of value other than for the advertiser. &quot;Chum&quot; is the right word.",
+          "created_utc": 1562831486,
+          "score": 0,
+          "depth": 0
+        },
+        {
+          "id": "20410943",
+          "post_id": "20409693",
+          "parent_id": "20409693",
+          "author": "blueboo",
+          "body": "A decade of free online news subsidized by the dying gasp of the news industry has set us up perfectly for this.<p>Going forward, that subsidization will finish evaporating and the only news media that can earn ad dollars will be either sponsored content or have chum strewn across them.  Buy gold, miracle cures, payday loan, t&amp;a.<p>Expect the chum to be optimized, enhanced, and enriched.",
+          "created_utc": 1562847730,
+          "score": 0,
+          "depth": 0
+        }
+      ]
+    },
+    {
+      "post": {
+        "id": "21175145",
+        "subreddit": "hackernews",
+        "title": "Taboola and Outbrain are merging to create a clickbait giant",
+        "selftext": "",
+        "author": "danso",
+        "url": "https://www.nytimes.com/2019/10/04/business/media/online-advertising-chumbox-merger.html",
+        "permalink": "https://news.ycombinator.com/item?id=21175145",
+        "created_utc": 1570396105,
+        "score": 125,
+        "num_comments": 62,
+        "over_18": false,
+        "is_self": false
+      },
+      "llm_filter": {
+        "is_relevant": true,
+        "mentions_taboola": true,
+        "mentions_realize_product": false,
+        "relevance_score": 9.5,
+        "raw_model_response": "{\"is_relevant\": true, \"mentions_taboola\": true, \"mentions_realize_product\": false, \"relevance_score\": 9.5}"
+      },
+      "comments": [
+        {
+          "id": "21189960",
+          "post_id": "21175145",
+          "parent_id": "21175145",
+          "author": "Nextgrid",
+          "body": "Why is this cancer allowed to exist and not blocked by every antimalware&#x2F;safe browsing lists? They fit most definitions of malware, it&#x27;s annoying, designed to trick&#x2F;mislead you, can lead you to other malware, and spies on you (so it&#x27;s spyware as well).",
+          "created_utc": 1570522975,
+          "score": 0,
+          "depth": 0
+        },
+        {
+          "id": "21190013",
+          "post_id": "21175145",
+          "parent_id": "21175145",
+          "author": "Angostura",
+          "body": "&gt; Adam Singolda, who runs Taboola and will take charge of the combined company, characterized the deal in a statement as a way to “create a more robust competitor to Facebook and Google” while “strengthening journalism.”<p>Do potential investors&#x2F;employees actually believe this kind of drivel or is it a sort of expected formalistic dance?",
+          "created_utc": 1570523478,
+          "score": 0,
+          "depth": 0
+        },
+        {
+          "id": "21191637",
+          "post_id": "21175145",
+          "parent_id": "21175145",
+          "author": "MarkMc",
+          "body": "I&#x27;m very surprised that I see Outbrain ads when I visit cnn.com.  Google have a decade of of my email history, my search queries, my Android location, my YouTube history, etc, etc.  Yet apparently Outbrain&#x27;s advertising is so effective that they can offer more money to CNN to place ads.  What is going on?",
+          "created_utc": 1570538876,
+          "score": 0,
+          "depth": 0
+        },
+        {
+          "id": "21190012",
+          "post_id": "21175145",
+          "parent_id": "21175145",
+          "author": "dreen",
+          "body": "Had a dubious pleasure to implement both on a website of a major publisher. Eventually both got removed due to low business value. They didn&#x27;t actually drive any traffic.",
+          "created_utc": 1570523474,
+          "score": 0,
+          "depth": 0
+        },
+        {
+          "id": "21191946",
+          "post_id": "21175145",
+          "parent_id": "21175145",
+          "author": "KoftaBob",
+          "body": "When the founders look back at their life and see &quot;litter the internet with garbage&quot; as their biggest accomplishment, I wonder if the money will be worth it.",
+          "created_utc": 1570540849,
+          "score": 0,
+          "depth": 0
+        },
+        {
+          "id": "21198158",
+          "post_id": "21175145",
+          "parent_id": "21175145",
+          "author": "Scottn1",
+          "body": "These two cancerous clickbait entities were basically 95% of the sole reason I started using adblockers to begin with many years ago.  I can&#x27;t stand seeing their crap on any webpage I visit. It is filth that ruins the Internet for majority of people who don&#x27;t have a mental filter to not click on this stuff.<p>The other 5% reason is malicious ads&#x2F;tracking. I&#x27;d actually be open to not running adblockers anymore if these two reasons were eliminated from the web. I&#x27;d be fine with small non tracking ads from non cringe worthy gigantic ad networks that invade basically every webpage I visit nowadays.<p>PS - Ublock Origin actually doesn&#x27;t block these two networks (Taboola&#x2F;Outbrain) by default - you have to enable Fanboys Annoyance list to do so.",
+          "created_utc": 1570575298,
+          "score": 0,
+          "depth": 0
+        },
+        {
+          "id": "21194258",
+          "post_id": "21175145",
+          "parent_id": "21175145",
+          "author": "justforyou",
+          "body": "Nevermind adblockers, these outlets deserve to be blocked at the hosts file level.",
+          "created_utc": 1570553481,
+          "score": 0,
+          "depth": 0
+        },
+        {
+          "id": "21191807",
+          "post_id": "21175145",
+          "parent_id": "21175145",
+          "author": "donohoe",
+          "body": "As much as I dislike seeing them on publisher websites this is just going to be further bad news for publishers in finding revenue outside of ads and subscriptions.<p>We&#x27;re just going to see crappier content at a larger scale that earns them less money due to significantly reduced competition.",
+          "created_utc": 1570539967,
+          "score": 0,
+          "depth": 0
+        },
+        {
+          "id": "21190422",
+          "post_id": "21175145",
+          "parent_id": "21175145",
+          "author": "mianos",
+          "body": "Might this help by reducing the size of the pi-hole black list?",
+          "created_utc": 1570528462,
+          "score": 0,
+          "depth": 0
+        },
+        {
+          "id": "21192588",
+          "post_id": "21175145",
+          "parent_id": "21175145",
+          "author": "thowawyve",
+          "body": "Taboola and Outbrain are like the Mossad in your livingroom. They spy on your browsing habits for who knows what reasons",
+          "created_utc": 1570544432,
+          "score": 0,
+          "depth": 0
+        }
+      ]
+    },
+    {
+      "post": {
+        "id": "9514333",
+        "subreddit": "hackernews",
+        "title": "Taboola ($157mm VC funding) partners with malware; Akamai and Amazon complicit",
+        "selftext": "I&#x27;m at my moms house for Mother&#x27;s Day weekend and cleaned her computer after she told me she was getting a lot of popups. One of the frequent popups was for a site called suchhappy.com which looks like a BuzzFeed&#x2F;viral content site. You can check out suchhappy.com and see that Taboola partners with them and has big ads showing at the top on the homepage and all over the place when you click into an article.<p>To see posts about suchhappy.com being malware, look at the below links. After following the instructions I was finally able to get rid of it.<p>* http:&#x2F;&#x2F;www.fix-exeerror.com&#x2F;how-do-i-remove-suchhappy-com-step-by-step-removal-guide&#x2F;<p>* http:&#x2F;&#x2F;www.malwareremovalvideo.com&#x2F;fixed-how-can-i-stop-the-suchhappy-com-pop-up-removal-tips&#x2F;<p>* http:&#x2F;&#x2F;computervirusremovalfixer.blogspot.com&#x2F;2015&#x2F;04&#x2F;stop-suchhappycom-pop-up-guide-to.html<p>* http:&#x2F;&#x2F;www.bleepingcomputer.com&#x2F;forums&#x2F;t&#x2F;574578&#x2F;suchhappy-redirect-virus-and-getprivate-shopper-7-pro-x64-firefox&#x2F;<p>* http:&#x2F;&#x2F;helpremovepopups.com&#x2F;get-rid-of-suchhappy-com-virus-permanently&#x2F;<p>When will VC funded companies stop using malware to grow? How can we, as investors, entrepreneurs, and techies, place pressure on these advertising companies to stop supporting malware? Akamai and Amazon are complicit because they are the CDN on a bunch of the links on the page. Additionally, there are companies called &quot;UDM Serve&quot; and &quot;RevContent&quot; with ads on the page.<p>What can we do?",
+        "author": "momscomputer",
+        "url": "",
+        "permalink": "https://news.ycombinator.com/item?id=9514333",
+        "created_utc": 1431121630,
+        "score": 15,
+        "num_comments": 3,
+        "over_18": false,
+        "is_self": true
+      },
+      "llm_filter": {
+        "is_relevant": true,
+        "mentions_taboola": true,
+        "mentions_realize_product": false,
+        "relevance_score": 9.5,
+        "raw_model_response": "{\"is_relevant\": true, \"mentions_taboola\": true, \"mentions_realize_product\": false, \"relevance_score\": 9.5}"
+      },
+      "comments": [
+        {
+          "id": "9514694",
+          "post_id": "9514333",
+          "parent_id": "9514333",
+          "author": "Eridrus",
+          "body": "The ad ecosystem is a lot more complicated than you know.<p>It is not often trivial for suchhappy.com to know who is driving traffic to them (they do source traffic, but how would you tell if it&#x27;s malware or user initiated? there are piles of legitimate looking fronts out there), let alone people whose ads end up on suchhappy.com (who, for similar reasons may not even know where there ads actually ran).",
+          "created_utc": 1431127454,
+          "score": 0,
+          "depth": 0
+        },
+        {
+          "id": "9514968",
+          "post_id": "9514333",
+          "parent_id": "9514333",
+          "author": "pikzen",
+          "body": "&gt;Akamai and Amazon are complicit because they are the CDN on a bunch of the links on the page.<p>Yeah, and google is an accomplice to thepiratebay for having links to them on their search results.<p>CDNs do not review what content is served from their servers. Send them a complaint and they will, maybe.",
+          "created_utc": 1431133035,
+          "score": 0,
+          "depth": 0
+        },
+        {
+          "id": "9514598",
+          "post_id": "9514333",
+          "parent_id": "9514333",
+          "author": "nickphx",
+          "body": "don&#x27;t let your mom install toolbars?\nteach end users how to read and understand dialog boxes instead of blindly clicking &quot;OK!&quot; ?",
+          "created_utc": 1431125887,
+          "score": 0,
+          "depth": 0
+        }
+      ]
+    },
+    {
+      "post": {
+        "id": "21144957",
+        "subreddit": "hackernews",
+        "title": "Taboola and Outbrain to Merge",
+        "selftext": "",
+        "author": "oldgradstudent",
+        "url": "https://www.calcalistech.com/ctech/articles/0,7340,L-3771413,00.html",
+        "permalink": "https://news.ycombinator.com/item?id=21144957",
+        "created_utc": 1570093050,
+        "score": 6,
+        "num_comments": 0,
+        "over_18": false,
+        "is_self": false
+      },
+      "llm_filter": {
+        "is_relevant": true,
+        "mentions_taboola": true,
+        "mentions_realize_product": false,
+        "relevance_score": 9.5,
+        "raw_model_response": "{\"is_relevant\": true, \"mentions_taboola\": true, \"mentions_realize_product\": false, \"relevance_score\": 9.5}"
+      },
+      "comments": []
+    },
+    {
+      "post": {
+        "id": "21148193",
+        "subreddit": "hackernews",
+        "title": "Taboola and Outbrain merge in $850M deal to take on Google and Facebook",
+        "selftext": "",
+        "author": "Yuval_Halevi",
+        "url": "https://techcrunch.com/2019/10/03/taboola-outbrain/",
+        "permalink": "https://news.ycombinator.com/item?id=21148193",
+        "created_utc": 1570116914,
+        "score": 5,
+        "num_comments": 1,
+        "over_18": false,
+        "is_self": false
+      },
+      "llm_filter": {
+        "is_relevant": true,
+        "mentions_taboola": true,
+        "mentions_realize_product": false,
+        "relevance_score": 9.5,
+        "raw_model_response": "{\"is_relevant\": true, \"mentions_taboola\": true, \"mentions_realize_product\": false, \"relevance_score\": 9.5}"
+      },
+      "comments": [
+        {
+          "id": "21149203",
+          "post_id": "21148193",
+          "parent_id": "21148193",
+          "author": "GoRudy",
+          "body": "I&#x27;m fairly certain this is a net terrible for publishers.<p>The only leverage publishers had besides saying no was to be able to move between Taboola or Outbrain to leverage better payouts from the other side.",
+          "created_utc": 1570122349,
+          "score": 0,
+          "depth": 0
+        }
+      ]
+    },
+    {
+      "post": {
+        "id": "21309401",
+        "subreddit": "hackernews",
+        "title": "The Truth About Taboola, Outbrain and Gemini",
+        "selftext": "",
+        "author": "jkuria",
+        "url": "https://capitalandgrowth.org/questions/1763/has-anyone-had-success-with-taboolaoutbraingemini.html",
+        "permalink": "https://news.ycombinator.com/item?id=21309401",
+        "created_utc": 1571632944,
+        "score": 5,
+        "num_comments": 0,
+        "over_18": false,
+        "is_self": false
+      },
+      "llm_filter": {
+        "is_relevant": true,
+        "mentions_taboola": true,
+        "mentions_realize_product": false,
+        "relevance_score": 9.0,
+        "raw_model_response": "{\"is_relevant\": true, \"mentions_taboola\": true, \"mentions_realize_product\": false, \"relevance_score\": 9.0}"
+      },
+      "comments": []
+    },
+    {
+      "post": {
+        "id": "24424015",
+        "subreddit": "hackernews",
+        "title": "Taboola and Outbrain call off their $850M merger",
+        "selftext": "",
+        "author": "KoftaBob",
+        "url": "https://techcrunch.com/2020/09/08/taboola-and-outbrain-call-off-their-850m-merger/",
+        "permalink": "https://news.ycombinator.com/item?id=24424015",
+        "created_utc": 1599675465,
+        "score": 4,
+        "num_comments": 1,
+        "over_18": false,
+        "is_self": false
+      },
+      "llm_filter": {
+        "is_relevant": true,
+        "mentions_taboola": true,
+        "mentions_realize_product": false,
+        "relevance_score": 9.5,
+        "raw_model_response": "{\"is_relevant\": true, \"mentions_taboola\": true, \"mentions_realize_product\": false, \"relevance_score\": 9.5}"
+      },
+      "comments": [
+        {
+          "id": "24424188",
+          "post_id": "24424015",
+          "parent_id": "24424015",
+          "author": "Lagogarda",
+          "body": "Taboola and Outbrain ads, when you want your site to look spammy as f<i></i><i>",
+          "created_utc": 1599676519,
+          "score": 0,
+          "depth": 0
+        }
+      ]
+    },
+    {
+      "post": {
+        "id": "21145799",
+        "subreddit": "hackernews",
+        "title": "Taboola and Outbrain, the two worst companies in the world, are merging",
+        "selftext": "",
+        "author": "seapunk",
+        "url": "https://thenextweb.com/tech/2019/10/03/taboola-and-outbrain-the-two-worst-companies-in-the-world-are-merging/",
+        "permalink": "https://news.ycombinator.com/item?id=21145799",
+        "created_utc": 1570102503,
+        "score": 4,
+        "num_comments": 1,
+        "over_18": false,
+        "is_self": false
+      },
+      "llm_filter": {
+        "is_relevant": true,
+        "mentions_taboola": true,
+        "mentions_realize_product": false,
+        "relevance_score": 9.0,
+        "raw_model_response": "{\"is_relevant\": true, \"mentions_taboola\": true, \"mentions_realize_product\": false, \"relevance_score\": 9.0}"
+      },
+      "comments": [
+        {
+          "id": "21145815",
+          "post_id": "21145799",
+          "parent_id": "21145799",
+          "author": "seapunk",
+          "body": "In case you missed this interesting article + thread: <a href=\"https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=20409693\" rel=\"nofollow\">https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=20409693</a>",
+          "created_utc": 1570102643,
+          "score": 0,
+          "depth": 0
+        }
+      ]
+    },
+    {
+      "post": {
+        "id": "11216349",
+        "subreddit": "hackernews",
+        "title": "Outbrain outfoxes Taboola and buys out adtech startup Revee",
+        "selftext": "",
+        "author": "tekheletknight",
+        "url": "http://geektime.com/2016/03/03/outbrain-outfoxes-taboola-and-buys-out-adtech-startup-revee/",
+        "permalink": "https://news.ycombinator.com/item?id=11216349",
+        "created_utc": 1457007368,
+        "score": 4,
+        "num_comments": 0,
+        "over_18": false,
+        "is_self": false
+      },
+      "llm_filter": {
+        "is_relevant": true,
+        "mentions_taboola": true,
+        "mentions_realize_product": false,
+        "relevance_score": 7.5,
+        "raw_model_response": "{\"is_relevant\": true, \"mentions_taboola\": true, \"mentions_realize_product\": false, \"relevance_score\": 7.5}"
+      },
+      "comments": []
+    },
+    {
+      "post": {
+        "id": "25988188",
+        "subreddit": "hackernews",
+        "title": "Trying Taboola Native Advertising – What It’s Like and Should You Try It",
+        "selftext": "",
+        "author": "vessio",
+        "url": "https://websitemaintenance.medium.com/getting-started-with-taboola-native-advertising-what-its-like-should-you-try-it-2cec4032be53",
+        "permalink": "https://news.ycombinator.com/item?id=25988188",
+        "created_utc": 1612184007,
+        "score": 3,
+        "num_comments": 2,
+        "over_18": false,
+        "is_self": false
+      },
+      "llm_filter": {
+        "is_relevant": true,
+        "mentions_taboola": true,
+        "mentions_realize_product": false,
+        "relevance_score": 9.5,
+        "raw_model_response": "{\"is_relevant\": true, \"mentions_taboola\": true, \"mentions_realize_product\": false, \"relevance_score\": 9.5}"
+      },
+      "comments": [
+        {
+          "id": "25988436",
+          "post_id": "25988188",
+          "parent_id": "25988188",
+          "author": "PaulHoule",
+          "body": "I smell a scam.<p>Taboolah shows the same ads it did 5 years ago.  The wrong geographic and other targeting has been a running joke in that time.<p>You see trade publication articles that say they process the data on some supercomputer in Isreal so you know Mossad has the email addresses of gullible old people.<p>Somebody should shut them down.",
+          "created_utc": 1612185920,
+          "score": 0,
+          "depth": 0
+        }
+      ]
+    },
+    {
+      "post": {
+        "id": "21186560",
+        "subreddit": "hackernews",
+        "title": "Taboola Is Buying Outbrain",
+        "selftext": "",
+        "author": "bookofjoe",
+        "url": "https://www.vox.com/recode/2019/10/3/20896367/taboola-outbrain-advertising-facebook-google",
+        "permalink": "https://news.ycombinator.com/item?id=21186560",
+        "created_utc": 1570486514,
+        "score": 3,
+        "num_comments": 0,
+        "over_18": false,
+        "is_self": false
+      },
+      "llm_filter": {
+        "is_relevant": true,
+        "mentions_taboola": true,
+        "mentions_realize_product": false,
+        "relevance_score": 9.5,
+        "raw_model_response": "{\"is_relevant\": true, \"mentions_taboola\": true, \"mentions_realize_product\": false, \"relevance_score\": 9.5}"
+      },
+      "comments": []
+    },
+    {
+      "post": {
+        "id": "21147838",
+        "subreddit": "hackernews",
+        "title": "Taboola and Outbrain to Merge",
+        "selftext": "",
+        "author": "tech234a",
+        "url": "https://www.wsj.com/articles/digital-ad-companies-taboola-and-outbrain-to-merge-11570108781?mod=rsswn",
+        "permalink": "https://news.ycombinator.com/item?id=21147838",
+        "created_utc": 1570114967,
+        "score": 3,
+        "num_comments": 0,
+        "over_18": false,
+        "is_self": false
+      },
+      "llm_filter": {
+        "is_relevant": true,
+        "mentions_taboola": true,
+        "mentions_realize_product": false,
+        "relevance_score": 9.5,
+        "raw_model_response": "{\"is_relevant\": true, \"mentions_taboola\": true, \"mentions_realize_product\": false, \"relevance_score\": 9.5}"
+      },
+      "comments": []
+    },
+    {
+      "post": {
+        "id": "19826029",
+        "subreddit": "hackernews",
+        "title": "Taboola, Outbrain and the Chum Supply Chain",
+        "selftext": "",
+        "author": "cancan",
+        "url": "https://themargins.substack.com/p/taboola-outbrain-and-the-chum-supply",
+        "permalink": "https://news.ycombinator.com/item?id=19826029",
+        "created_utc": 1556973216,
+        "score": 3,
+        "num_comments": 0,
+        "over_18": false,
+        "is_self": false
+      },
+      "llm_filter": {
+        "is_relevant": true,
+        "mentions_taboola": true,
+        "mentions_realize_product": false,
+        "relevance_score": 9.0,
+        "raw_model_response": "{\"is_relevant\": true, \"mentions_taboola\": true, \"mentions_realize_product\": false, \"relevance_score\": 9.0}"
+      },
+      "comments": []
+    },
+    {
+      "post": {
+        "id": "21148840",
+        "subreddit": "hackernews",
+        "title": "Taboola and Outbrain Merging into a $2B Company to Better Compete with Facebook",
+        "selftext": "",
+        "author": "potench",
+        "url": "https://www.forbes.com/sites/martyswant/2019/10/03/taboola-and-outbrain-are-merging-into-a-2-billion-company-to-better-compete-with-facebook/",
+        "permalink": "https://news.ycombinator.com/item?id=21148840",
+        "created_utc": 1570120307,
+        "score": 2,
+        "num_comments": 1,
+        "over_18": false,
+        "is_self": false
+      },
+      "llm_filter": {
+        "is_relevant": true,
+        "mentions_taboola": true,
+        "mentions_realize_product": false,
+        "relevance_score": 9.5,
+        "raw_model_response": "{\"is_relevant\": true, \"mentions_taboola\": true, \"mentions_realize_product\": false, \"relevance_score\": 9.5}"
+      },
+      "comments": [
+        {
+          "id": "21149338",
+          "post_id": "21148840",
+          "parent_id": "21148840",
+          "author": "dredmorbius",
+          "body": "Two chums join forces to take on a third.<p><a href=\"https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=20409693\" rel=\"nofollow\">https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=20409693</a>",
+          "created_utc": 1570122927,
+          "score": 0,
+          "depth": 0
+        }
+      ]
+    },
+    {
+      "post": {
+        "id": "40997379",
+        "subreddit": "hackernews",
+        "title": "Taboola scores Apple advertising deal, shares surge",
+        "selftext": "",
+        "author": "talldayo",
+        "url": "https://www.reuters.com/business/media-telecom/taboola-scores-apple-advertising-deal-shares-surge-2024-07-16/",
+        "permalink": "https://news.ycombinator.com/item?id=40997379",
+        "created_utc": 1721320909,
+        "score": 2,
+        "num_comments": 0,
+        "over_18": false,
+        "is_self": false
+      },
+      "llm_filter": {
+        "is_relevant": true,
+        "mentions_taboola": true,
+        "mentions_realize_product": false,
+        "relevance_score": 9.5,
+        "raw_model_response": "{\"is_relevant\": true, \"mentions_taboola\": true, \"mentions_realize_product\": false, \"relevance_score\": 9.5}"
+      },
+      "comments": []
+    },
+    {
+      "post": {
+        "id": "21149227",
+        "subreddit": "hackernews",
+        "title": "Outbrain and Taboola to Merge - $2b deal",
+        "selftext": "",
+        "author": "celestialcheese",
+        "url": "https://www.adweek.com/programmatic/outbrain-taboola-merger/",
+        "permalink": "https://news.ycombinator.com/item?id=21149227",
+        "created_utc": 1570122449,
+        "score": 2,
+        "num_comments": 0,
+        "over_18": false,
+        "is_self": false
+      },
+      "llm_filter": {
+        "is_relevant": true,
+        "mentions_taboola": true,
+        "mentions_realize_product": false,
+        "relevance_score": 9.5,
+        "raw_model_response": "{\"is_relevant\": true, \"mentions_taboola\": true, \"mentions_realize_product\": false, \"relevance_score\": 9.5}"
+      },
+      "comments": []
+    },
+    {
+      "post": {
+        "id": "20033697",
+        "subreddit": "hackernews",
+        "title": "Taboola, Outbrain and the Chum Supply Chain: The Dark Underbelly of Ad-Tech",
+        "selftext": "",
+        "author": "henridf",
+        "url": "https://themargins.substack.com/p/taboola-outbrain-and-the-chum-supply",
+        "permalink": "https://news.ycombinator.com/item?id=20033697",
+        "created_utc": 1559073173,
+        "score": 2,
+        "num_comments": 0,
+        "over_18": false,
+        "is_self": false
+      },
+      "llm_filter": {
+        "is_relevant": true,
+        "mentions_taboola": true,
+        "mentions_realize_product": false,
+        "relevance_score": 9.0,
+        "raw_model_response": "{\"is_relevant\": true, \"mentions_taboola\": true, \"mentions_realize_product\": false, \"relevance_score\": 9.0}"
+      },
+      "comments": []
+    },
+    {
+      "post": {
+        "id": "19900045",
+        "subreddit": "hackernews",
+        "title": "Taboola, Outbrain and the Chum Supply Chain",
+        "selftext": "",
+        "author": "Breadmaker",
+        "url": "https://themargins.substack.com/p/taboola-outbrain-and-the-chum-supply",
+        "permalink": "https://news.ycombinator.com/item?id=19900045",
+        "created_utc": 1557760299,
+        "score": 2,
+        "num_comments": 0,
+        "over_18": false,
+        "is_self": false
+      },
+      "llm_filter": {
+        "is_relevant": true,
+        "mentions_taboola": true,
+        "mentions_realize_product": false,
+        "relevance_score": 8.5,
+        "raw_model_response": "{\"is_relevant\": true, \"mentions_taboola\": true, \"mentions_realize_product\": false, \"relevance_score\": 8.5}"
+      },
+      "comments": []
+    },
+    {
+      "post": {
+        "id": "19831067",
+        "subreddit": "hackernews",
+        "title": "Taboola, Outbrain and the Chum Supply Chain",
+        "selftext": "",
+        "author": "coloneltcb",
+        "url": "https://themargins.substack.com/p/taboola-outbrain-and-the-chum-supply",
+        "permalink": "https://news.ycombinator.com/item?id=19831067",
+        "created_utc": 1557028631,
+        "score": 2,
+        "num_comments": 0,
+        "over_18": false,
+        "is_self": false
+      },
+      "llm_filter": {
+        "is_relevant": true,
+        "mentions_taboola": true,
+        "mentions_realize_product": false,
+        "relevance_score": 9.0,
+        "raw_model_response": "{\"is_relevant\": true, \"mentions_taboola\": true, \"mentions_realize_product\": false, \"relevance_score\": 9.0}"
+      },
+      "comments": []
+    },
+    {
+      "post": {
+        "id": "24122899",
+        "subreddit": "hackernews",
+        "title": "Taboola, the Leading Advertising Platform, Switches from Oracle to Azul Java",
+        "selftext": "",
+        "author": "NeAgar",
+        "url": "https://www.azul.com/resources-hub/webinars-2/azul-webinar-why-taboola-switched-from-oracle-to-azul-java",
+        "permalink": "https://news.ycombinator.com/item?id=24122899",
+        "created_utc": 1597166471,
+        "score": 1,
+        "num_comments": 1,
+        "over_18": false,
+        "is_self": false
+      },
+      "llm_filter": {
+        "is_relevant": true,
+        "mentions_taboola": true,
+        "mentions_realize_product": false,
+        "relevance_score": 9.2,
+        "raw_model_response": "{\"is_relevant\": true, \"mentions_taboola\": true, \"mentions_realize_product\": false, \"relevance_score\": 9.2}"
+      },
+      "comments": [
+        {
+          "id": "24122900",
+          "post_id": "24122899",
+          "parent_id": "24122899",
+          "author": "NeAgar",
+          "body": "Taboola describes how Azul Zing reduces server footprint by 30-50% and achieves unprecedented performance, stability, and security in delivering content to 1.4 billion people monthly.",
+          "created_utc": 1597166471,
+          "score": 0,
+          "depth": 0
+        }
+      ]
+    },
+    {
+      "post": {
+        "id": "21159855",
+        "subreddit": "hackernews",
+        "title": "You Might Also Like This Merger: Israel's Taboola, Outbrain to Join Forces",
+        "selftext": "",
+        "author": "JetSpiegel",
+        "url": "https://www.haaretz.com/israel-news/.premium-you-might-also-like-this-merger-israel-s-taboola-outbrain-to-join-forces-1.7941500",
+        "permalink": "https://news.ycombinator.com/item?id=21159855",
+        "created_utc": 1570209936,
+        "score": 1,
+        "num_comments": 1,
+        "over_18": false,
+        "is_self": false
+      },
+      "llm_filter": {
+        "is_relevant": true,
+        "mentions_taboola": true,
+        "mentions_realize_product": false,
+        "relevance_score": 9.0,
+        "raw_model_response": "{\"is_relevant\": true, \"mentions_taboola\": true, \"mentions_realize_product\": false, \"relevance_score\": 9.0}"
+      },
+      "comments": [
+        {
+          "id": "21160506",
+          "post_id": "21159855",
+          "parent_id": "21159855",
+          "author": "bediger4000",
+          "body": "My personal experience with mergers is that prices usually go up (never down, might stay the same), customer service becomes less useful, and useful or unique products go away.<p>I applaud the merger of Taboola and Outbrain. Maybe you should do some domain name consolidation, too? You know, synergetically combine things, simplify them? Make them easier to block for my house with dnsmasq?",
+          "created_utc": 1570213995,
+          "score": 0,
+          "depth": 0
+        }
+      ]
+    },
+    {
+      "post": {
+        "id": "8814524",
+        "subreddit": "hackernews",
+        "title": "Watchout Outbrain. Taboola raises $100M in a Pre-IPO funding round",
+        "selftext": "",
+        "author": "AlisonHX",
+        "url": "http://www.geektime.com/2014/12/30/content-recommender-taboola-raises-100-million-in-pre-ipo-funding-round/",
+        "permalink": "https://news.ycombinator.com/item?id=8814524",
+        "created_utc": 1419946797,
+        "score": 1,
+        "num_comments": 0,
+        "over_18": false,
+        "is_self": false
+      },
+      "llm_filter": {
+        "is_relevant": true,
+        "mentions_taboola": true,
+        "mentions_realize_product": false,
+        "relevance_score": 9.5,
+        "raw_model_response": "{\"is_relevant\": true, \"mentions_taboola\": true, \"mentions_realize_product\": false, \"relevance_score\": 9.5}"
+      },
+      "comments": []
+    },
+    {
+      "post": {
+        "id": "7049592",
+        "subreddit": "hackernews",
+        "title": "Facebooks New Content Ads: RIP Outbrain, Taboola, Gravity, Disqus",
+        "selftext": "",
+        "author": "jcwinter",
+        "url": "http://iamjustinwinter.com/facebook-new-content-ad-format-rip-outbrain-taboola-gravity/",
+        "permalink": "https://news.ycombinator.com/item?id=7049592",
+        "created_utc": 1389604640,
+        "score": 1,
+        "num_comments": 0,
+        "over_18": false,
+        "is_self": false
+      },
+      "llm_filter": {
+        "is_relevant": true,
+        "mentions_taboola": true,
+        "mentions_realize_product": false,
+        "relevance_score": 7.5,
+        "raw_model_response": "{\"is_relevant\": true, \"mentions_taboola\": true, \"mentions_realize_product\": false, \"relevance_score\": 7.5}"
+      },
+      "comments": []
+    },
+    {
+      "post": {
+        "id": "3396428",
+        "subreddit": "hackernews",
+        "title": "Taboola goes international, launches sponsored video placement",
+        "selftext": "",
+        "author": "FluidDjango",
+        "url": "http://gigaom.com/video/taboola-sponsored-international/",
+        "permalink": "https://news.ycombinator.com/item?id=3396428",
+        "created_utc": 1325006332,
+        "score": 1,
+        "num_comments": 0,
+        "over_18": false,
+        "is_self": false
+      },
+      "llm_filter": {
+        "is_relevant": true,
+        "mentions_taboola": true,
+        "mentions_realize_product": false,
+        "relevance_score": 9.0,
+        "raw_model_response": "{\"is_relevant\": true, \"mentions_taboola\": true, \"mentions_realize_product\": false, \"relevance_score\": 9.0}"
+      },
+      "comments": []
+    },
+    {
+      "post": {
+        "id": "19648934",
+        "subreddit": "hackernews",
+        "title": "Ecommerce Success on Taboola, Outbrain and Gemini",
+        "selftext": "",
+        "author": "jkuria",
+        "url": "https://capitalandgrowth.org/questions/1763/has-anyone-had-success-with-taboolaoutbraingemini.html",
+        "permalink": "https://news.ycombinator.com/item?id=19648934",
+        "created_utc": 1555102898,
+        "score": 1,
+        "num_comments": 0,
+        "over_18": false,
+        "is_self": false
+      },
+      "llm_filter": {
+        "is_relevant": true,
+        "mentions_taboola": true,
+        "mentions_realize_product": false,
+        "relevance_score": 8.5,
+        "raw_model_response": "{\"is_relevant\": true, \"mentions_taboola\": true, \"mentions_realize_product\": false, \"relevance_score\": 8.5}"
+      },
+      "comments": []
+    },
+    {
+      "post": {
+        "id": "15849359",
+        "subreddit": "hackernews",
+        "title": "Ask HN: Outbrain/Taboola for boosting startup press coverage?",
+        "selftext": "After getting some good press, a friend who works in PR suggested using Outbrain or Taboola to get more benefit out of the coverage. Has anyone tried this?<p>Additional background: we were covered in The Atlantic and subsequently interviewed on NPR radio. My thinking is that high-quality websites like these would stand out among the typical Outbrain&#x2F;Taboola stuff. But from talking with Outbrain folks, it sounds like we should expect to pay about 50 cents per click, which seems pretty pricey. Curious to know if others have tried to boost press coverage in this way, and if so what they&#x27;ve learned.<p>1: http:&#x2F;&#x2F;www.theatlantic.com&#x2F;technology&#x2F;archive&#x2F;2016&#x2F;05&#x2F;a-better-way-to-read&#x2F;482127&#x2F;<p>2: http:&#x2F;&#x2F;thetakeaway.org&#x2F;story&#x2F;eureka-moment-makes-reading-easier&#x2F;",
+        "author": "gnicholas",
+        "url": "",
+        "permalink": "https://news.ycombinator.com/item?id=15849359",
+        "created_utc": 1512441703,
+        "score": 1,
+        "num_comments": 0,
+        "over_18": false,
+        "is_self": true
+      },
+      "llm_filter": {
+        "is_relevant": true,
+        "mentions_taboola": true,
+        "mentions_realize_product": false,
+        "relevance_score": 8.7,
+        "raw_model_response": "{\"is_relevant\": true, \"mentions_taboola\": true, \"mentions_realize_product\": false, \"relevance_score\": 8.7}"
+      },
+      "comments": []
+    },
+    {
+      "post": {
+        "id": "10452494",
+        "subreddit": "hackernews",
+        "title": "The ROI of Content Distribution Networks: Outbrain vs. Taboola vs. NRelate",
+        "selftext": "",
+        "author": "grflynn",
+        "url": "https://moz.com/blog/maximize-roi-via-content-distribution-networks",
+        "permalink": "https://news.ycombinator.com/item?id=10452494",
+        "created_utc": 1445877304,
+        "score": 1,
+        "num_comments": 0,
+        "over_18": false,
+        "is_self": false
+      },
+      "llm_filter": {
+        "is_relevant": true,
+        "mentions_taboola": true,
+        "mentions_realize_product": false,
+        "relevance_score": 9.0,
+        "raw_model_response": "{\"is_relevant\": true, \"mentions_taboola\": true, \"mentions_realize_product\": false, \"relevance_score\": 9.0}"
+      },
+      "comments": []
+    }
+  ]
+}
