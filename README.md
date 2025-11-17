@@ -26,6 +26,10 @@ This repository contains everything needed to collect social chatter about Taboo
 ## Filters
 ![20251117-1327-18 0383466](https://github.com/user-attachments/assets/e46f9c8e-121f-43e7-8e0f-b1d30bfba55d)
 
+## Changing Data Source
+
+![20251117-1329-03 8317740](https://github.com/user-attachments/assets/ef3e71fa-21d8-4575-8092-649cb19c5418)
+
 
 ## Prerequisites
 
